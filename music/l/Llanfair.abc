@@ -1,0 +1,26 @@
+X:1
+T:LLANFAIR
+C:Robert Williams, 1817; harm, John Roberts 1837
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-14 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 4. Also in The English Hymnal (London: Oxford University Press, 1906), # 143.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:F
+V:1 clef=treble stem=up
+F/4 !sp!y F/4 !sp!y A/4 !sp!y A/4 | c/4 !sp!y (B/8A/8) !sp!y G/2 | c3/8 B/8 !sp!y A/4 !sp!y (B/8A/8) | G/2 !sp!y F/2 | F/4 !sp!y F/4 !sp!y A/4 !sp!y A/4 | c/4 !sp!y (B/8A/8) !sp!y G/2 | c3/8 B/8 !sp!y A/4 !sp!y (B/8A/8) | G/2 !sp!y F/2 | A/4 !sp!y A/4 !sp!y c/4 !sp!y c/4 | (d/8c/8) !sp!y (B/8A/8) !sp!y G/2 | A3/8 G/8 A/4 =B/4 | c/2 c/2 | F/4 !sp!y F/4 !sp!y A/4 !sp!y A/4 | c/4 !sp!y (B/8A/8) !sp!y G/2 | c3/8 [BE]/8 [AF]/4 ([BF]/8A/8) | G/2 F/2 |]
+w:A1 A2 A3 A4 A5 A6_ A7 A8__ A9_ A10 A11
++:B1 B2 B3 B4 B5 B6_ B7 B8__ B9_ B10 B11
++:C1 C2 C3 C4 C5_ C6_ C7 C8__ C9 C10 C11
++:D1 D2 D3 D4 D5 D6_ D7 D8__ D9_ D10 D11
+V:2 clef=treble stem=down
+C/4 !sp!y C/4 !sp!y F/4 !sp!y F/4 | F/4 !sp!y (G/8F/8) !sp!y E/2 | (C/4 D/8) E/8 !sp!y F/4 !sp!y F/4 | (F/4 E/4) !sp!y F/2 | C/4 !sp!y C/4 !sp!y F/4 !sp!y F/4 | F/4 !sp!y (G/8F/8) !sp!y E/2 | (C/4 D/8) E/8 !sp!y F/4 !sp!y F/4 | (F/4 E/4) !sp!y F/2 | F/4 !sp!y F/4 !sp!y _E/4 !sp!y E/4 | D/4 !sp!y D/4 !sp!y E/2 | F3/8 G/8 F/4 F/4 | E3/8 F/8 E/2 | A,/4 !sp!y A,/4 !sp!y F,/4 !sp!y F,/4 | C/4 !sp!y D/4 !sp!y G,/2 | C/4 D/8 C/8- C/4 (B,/8C/8) | [FD]/4 [EC]/4 C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+A,/4 !sp!y A,/4 !sp!y F,/4 !sp!y F,/4 | C/4 !sp!y D/4 !sp!y G,/2 | A,3/8 B,/8 !sp!y C/4 !sp!y (B,/8C/8) | (D/4 C/4) !sp!y A,/2 | A,/4 !sp!y A,/4 !sp!y F,/4 !sp!y F,/4 | C/4 !sp!y D/4 !sp!y G,/2 | A,3/8 B,/8 !sp!y C/4 !sp!y (B,/8C/8) | (D/4 C/4) !sp!y A,/2 | F,/4 !sp!y F,/4 !sp!y G,/4 !sp!y A,/4 | B,/4 !sp!y B,/4 !sp!y C/2 | C3/4 F,/4 | G,3/8 A,/8 C/2 | A,/4 !sp!y A,/4 !sp!y F,/4 !sp!y F,/4 | C/4 !sp!y D/4 !sp!y G,/2 | F,3/8 G,/8 A,/4 F,/4  | G,/2 A,/2 |]
+V:4 clef=bass stem=down
+F,/4 !sp!y F,/4 !sp!y D,/4 !sp!y D,/4 | A,,/4 !sp!y B,,/4 !sp!y C,/2 | A,3/8 G,/8 !sp!y F,/4 !sp!y (D,/8C,/8) | (B,,/4 C,/4) !sp!y F,/2 | F,/4 !sp!y F,/4 !sp!y D,/4 !sp!y D,/4 | A,,/4 !sp!y B,,/4 !sp!y C,/2 | A,3/8 G,/8 !sp!y F,/4 !sp!y (D,/8C,/8) | (B,,/4 C,/4) !sp!y F,/2 | D,/4 !sp!y D,/4 !sp!y C,/4 !sp!y C,/4 | B,,/4 !sp!y G,,/4 !sp!y C,/2 | F,3/8 E,/8 F,/4 D,/4 | C,/2 z/4 B,/4 | F,/4 !sp!y F,/4 !sp!y D,/4 !sp!y D,/4 | A,,/4 !sp!y B,,/4 !sp!y C,/2 | A,,3/8 G,,/8 F,,/4 (G,,/8A,,/8) | ([B,,F,]/4 [C,E,]/4) [F,,F,]/2 |]
+

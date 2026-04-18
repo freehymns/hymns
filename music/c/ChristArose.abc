@@ -1,0 +1,38 @@
+X:1
+T:Low in the Grave He Lay
+C:Robert  Lowry
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-05 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 127. Also in the Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 206.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:C
+V:1 clef=treble stem=up
+[M:4/4] G/2 G/4 A/4 | A/4 !sp!y G/4 !sp!y G/2 | G/2 !sp!y F/4 !sp!y A/4 | A/2 !sp!y G/2 | A/2 !sp!y B/4 !sp!y c/4 | c/4 !sp!y G/4 !sp!y G/2 | A/2 !sp!y G/4 !sp!y ^F/4 | G || "REFRAIN" y C/4 C3/16 C/16 E/4 G3/16 G/16 | c3/4 !sp!y c3/16 d/16 | e/4 !sp!y c/4 !sp!y d/8 c/8 !sp!y B/8 A/8 | G3/4 !sp!y B3/16 c/16 | d/4 !sp!y d/4 !sp!y d/8 c/8 !sp!y d/8 e/8 | c/4 !sp!y A/4 !sp!y G/4 !sp!y G3/16 G/16 | A/4 !sp!y A/4 !sp!y A/8 d/8 !sp!y d/8 c/8 | B/4 !sp!y c/4 !sp!y d/4 !sp!y G3/16 G/16 | e3/4 !sp!y d3/16 c/16 | f3/4 !sp!y e3/16 d/16 | c/4 !sp!y G/4 !sp!y e3/8 d/8 | c |]
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
++:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
++:C1 C2 C3 C4 C5 C6 C7
++:D1 D2 D3 D4 D5 D6 D7 D8 D9
++:E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11
++:F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11
++:G1 G2 G3 G4 G5 G6
++:H1 H2 H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+E/2 E/4 F/4 | F/4 !sp!y E/4 !sp!y E/2 | D/2 !sp!y D/4 !sp!y F/4 | F/2 !sp!y E/2 | F/2 !sp!y G/4 !sp!y A/4 | G/4 !sp!y E/4 !sp!y E/2 | E/2 !sp!y D/4 !sp!y C/4 | B, || C/4 C3/16 C/16 E/4 G3/16 G/16 | E3/4 !sp!y E3/16 F/16 | G/4 !sp!y G/4 !sp!y A/8 A/8 !sp!y G/8 F/8 | E3/4 !sp!y D3/16 E/16 | F/4 !sp!y F/4 !sp!y F/8 E/8 !sp!y F/8 G/8 | E/4 !sp!y F/4 !sp!y E/4 !sp!y E3/16 E/16 | F/4 !sp!y F/4 !sp!y ^F/8 F/8 !sp!y F/8 A/8 | G/8F/8 !sp!y E/4 !sp!y F/4 !sp!y G3/16 G/16 | G3/4 !sp!y F3/16 E/16 | A3/4 !sp!y G3/16 F/16 | E/4 !sp!y E/4 !sp!y G3/8 F/8 | E |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] C/2 C/4 C/4 | C/4 !sp!y C/4 !sp!y C/2 | B,/2 !sp!y B,/4 !sp!y B,/4 | C/2 !sp!y C/2 | C/2 !sp!y C/4 !sp!y C/4 | C/4 !sp!y C/4 !sp!y C/2 | C/2 !sp!y B,/4 !sp!y A,/4 | G, || C,/4 C,3/16 C,/16 E,/4 G,3/16 G,/16 | G,/4 G,3/16 G,/16 G,/4 !sp!y C3/16 C/16 | C/4 !sp!y C/4 !sp!y C/8 C/8 !sp!y C/8 C/8 | C/4 C3/16 C/16 C/4 !sp!y G,3/16 G,/16 | G,/4 !sp!y G,/4 !sp!y G,/8 G,/8 !sp!y G,/8 G,/8 | C/4 !sp!y C/4 !sp!y C/4 !sp!y C3/16 C/16 | C/4 !sp!y C/4 !sp!y C/8 A,/8 !sp!y A,/8 D/8 | D/4 !sp!y C/4 !sp!y B,/4 !sp!y z/4 | z/4 C3/16 C/16 C/4 !sp!y z/4 | z/4 C3/16 C/16 C/4 !sp!y C3/16 A,/16 | G,/4 !sp!y C/4 !sp!y C3/8 B,/8 | C |]
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11
++:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10
++:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10
++:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12
++:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11
++:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11
++:g1 g2 g3 g4 g5 g6
++:h1 h2 h3 h4 h5 h6 h7
+V:4 clef=bass stem=down
+C,/2 C,/4 C,/4 | C,/4 !sp!y C,/4 !sp!y C,/2 | G,,/2 !sp!y G,,/4 !sp!y G,,/4 | C,/2 !sp!y C,/2 | F,/2 !sp!y F,/4 !sp!y F,/4 | E,/4 !sp!y C,/4 !sp!y C,/2 | C,/2 !sp!y D,/4 !sp!y D,/4 | G,, || C,/4 C,3/16 C,/16 E,/4 G,3/16 G,/16 | C,/4 C,3/16 C,/16 C,/4 !sp!y C,3/16 C,/16 | C,/4 !sp!y E,/4 !sp!y F,/8 F,/8 !sp!y F,/8 F,/8 | C,/4 C,3/16 C,/16 C,/4 !sp!y G,3/16 G,/16 | G,/4 !sp!y G,/4 !sp!y G,/8 G,/8 !sp!y G,/8 G,/8 | A,/4 !sp!y F,/4 !sp!y C,/4 !sp!y C,3/16 C,/16 | F,/4 !sp!y F,/4 !sp!y D,/8 D,/8 !sp!y D,/8 D,/8 | G,/4 !sp!y A,/4 !sp!y G,/4 !sp!y x/4| x/4 x3/16 x/16 x/4!sp!y x/4| x/4F,3/16 F,/16 F,/4 !sp!y F,3/16 F,/16 | G,/4 !sp!y G,/4 !sp!y G,3/8 G,/8 | C, |]
+

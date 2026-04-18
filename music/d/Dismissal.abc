@@ -1,0 +1,27 @@
+X:1
+T:DISMISSAL
+C:William Letton Viner, 1845
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-09 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 354.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:A
+V:1 clef=treble stem=up
+[M:4/4] A/4 (G/8F/8) E/4 C/4 | F/4 !sp!y A/4 !sp!y E/4 !sp!y C/4 | c/4 !sp!y (B/8A/8) !sp!y F/4 !sp!y B/4 | A/4 !sp!y G/4 !sp!y A/2 | c/4 !sp!y (c/8d/8) !sp!y e/4 !sp!y c/4 | d/4 !sp!y B/4 !sp!y c/4 !sp!y A/4 | c/4 !sp!y (c/8d/8) !sp!y e/4 !sp!y c/4 | d/4 !sp!y c/4 !sp!y B/2 | A/4 !sp!y (G/8F/8) !sp!y E/4 !sp!y C/4 | F/4 !sp!y A/4 !sp!y E/4 !sp!y C/4 | c/4 !sp!y (B/8A/8) !sp!y F/4 !sp!y B/4 | A/4 !sp!y G/4 !sp!y A/2 |]
+w:A1 A2_ A3 A4 A5 A6 A7 A8
++:B1 B2_ B3 B4 B5 B6 B7
++:C1 C2 C3_ C4 C5 C6 C7 C8
++:D1 D2 D3_ D4 D5 D6 D7
++:E1 E2_ E3 E4 E5 E6 E7 E8
++:F1 F2_ F3 F4 F5 F6 F7
+V:2 clef=treble stem=down
+C/4 (E/8D/8) C/4 C/4 | D/4 !sp!y D/4 !sp!y C/4 !sp!y A,/4 | A/4 !sp!y (F/8E/8) !sp!y D/4 !sp!y F/4 | E/4 !sp!y E/4 !sp!y E/2 | E/4 !sp!y E/4 !sp!y E/4 !sp!y E/4 | G/4 !sp!y G/4 !sp!y A/4 !sp!y E/4 | E/4 !sp!y E/4 !sp!y E/4 !sp!y E/4 | G/4 !sp!y A/4 !sp!y E/2 | C/4 !sp!y (E/8D/8) !sp!y C/4 !sp!y C/4 | D/4 !sp!y D/4 !sp!y C/4 !sp!y A,/4 | A/4 !sp!y (F/8E/8) !sp!y D/4 !sp!y F/4 | E/4 !sp!y E/4 !sp!y E/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] E,/4 (E,/8G,/8) A,/4 A,/4 | A,/4 !sp!y A,/4 !sp!y A,/4 !sp!y A,/4 | E/4 !sp!y (D/8C/8) !sp!y B,/4 !sp!y D/4 | C/4 !sp!y B,/4 !sp!y C/2 | A,/4 !sp!y (A,/8B,/8) !sp!y C/4 !sp!y A,/4 | B,/4 !sp!y E/4 !sp!y E/4 !sp!y C/4 | A,/4 !sp!y (A,/8B,/8) !sp!y C/4 !sp!y A,/4 | B,/4 !sp!y A,/4 !sp!y G,/2 | E,/4 !sp!y (E,/8G,/8) !sp!y A,/4 !sp!y A,/4 | A,/4 !sp!y A,/4 !sp!y A,/4 !sp!y A,/4 | E/4 !sp!y (D/8C/8) !sp!y B,/4 !sp!y D/4 | C/4 !sp!y B,/4 !sp!y C/2 |]
+V:4 clef=bass stem=down
+A,,/4 A,,/4 A,,/4 A,,/4 | D,/4 !sp!y F,/4 !sp!y A,/4 !sp!y A,,/4 | A,,/4 !sp!y (B,,/8C,/8) !sp!y D,/4 !sp!y B,,/4 | E,/4 !sp!y E,/4 !sp!y A,,/2 | A,/4 !sp!y A,/4 !sp!y A,/4 !sp!y A,/4 | E,/4 !sp!y E,/4 !sp!y A,/4 !sp!y A,,/4 | A,/4 !sp!y A,/4 !sp!y A,/4 !sp!y A,/4 | E,/4 !sp!y E,/4 !sp!y E,/2 | A,,/4 !sp!y A,,/4 !sp!y A,,/4 !sp!y A,,/4 | D,/4 !sp!y F,/4 !sp!y A,/4 !sp!y A,,/4 | A,,/4 !sp!y (B,,/8C,/8) !sp!y D,/4 !sp!y B,,/4 | E,/4 !sp!y E,/4 !sp!y A,,/2 |]

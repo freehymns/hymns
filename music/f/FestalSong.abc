@@ -1,0 +1,29 @@
+X:1
+T:FESTAL SONG
+C:William Howard Walter, 1872
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-07 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 576.  Also in Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 461.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:Bb
+V:1 clef=treble stem=up
+[M:4/4] F/4 | B/4 !sp!y F/4 !sp!y D/4 !sp!y F/4 | G3/4 !sp!y F/4 | (G/8A/8) !sp!y B/4 !sp!y A/4 !sp!y G/4 | F3/4 !sp!y c/4 | d/4 !sp!y (c/8d/8) !sp!y e/4 !sp!y d/4 | c/4 !sp!y B/4 !sp!y A/4 !sp!y F/4 | (G/8A/8) !sp!y B/4 !sp!y B/4 !sp!y A/4 | B3/4 |]
+w:A1 A2 A3 A4 A5 A6
++:B1 B2_ B3 B4 B5 B6
++:C1 C2 C3_ C4 C5 C6 C7 C8
++:D1 D2_ D3 D4 D5 D6
+V:2 clef=treble stem=down
+F/4 | B/4 !sp!y F/4 !sp!y D/4 !sp!y D/4 | E3/4 !sp!y D/4 | E/4 !sp!y F/4 !sp!y F/4 !sp!y =E/4 | F3/4 !sp!y F/4 | F/4 !sp!y F/4 !sp!y E/4 !sp!y F/4 | G/4 !sp!y G/4 !sp!y F/4 !sp!y F/4 | E/4 !sp!y F/4 !sp!y F/4 !sp!y E/4 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,/4 | B,/4 !sp!y F,/4 !sp!y D,/4 !sp!y B,/4 | B,3/4 !sp!y B,/4 | (B,/8C/8) !sp!y D/4 !sp!y C/4 !sp!y B,/4 | A,3/4 !sp!y A,/4 | B,/4 !sp!y C/4 !sp!y B,/4 !sp!y B,/4 | E/4 !sp!y D/4 !sp!y C/4 !sp!y B,/4 | (B,/8C/8) !sp!y D/4 !sp!y C/4 !sp!y C/4 | B,3/4 |]
+w:a1 a2 a3 a4 a5 a6
++:b1 b2_ b3 b4 b5 b6
++:c1 c2 c3 c4 c5 c6 c7 c8
++:d1 d2_ d3 d4 d5 d6
+V:4 clef=bass stem=down
+F,/4 | B,/4 !sp!y F,/4 !sp!y D,/4 !sp!y B,,/4 | E,3/4 !sp!y B,,/4 | E,/4 !sp!y B,,/4 !sp!y C,/4 !sp!y C,/4 | F,3/4 !sp!y F,/4 | B,/4 !sp!y A,/4 !sp!y G,/4 !sp!y F,/4 | E,/4 !sp!y =E,/4 !sp!y F,/4 !sp!y D,/4 | E,/4 !sp!y (D,/8E,/8) !sp!y F,/4 !sp!y F,/4 | B,,3/4 |]

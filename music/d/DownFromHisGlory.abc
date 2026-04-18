@@ -1,0 +1,38 @@
+X:1
+T:Down from His Glory
+C:Arranged from Eduardo di Capua, 1898
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-09 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), Rodeheaver\'s Gospel Solos and Duets Number 3, by Yumbert Parks Rodeheaver, C. Austin Miles & Bentley D. Ackley (Winona Lake, Indiana: Rodeheaver Hall-Mack, 1938), # 45.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=115
+K:F
+V:1 clef=treble stem=up
+[M:4/4] z/4 c/4 B/4 A/4 | G/2 !sp!y F/2 | z/4 !sp!y F/8 G/8 !sp!y A/4 !sp!y F/4 | E/2 !sp!y D/2 | z/4 !sp!y E/4 !sp!y F/4 !sp!y G/4 | E3/8 D/8 !sp!y D/2 | z/4 !sp!y E/4 !sp!y F/4 !sp!y G/4 | D3/8 C/8 !sp!y C/2 | z/4 !sp!y c/4 !sp!y B/4 !sp!y A/4 | G/2 !sp!y F/2 | z/4 !sp!y F/8 G/8 !sp!y A/4 !sp!y F/4 | E/2 !sp!y D/2 | z/4 !sp!y B/4 !sp!y A/4 !sp!y G/4 | c/4 !sp!y A/4 !sp!y G/4 !sp!y F/4 | G3/4 !sp!y A/4 | F || "REFRAIN" y z/4 f/4 f/4 e/4 | c/2 !sp!y c/2 | z/4 !sp!y e/4 !sp!y e/4 !sp!y d/4 | B/2 !sp!y B/2 | z/4 !sp!y e/4 !sp!y e/4 !sp!y d/4 | B/2 !sp!y B/2 | z/4 !sp!y G/4 !sp!y A/4 !sp!y B/4 | c | z/4 !sp!y c/4 !sp!y c/4 !sp!y c/4 | _d/2 !sp!y d/2 | z/4 !sp!y _d/4 !sp!y f/4 !sp!y d/4 | c/2 !sp!y c/2 | z/4 !sp!y A/4 !sp!y G/4 !sp!y F/4 | c/2 !sp!y c/2 | z/4 !sp!y A/4 !sp!y G3/8 F/8 | F |]
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
++:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12
++:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
++:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10
++:E1 E2 E3 E4 E5 E6 E7 E8 E9 E10
++:F1 F2 F3 F4 F5 F6 F7 F8 F9
++:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10
++:H1 H2 H3 H4 H5 H6 H7 H8 H9
+V:2 clef=treble stem=down
+ x/4F/4 F/4 F/4 | E/2 !sp!y C/2 | x/4!sp!y C/8 C/8 !sp!y F/4 !sp!y C/4 | C/2 !sp!y B,/2 | x/4!sp!y E/4 !sp!y D/4 !sp!y D/4 | C3/8 C/8 !sp!y C/2 | x/4!sp!y C/4 !sp!y C/4 !sp!y C/4 | A,3/8 A,/8 !sp!y A,/2 | x/4!sp!y F/4 !sp!y F/4 !sp!y F/4 | E/2 !sp!y C/2 | x/4!sp!y C/8 C/8 !sp!y F/4 !sp!y C/4 | C/2 !sp!y B,/2 | x/4!sp!y D/4 !sp!y D/4 !sp!y D/4 | F/4 !sp!y F/4 !sp!y E/4 !sp!y C/4 | E3/4 !sp!y E/4 | F || x/4A/4 A/4 A/4 | A/2 !sp!y A/2 | x/4!sp!y A/4 !sp!y A/4 !sp!y A/4 | G/2 !sp!y G/2 | x/4!sp!y B/4 !sp!y B/4 !sp!y B/4 | G/2 !sp!y G/2 | x/4!sp!y E/4 !sp!y E/4 !sp!y E/4 | F | x/4!sp!y F/4 !sp!y F/4 !sp!y F/4 | F/2 !sp!y F/2 | x/4!sp!y F/4 !sp!y F/4 !sp!y F/4 | F/2 !sp!y F/2 | x/4!sp!y F/4 !sp!y E/4 !sp!y F/4 | E/2 !sp!y E/2 | x/4!sp!y E/4 !sp!y E3/8 C/8 | C |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,,/4 A,/4 D/4 C/4 | B,/2 !sp!y A,/2 | F,,/4 !sp!y A,/8 B,/8 !sp!y C/4 !sp!y A,/4 | B,/2 !sp!y B,/2 | B,,,/4 !sp!y B,/4 !sp!y B,/4 !sp!y B,/4 | B,3/8 B,/8 !sp!y B,/2 | C,,/4 !sp!y B,/4 !sp!y B,/4 !sp!y B,/4 | A,3/8 A,/8 !sp!y A,/2 | F,,/4 !sp!y A,/4 !sp!y D/4 !sp!y C/4 | B,/2 !sp!y A,/2 | F,,/4 !sp!y A,/8 B,/8 !sp!y C/4 !sp!y A,/4 | B,/2 !sp!y B,/2 | B,,,/4 !sp!y D/4 !sp!y C/4 !sp!y B,/4 | A,/4 !sp!y C/4 !sp!y B,/4 !sp!y A,/4 | B,3/4 !sp!y C/4 | A, || F,,/4 C/4 C/4 C/4 | F/2 !sp!y F/2 | F,,/4 !sp!y C/4 !sp!y C/4 !sp!y D/4 | D/2 !sp!y D/2 | C,/4 !sp!y C/4 !sp!y C/4 !sp!y D/4 | E/2 !sp!y E/2 | C,/4 !sp!y B,/4 !sp!y A,/4 !sp!y G,/4 | A, | F,,/4 !sp!y A,/4 !sp!y A,/4 !sp!y A,/4 | B,/2 !sp!y B,/2 | B,,/4 !sp!y B,/4 !sp!y _D/4 !sp!y B,/4 | A,/2 !sp!y A,/2 | C,,/4 !sp!y C/4 !sp!y B,/4 !sp!y A,/4 | G,/2 !sp!y G,/2 | C,,/4 !sp!y C/4 !sp!y B,3/8 A,/8 | A, |]
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13
++:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12 b13 b14
++:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 c12 c13
++:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11
++:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12
++:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11
++:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10 g11 g12
++:h1 h2 h3 h4 h5 h6 h7 h8 h9 h10 h11
+V:4 clef=bass stem=down
+ x/4F,/4 F,/4 F,/4 | F,/2 !sp!y F,/2 | x/4!sp!y F,/8 F,/8 !sp!y F,/4 !sp!y F,/4 | B,,/2 !sp!y B,,/2 | x/4!sp!y B,,/4 !sp!y B,,/4 !sp!y B,,/4 | C,3/8 C,/8 !sp!y C,/2 | x/4!sp!y C,/4 !sp!y D,/4 !sp!y E,/4 | F,3/8 F,/8 !sp!y F,/2 | x/4!sp!y F,/4 !sp!y F,/4 !sp!y F,/4 | F,/2 !sp!y F,/2 | x/4!sp!y F,/8 F,/8 !sp!y F,/4 !sp!y F,/4 | B,,/2 !sp!y B,,/2 | x/4!sp!y B,,/4 !sp!y B,,/4 !sp!y B,,/4 | C,/4 !sp!y C,/4 !sp!y C,/4 !sp!y C,/4 | C,3/4 !sp!y C,/4 | F, || x/4F,/4 F,/4 F,/4 | F,/2 !sp!y F,/2 | x/4!sp!y F,/4 !sp!y F,/4 !sp!y F,/4 | G,/2 !sp!y G,/2 | x/4!sp!y C,/4 !sp!y C,/4 !sp!y C,/4 | C,/2 !sp!y C,/2 | x/4!sp!y C,/4 !sp!y C,/4 !sp!y C,/4 | F, | x/4!sp!y F,/4 !sp!y F,/4 !sp!y F,/4 | B,,/2 !sp!y B,,/2 | x/4!sp!y B,/4 !sp!y B,/4 !sp!y B,,/4 | F,/2 !sp!y F,/2 | x/4!sp!y C,/4 !sp!y C,/4 !sp!y C,/4 | C,/2 !sp!y C,/2 | x/4!sp!y C,/4 !sp!y C,3/8 [F,,F,]/8 | [F,,F,] |]
+

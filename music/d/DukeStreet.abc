@@ -1,0 +1,26 @@
+X:1
+T:DUKE STREET
+C:Attributed to John Hatton, 1793
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-13 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 101, 438.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=145
+K:D
+V:1 clef=treble stem=up
+[M:4/4] D/2 F/4 G/4 | A/2 !sp!y (B/4 !sp!y c/4) | d/2 !sp!y (c/4 B/4) | A | A/2 !sp!y A/4 !sp!y A/4 | B/2 !sp!y A/2 | G/2 !sp!y F/2 | E | F/2 !sp!y F/4 !sp!y E/4 | (D/4 F/4) !sp!y (A/4 d/4) | (B/4 A/4) !sp!y (G/4 F/4) | E | A/2 !sp!y B/4 !sp!y c/4 | d3/4 !sp!y G/4 | F/2 !sp!y E/2 | D |]
+w:A1 A2 A3 A4 A5_ A6 A7_ A8
++:B1 B2 B3 B4 B5 B6 B7 B8
++:C1 C2 C3 C4_ C5_ C6_ C7_ C8
++:D1 D2 D3 D4 D5 D6 D7 D8
+V:2 clef=treble stem=down
+D/2 D/4 C/4 | D/2 !sp!y (D/4 !sp!y E/4) | F/2 !sp!y (E/4 D/4) | C | D/2 !sp!y D/4 !sp!y D/4 | D/2 !sp!y (D/4 A,/4) | (B,/4 C/4) !sp!y D/2 | C | D/2 !sp!y D/4 !sp!y C/4 | (A,/4 D/4) !sp!y D/2 | D/2 !sp!y (C/4 D/4) | C | D/2 !sp!y D/4 !sp!y E/4 | (F3/8 E/8 D/4) !sp!y E/4 | D/2 !sp!y C/2 | D |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,/2 A,/4 A,/4 | A,/2 !sp!y (G,/4 !sp!y E,/4) | (F,/4 A,/4) !sp!y (A,/4 ^G,/4) | A, | F,/2 !sp!y F,/4 !sp!y A,/4 | G,/2 !sp!y (A,/4 F,/4) | (G,/4 A,/4) !sp!y A,/2 | A, | A,/2 !sp!y A,/4 !sp!y G,/4 | (F,/4 A,/4) !sp!y A,/2 | B,/4 D/4 !sp!y A,/2 | A, | A,/2 !sp!y G,/4 !sp!y G,/4 | (F,3/8 G,/8 A,/4) !sp!y B,/4 | A,/2 !sp!y (A,/4 G,/4) | F, |]
+V:4 clef=bass stem=down
+D,/2 D,/4 E,/4 | F,/2 !sp!y (G,/4 !sp!y E,/4) | D,/2 !sp!y E,/2 | A,, | D,/2 !sp!y D,/4 !sp!y F,/4 | G,/2 !sp!y F,/2 | E,/2 !sp!y D,/2 | A,, | D,/2 !sp!y D,/4 !sp!y A,,/4 | D,/2 !sp!y F,/2 | G,/4 F,/4 !sp!y (E,/4 D,/4) | A,, | F,/2 !sp!y x/4!sp!y E,/4 | (D,3/8 E,/8 F,/4) !sp!y G,/4 | A,/2 !sp!y A,,/2 | D, |]
+

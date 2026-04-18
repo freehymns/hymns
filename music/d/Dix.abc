@@ -1,0 +1,28 @@
+X:1
+T:DIX
+C:Conrad Kocher, 1838
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-07 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 92.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:G
+V:1 clef=treble stem=up
+[M:4/4] G/4 !sp!y (F/8G/8) !sp!y A/4 !sp!y G/4 | c/4 !sp!y c/4 !sp!y B/2 | E/4 !sp!y F/4 !sp!y G/4 !sp!y E/4 | D/4 !sp!y D/4 !sp!y D/2 | G/4 !sp!y (F/8G/8) !sp!y A/4 !sp!y G/4 | c/4 !sp!y c/4 !sp!y B/2 | E/4 !sp!y F/4 !sp!y G/4 !sp!y E/4 | D/4 !sp!y D/4 !sp!y D/2 | B/4 !sp!y A/4 !sp!y G/4 !sp!y B/4 | d3/8 c/8 !sp!y B/2 | E/4 !sp!y F/4 !sp!y G/4 !sp!y c/4 | B/4 A/8 C/8 !sp!y G/2 |]
+w:A1 A2_ A3 A4 A5 A6 A7
++:B1 B2 B3 B4 B5 B6 B7
++:C1 C2_ C3 C4 C5 C6 C7
++:D1 D2 D3 D4 D5 D6 D7
++:E1 E2 E3 E4 E5 E6 E7
++:F1 F2 F3 F4 F5 F6_ F7
+V:2 clef=treble stem=down
+D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | C/4 !sp!y D/4 !sp!y D/2 | E/4 !sp!y D/4 !sp!y D/4 !sp!y C/4 | B,/4 !sp!y A,/4 !sp!y B,/2 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | C/4 !sp!y D/4 !sp!y D/2 | E/4 !sp!y D/4 !sp!y D/4 !sp!y C/4 | B,/4 !sp!y A,/4 !sp!y B,/2 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D/4 D/8 x/8!sp!y D/2 | E/4 !sp!y D/4 !sp!y D/4 !sp!y C/4 | D3/8 x/8!sp!y B,/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,/4 !sp!y (C/8B,/8) !sp!y A,/4 !sp!y B,/4 | G,/4 !sp!y A,/4 !sp!y G,/2 | G,/4 !sp!y A,/4 !sp!y G,/4 !sp!y G,/4 | G,/4 !sp!y F,/4 !sp!y G,/2 | B,/4 !sp!y (C/8B,/8) !sp!y A,/4 !sp!y B,/4 | G,/4 !sp!y A,/4 !sp!y G,/2 | G,/4 !sp!y A,/4 !sp!y G,/4 !sp!y G,/4 | G,/4 !sp!y F,/4 !sp!y G,/2 | G,/4 !sp!y (D/8C/8) !sp!y B,/4 !sp!y G,/4 | A,/4 F,/4 !sp!y G,/2 | G,/4 !sp!y A,/4 !sp!y G,/4 !sp!y G,/4 | G,/4 F,/4 !sp!y G,/2 |]
+V:4 clef=bass stem=down
+G,/4 !sp!y (A,/8G,/8) !sp!y F,/4 !sp!y G,/4 | E,/4 !sp!y F,/4 !sp!y G,/2 | C,/4 !sp!y C,/4 !sp!y B,,/4 !sp!y C,/4 | D,/4 !sp!y D,/4 !sp!y G,,/2 | G,/4 !sp!y (A,/8G,/8) !sp!y F,/4 !sp!y G,/4 | E,/4 !sp!y F,/4 !sp!y G,/2 | C,/4 !sp!y C,/4 !sp!y B,,/4 !sp!y C,/4 | D,/4 !sp!y D,/4 !sp!y G,,/2 | G,/4 !sp!y F,/4 !sp!y G,/4 !sp!y x/4| F,/4 D,/4 !sp!y G,/2 | C,/4 !sp!y C,/4 !sp!y B,,/4 !sp!y E,/4 | D,/4 D,/4 !sp!y G,,/2 |]
+

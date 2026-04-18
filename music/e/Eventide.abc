@@ -1,0 +1,30 @@
+X:1
+T:EVENTIDE
+C:William Henry Monk, 1861
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-16 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), Hymns Ancient and Modern, standard edition (Norwich, Norfolk, England: Canterbury Press, 1994), # 27.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:Eb
+V:1 clef=treble stem=up
+[M:4/4] G/2 G/4 F/4 | E/2 !sp!y B/2 | c/4 !sp!y B/4 !sp!y B/4 !sp!y A/4 | G | G/2 !sp!y A/4 !sp!y B/4 | c/2 !sp!y B/2 | A/4 !sp!y F/4 !sp!y G/4 !sp!y =A/4 | B | G/2 !sp!y G/4 !sp!y F/4 | E/2 !sp!y B/2 | B/4 A/4 !sp!y A/4 !sp!y G/4 | F | F/2 !sp!y G/4 !sp!y A/4 | G/4 !sp!y F/4 !sp!y E/4 !sp!y A/4 | G/2 F/2 | E |]
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
++:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
++:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
++:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10
+V:2 clef=treble stem=down
+E/2 D/4 D/4 | E/2 !sp!y E/2 | E/4 !sp!y D/4 !sp!y E/4 !sp!y F/4 | E | E/2 !sp!y E/4 !sp!y E/4 | E/2 !sp!y E/2 | E/4 !sp!y x/4!sp!y E/4 !sp!y E/4 | D | E/2 !sp!y D/4 !sp!y D/4 | E/2 !sp!y E/2 | E/4 E/4 !sp!y =E/4 !sp!y E/4 | F | D/2 !sp!y E/4 !sp!y D/4 | E/4 !sp!y D/4 !sp!y E/4 !sp!y F/4 | E/2 D/2 | E |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,/2 B,/4 A,/4 | G,/2 !sp!y E,/2 | E,/4 !sp!y B,/4 !sp!y B,/4 !sp!y B,/4 | B, | B,/2 !sp!y A,/4 !sp!y G,/4 | A,/2 !sp!y G,/2 | C/4 !sp!y B,/4 !sp!y B,/4 !sp!y E,/4 | F, | (G,/4 A,/4) !sp!y B,/4 !sp!y A,/4 | G,/2 !sp!y (E/4 D/4) | C/4 (C/8C/8) !sp!y C/4 !sp!y B,/4 | A, | B,/2 !sp!y B,/4 !sp!y B,/4 | B,/4 !sp!y A,/4 !sp!y G,/4 !sp!y C/4 | B,3/4 A,/4 | G, |]
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10
++:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10
++:c1_ c2 c3 c4 c5_ c6 c7_ c8 c9 c10
++:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10
+V:4 clef=bass stem=down
+E,/2 B,,/4 B,,/4 | C,/2 !sp!y G,,/2 | A,,/4 !sp!y B,,/4 !sp!y C,/4 !sp!y D,/4 | E, | (E,/4 D,/4) !sp!y C,/4 !sp!y B,,/4 | A,,/2 !sp!y E,/2 | F,/4 !sp!y D,/4 !sp!y E,/4 !sp!y C,/4 | B,, | E,/2 !sp!y B,,/4 !sp!y B,,/4 | C,/2 !sp!y G,,/2 | A,,3/8 B,,/8 !sp!y C,/4 !sp!y C,/4 | F, | A,/2 !sp!y G,/4 !sp!y F,/4 | E,/4 !sp!y B,,/4 !sp!y C,/4 !sp!y A,,/4 | B,,/2 B,,/4 x/4| E, |]
+

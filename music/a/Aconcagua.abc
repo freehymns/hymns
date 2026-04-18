@@ -1,0 +1,43 @@
+X:1
+T:ACONCAGUA
+C:Claud Hinton Bottoms, 1904
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-10 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), The Best Gospel Songs and Their Composers, by Anthony J. Showalter (Dalton, Georgia: A. J. Showalter, 1904), # 184.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=85
+K:F
+V:1 clef=treble stem=up
+[M:3/4] C/8 A3/16 ^G/16 | A3/8 B/8 !sp!y F3/16 G/16 | A3/8 C/8 !sp!y A3/16 ^G/16 | G3/8 B/8 !sp!y A3/16 ^G/16 | A3/8 C/8 !sp!y A3/16 G/16 | F3/8 A/8 !sp!y c3/16 c/16 | B3/8 D/8 !sp!y A3/16 G/16 | C3/8 F/8 !sp!y G3/16 A/16 | F3/8 || [M:4/4] F/8 F/8 F/8 | d/2- d/8 f/8 !sp!y e/8 d/8 | c/2- c/8 c/8 d/8 c/8 | B/2- B/8 G/8 c/8 B/8 | A/2- A/8 F/8 !sp!y f/8 e/8 | d/2- d/8 f/8 !sp!y e/8 d/8 | c/2- c/8 C/8 F/8 A/8 | c/2- c/8 A/8 !sp!y A/8 G/8 |  F/2- F/8 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4 B5 B6 B7 B8
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3 D4 D5 D6 D7 D8
++:E1 E2 E3 E4_ E5 E6 E7 E8_
++:F1 F2 F3 F4_ F5 F6 F7 F8_
++:G1 G2 G3 G4_ G5 G6 G7 G8_
++:H1 H2 H3 H4_ H5 H6 H7 H8_
+I:pos vocal below
+V:2 clef=treble stem=down
+ x/8 x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8 x/8!sp!y x3/16 x/16| x3/8|| x/8 x/8 x/8| x/8 F/8F/8F/8F/8 x/8!sp!y x/8 x/8| x/8 F/8F/8F/8F/8 A/8 B/8 A/8 | G/8 E/8E/8E/8E/8 E/8 A/8 G/8 | F/2- F/8 x/8!sp!y x/8 x/8| x/8 F/8F/8F/8F/8 x/8!sp!y x/8 x/8| x/8 F/8F/8F/8F/8 x/8 x/8 x/8| x/8 A/8A/8A/8A/8 F/8 !sp!y F/8 E/8 | x/8 C/8D/8D/8C/8 |]
+w:E.1 E.2 E.3 E.4 E.5 E.6 E.7 E.8
++:F.1 F.2 F.3 F.4 F.5 F.6 F.7 F.8 F.9 F.10 F.11 F.12_
++:G.1 G.2 G.3 G.4 G.5 G.6 G.7 G.8
++:H.1 H.2 H.3 H.4 H.5 H.6 H.7 H.8 H.9 H.10 H.11
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] A,/8 C3/16 =B,/16 | C3/8 D/8 !sp!y D3/16 _D/16 | C3/8 A,/8 !sp!y C3/16 =B,/16 | B,3/8 D/8 !sp!y C3/16 =B,/16 | C3/8 A,/8 !sp!y C3/16 B,/16 | A,3/8 C/8 !sp!y _E3/16 E/16 | D3/8 B,/8 !sp!y C3/16 B,/16 | A,3/8 A,/8 !sp!y B,3/16 C/16 | A,3/8 || [M:4/4] A,/8 A,/8 A,/8 | B,/2- B,/8 D/8 !sp!y C/8 B,/8 | A,/2- A,/8 z3/8 | z/8 C/8 C/8 C/8 C/8 z3/8 | z/8 C/8 C/8 C/8 C/8 _E/8 !sp!y D/8 C/8 | B,/2- B,/8 D/8 !sp!y C/8 B,/8 | A,/2- A,/8 z3/8 | z/8 F/8 F/8 F/8 F/8 C/8 !sp!y C/8 B,/8 | A,/8 A,/8 B,/8 A,/8 A,/8 |]
+w:a1 a2 a3 a4 a5 a6 a7 a8
++:b1 b2 b3 b4 b5 b6 b7 b8
++:c1 c2 c3 c4 c5 c6 c7 c8
++:d1 d2 d3 d4 d5 d6 d7 d8
++:e1 e2 e3 e4_ e5 e6 e7 e8_
++:f1 f2 f3 f4 f5 f6 f7 f8
++:g1 g2 g3 g4_ g5 g6 g7 g8_
++:h1 h2 h3 h4_ h5 h6 h7 h8_
+V:4 clef=bass stem=down
+ x/8 x3/16 x/16| F,,/8C,/8F,/8 x/8!sp!y x3/16 x/16| F,,/8C,/8F,/8 x/8!sp!y x3/16 x/16| E,,/8G,,/8C,/8 x/8!sp!y x3/16 x/16| F,,/8C,/8F,/8 x/8!sp!y x3/16 x/16| F,,/8C,/8F,/8 x/8!sp!y x3/16 x/16| B,,/8D,/8F,/8 x/8!sp!y x3/16 x/16| F,,/8C,/8F,/8 F,,/8 !sp!y [C,E,]/4 | F,/8C,/8F,,/8 || x/8 x/8 x/8| x/8 B,,/8 D,/8 F,/8 B,/8 x/8!sp!y x/8 x/8| x/8 F,,/8 A,,/8 C,/8 F,/8 x3/8| x/8C,/8 E,/8 G,/8 C/8 x3/8| x/8F,,/8 A,,/8 C,/8 F,/8 x/8!sp!y x/8 x/8| x/8 B,,/8 D,/8 F,/8 B,/8 x/8!sp!y x/8 x/8| x/8 F,,/8 A,,/8 C,/8 F,/8 x3/8| x/8C,/8 F,/8 A,/8 C/8 C,/8 !sp!y C,/8 C,/8 | F,/2- F,/8 |]
+

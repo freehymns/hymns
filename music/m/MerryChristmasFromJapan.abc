@@ -1,0 +1,27 @@
+X:1
+T:Lowly Shepherds of Judea
+Z:Transcription:Converted on 2026-04-14 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), Carols, Customs and Costumes Around the World, by Herbert H. Wernecke (Webster Groves, Missouri: Old Orchard Book Shoppe, 1936), p. 22.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:2/4
+Q:1/4=93
+K:F
+V:1 clef=treble stem=up
+[M:3/4] f/8F/8 F/8F/8 | f/8F/8!sp!y F/8F/8 | F/8A/8!sp!y G/8F/8 | G/4 !sp!y C/4 || C/8 D/8 !sp!y F/8 G/8 | A/8 A/8 !sp!y G/8 F/8 | D/8 F/8 !sp!y E/8 F/8 | G3/8 z/8 | C/8 D/8 !sp!y F/8 G/8 | A/8 A/8 !sp!y G/8 F/8 | D/8 G/8 !sp!y F/8 E/8 | F3/8 z/8 || "REFRAIN" y c/4 c/8 c/8 | d/8 d/8 !sp!y c/8 A/8 | F/8 A/8 !sp!y G/8 F/8 | (G/4 c/8) z/8 | C/8 D/8 !sp!y F/8 G/8 | A/8 A/8 !sp!y G/8 F/8 | D/8 G/8 !sp!y F/8 E/8 | F3/8 z/8 !sp!y |] 
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12 A13 A14
++:B1 B2 B3 B4 B5 B6 B7 B8
++:C1 C2 C3 C4 C5
++:D1 D2 D3 D4 D5 D6 D7 D8
++:E1 E2 E3 E4 E5
++:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11 G12 G13
++:H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11 H12 H13
+V:2 clef=treble stem=down
+ x/8 x/8 x/8 x/8| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x/4!sp!y x/4|| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x3/8 x/8| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x3/8 x/8|| [FA]/4 [FA]/8 [FA]/8 | [FB]/8 [FB]/8 !sp!y [FA]/8 F/8 | D/8 F/8 !sp!y E/8 D/8 | (E/4 E/8) x/8| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x/8 x/8!sp!y x/8 x/8| x3/8 x/8!sp!y |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] F,/8C/8 C/8C/8 | D,/8C/8 !sp!y C/8C/8 | D,/8B,/8!sp!y B,/8B,/8 | C,/8B,/8!sp!y B,/8B,/8 || A,,/8 A,/8 !sp!y A,/8 A,/8 | D,/8 C/8 !sp!y D,/8 C/8 | F,/8 D/8 !sp!y D/8 D/8 | (E,/8 [C/8B,/8][C/8B,/8][C/8B,/8]) | F,/8 C/8 !sp!y C/8 C/8 | D,/8 C/8 !sp!y D,/8 C/8 | B,,/8 [G,B,]/8 !sp!y C,/8 B,/8 | (F,/8 [A,C]/8[A,C]/8) z/8 || C/4 C/4 | B,/4 !sp!y C/4 | A,/4 !sp!y B,/4 | (B,/4 G,/4) | A,,/8 A,/8 !sp!y A,/8 A,/8 | C,/8 A,/8 !sp!y A,/8 A,/8 | B,,/8 [G,B,]/8 !sp!y C,/8 B,/8 | (F,/8 [A,C]/8[A,C]/8) z/8 !sp!y |]
+V:4 clef=bass stem=down
+ x/8A,/8 A,/8A,/8 | x/8A,/8 !sp!y A,/8 A,/8 | x/8F,/8!sp!y F,/8F,/8 | x/8E,/8!sp!y E,/8E,/8 || x/8F,/8 !sp!y F,/8 F,/8 | x/8F,/8 !sp!y x/8F,/8 | x/8B,/8 !sp!y B,/8 B,/8 | E,3/8 x/8 | x/8A,/8 !sp!y A,/8 A,/8 | x/8F,/8 !sp!y x/8F,/8 | B,,/4 !sp!y x/8G,/8 | F,3/8 x/8|| F,/4 [C,F,]/4 | [B,,F,]/4 !sp!y [B,,F,]/4 | [D,F,]/4 !sp!y [D,G,]/4 | ([C,G,]/4 [B,,C,]/4) | x/8[C,F,]/8 !sp!y [C,F,]/8 [C,F,]/8 | x/8F,/8 !sp!y F,/8 F,/8 | B,,/4 !sp!y x/8G,/8 | F,3/8 x/8!sp!y |]
+

@@ -1,0 +1,31 @@
+X:1
+T:EL CAJON
+C:William Jackson (1730-1803)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-08 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), Christmas Minstrelsy, of Carols, Anthems and Chants, from Ancient and Modern Sources, Adapted to Domestic, Social, School and Congregational Use, edited by Joseph Williams & Henry J. Gauntlett (London & Manchester, England: Novello & Bremner, 1864), # 93.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:C
+Q:1/4=112
+K:G
+V:1 clef=treble stem=up
+[M:C] D/4 | G/4 !sp!y G/4 !sp!y G/4 !sp!y A/4 | B3/8 c/8 !sp!y d/2 | B/2 !sp!y A/2 | G/2 !sp!y z/4 !sp!y D/4 | G/4 !sp!y G/4 !sp!y G/4 !sp!y A/4 | B3/8 c/8 !sp!y d/2 | B/2 !sp!y A/2 | G/2 !sp!y z/4 !sp!y G/4 | c/4 !sp!y c/4 !sp!y A/4 !sp!y A/4 | d/4 !sp!y d/4 !sp!y B3/8 B/8 | c/4 !sp!y c/4 !sp!y A/4 !sp!y A/4 | d3/8 c/8 !sp!y B/4 !sp!y D/4 | G/4 !sp!y G/4 !sp!y G/4 !sp!y A/4 | B3/8 c/8 !sp!y d/2 | B/2 !sp!y A/2 | G3/4 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3
++:E1 E2 E3 E4 E5 E6 E7 E8
++:F1 F2 F3 F4 F5 F6 F7 F8
++:G1 G2 G3 G4 G5 G6 G7 G8
++:H1 H2 H3
+V:2 clef=treble stem=down
+D/4 | D/4 !sp!y D/4 !sp!y G/4 !sp!y F/4 | G3/8 A/8 !sp!y B/2 | D/2 !sp!y F/2 | G/2 !sp!y x/4!sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y F/4 | G3/8 A/8 !sp!y B/2 | D/2 !sp!y [CF]/2 | B,/2 !sp!y x/4!sp!y G/4 | E/4 !sp!y E/4 !sp!y F/4 !sp!y F/4 | G/4 !sp!y G/4 !sp!y G3/8 G/8 | A/4 !sp!y A/4 !sp!y F/4 !sp!y F/4 | B3/8 A/8 !sp!y G/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y F/4 | G3/8 A/8 !sp!y B/2 | G/2 !sp!y F/2 | G3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:C] D,/4 | G,/4 !sp!y G,/4 !sp!y G,/4 !sp!y A,/4 | B,3/8 C/8 !sp!y D/2 | B,/2 !sp!y A,/2 | G,/2 !sp!y z/4 !sp!y D,/4 | G,/4 !sp!y G,/4 !sp!y G,/4 !sp!y A,/4 | B,3/8 C/8 !sp!y D/2 | B,/2 !sp!y A,/2 | G,/2 !sp!y z/4 !sp!y G,/4 | G,/4 !sp!y G,/4 !sp!y F,/4 !sp!y D/4 | D/4 !sp!y B,/4 !sp!y G,3/8 E/8 | E/4 !sp!y E/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y D/4 !sp!y D,/4 | G,/4 !sp!y G,/4 !sp!y G,/4 !sp!y A,/4 | B,3/8 C/8 !sp!y D/2 | D/2 !sp!y C/2 | B,3/4 |]
+w:
+V:4 clef=bass stem=down
+D,/4 | B,,/4 !sp!y B,,/4 !sp!y B,,/4 !sp!y D,/4 | G,3/8 A,/8 !sp!y B,/2 | G,/2 !sp!y D,/2 | B,,/2 !sp!y x/4!sp!y D,/4 | B,,/4 !sp!y B,,/4 !sp!y B,,/4 !sp!y D,/4 | G,3/8 A,/8 !sp!y B,/2 | G,/2 !sp!y D,/2 | G,,/2 !sp!y x/4!sp!y G,/4 | C,/4 !sp!y C,/4 !sp!y D,/4 !sp!y D,/4 | B,,/4 !sp!y B,,/4 !sp!y E,3/8 E,/8 | A,,/4 !sp!y A,,/4 !sp!y D,/4 !sp!y D,/4 | D,3/8 D,/8 !sp!y G,/4 !sp!y D,/4 | B,,/4 !sp!y B,,/4 !sp!y B,,/4 !sp!y D,/4 | G,3/8 A,/8 !sp!y B,/2 | D,/2 !sp!y D,/2 | G,,3/4 |]
+

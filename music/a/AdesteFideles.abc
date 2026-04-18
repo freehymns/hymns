@@ -1,0 +1,38 @@
+X:1
+T:ADESTE FIDELES
+P:Latin Text: John Francis Wade (1711-1786)
+P:English Tr: Frederick Oakeley (1841)
+C:John Francis Wade, circa 1743
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-03-25 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 234.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=115
+P:Verses
+K:G
+V:1 clef=treble stem=up
+[M:4/4] G/4 | G/2 !sp!y D/4 !sp!y G/4 | A/2 !sp!y D/2 | B/4 !sp!y A/4 !sp!y B/4 !sp!y c/4 | B/2 !sp!y A/4 !sp!y G/4 | G/2 !sp!y (F/4 E/4) | (F/4 G/4) !sp!y A/4 !sp!y B/4 | (F/2 E3/8) D/8 | D | d/2 !sp!y c/4 !sp!y B/4 | c/2 !sp!y B/2 | A/4 !sp!y B/4 !sp!y G/4 !sp!y A/4 | (F3/8 E/8) !sp!y D/4 || [P:REFRAIN] G/4 | G/4 F/4 G/4 !sp!y A/4 | G/2 D/4 !sp!y B/4 | B/4 !sp!y A/4 !sp!y B/4 !sp!y c/4 | B/2 !sp!y A/4 !sp!y B/4 | c/4 !sp!y B/4 !sp!y A/4 !sp!y G/4 | F/2 !sp!y (G/4 !sp!y c/4) | (B/2 A3/8) G/8 | G3/4 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12
++:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12
++:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12
++:D1 D2 D3 D4 D5 D6 D7
++:E1 E2 E3 E4 E5 E6 E7
++:F1 F2 F3 F4 F5 F6 F7_
++:G1_ G2 G3
+V:2 clef=treble stem=down
+D/4 | D/2 !sp!y x/4!sp!y D/4 | D/2 !sp!y D/2 | D/4 !sp!y D/4 !sp!y D/4 !sp!y E/4 | D/2 !sp!y D/4 !sp!y B,/4 | (B,/4 ^C/4) !sp!y (D/4 C/4) | D/2 !sp!y D/4 !sp!y D/4 | (D/2 ^C3/8) x/8| D | D/2 !sp!y (E/8F/8) !sp!y G/4 | (G/4 F/4) !sp!y G/2 | D/4 !sp!y D/4 !sp!y E/4 !sp!y E/4 | D/2 !sp!y D/4 || x/4 | x/4 x/4 x/4 !sp!y x/4| x/2 x/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D/2 !sp!y D/4 !sp!y G/4 | (E/8F/8) !sp!y G/4 !sp!y D/4 !sp!y (D/8^C/8) | D/2 !sp!y (D/4 E/4) | (D/2 D3/8) !sp!y B,/8 | B,3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,/4 | B,/2 !sp!y B,/4 !sp!y B,/4 | A,/2 !sp!y A,/2 | G,/4 !sp!y A,/4 !sp!y G,/4 !sp!y G,/4 | G,/2 !sp!y F,/4 !sp!y G,/4 | G,/2 !sp!y (A,/4 A,/4) | A,/4 G,/4 !sp!y F,/4 !sp!y E,/4 | A,/2 G,3/8 F,/8 | F, | B,/2 !sp!y C/4 !sp!y D/4 | C/2 !sp!y D/2 | A,/4 !sp!y G,/4 !sp!y B,/4 !sp!y C/4 | (A,3/8 G,/8) !sp!y F,/4 || z/4 | z | z3/4 !sp!y G,/4 | G,/4 !sp!y F,/4 !sp!y G,/4 !sp!y A,/4 | G,/2 !sp!y F,/4 !sp!y D/4 | C/4 !sp!y D/4 !sp!y A,/4 !sp!y A,/4 | A,/2 !sp!y G,/4 !sp!y G,/4 | (G,/2 F,3/8) G,/8 | G,3/4 |]
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12
++:b1 b2 b3 b4 b5_ b6 b7 b8_ b9 b10
++:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10_ c11
++:e1 e2 e3 e4 e5 e6 e7
++:f1 f2 f3 f4 f5 f6 f7_
++:g1_ g2 g3
+V:4 clef=bass stem=down
+G,/4 | G,/2 !sp!y B,/4 !sp!y G,/4 | F,/2 !sp!y F,/2 | G,/4 !sp!y F,/4 !sp!y G,/4 !sp!y C,/4 | D,/2 !sp!y D,/4 !sp!y E,/4 | E,/2 !sp!y (D,/4 A,,/4) | D,/4 B,,/4 !sp!y F,,/4 !sp!y G,,/4 | A,,/2 A,,3/8 D,/8 | D, | x/2!sp!y A,/4 !sp!y G,/4 | A,/2 !sp!y G,/2 | F,/4 !sp!y x/4!sp!y E,/4 !sp!y C,/4 | D,/2 !sp!y D,/4 || x/4 | x | x | x | x3/4 !sp!y G,/4 | A,/4 !sp!y G,/4 !sp!y F,/4 !sp!y E,/4 | (D,/4 C,/4) !sp!y B,,/4 !sp!y C,/4 | (D,/2 D,3/8) !sp!y G,,/8 | G,,3/4 |]
+

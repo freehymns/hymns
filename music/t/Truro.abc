@@ -1,0 +1,30 @@
+X:1
+T:TRURO
+C:Psalmodia Evangelica, by Thomas Williams, 1789
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-16 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 318.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:2/2
+Q:1/4=160
+K:C
+V:1 clef=treble stem=up
+[M:2/2] C/2 E3/8 F/8 | G3/4 G/4 | A/2 !sp!y B/2 | c3/4 G/4 | c/2 !sp!y G/2 | (F/4 E/4) !sp!y (D/4 C/4) | F/2 !sp!y E/2 | D3/4 D/4 | G/2 !sp!y A/2 | B3/4 d/4 | (d/4 c/4) !sp!y (B/4 A/4) | G3/4 G/4 | G/2 !sp!y c/2 | (D/4 A/4) !sp!y (G/4 F/4) | E/2 !sp!y D/2 | C |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4_ B5_ B6 B7 B8
++:C1 C2 C3 C4 C5 C6_ C7_ C8
++:D1 D2 D3 D4_ D5_ D6 D7 D8
+V:2 clef=treble stem=down
+C/2 C3/8 C/8 | C3/4 G/4 | F/2 !sp!y F/2 | E3/4 B,/4 | C/2 !sp!y C/2 | (B,/4 C/4) !sp!y (G,/4 C/4) | B,/2 !sp!y C/2 | B,3/4 B,/4 | D/2 !sp!y D/2 | D3/4 D/4 | E/2 !sp!y (D/4 C/4) | B,3/4 D/4 | C/2 !sp!y C/2 | (C/4 B,/4) !sp!y (C/4 D/4) | C/2 !sp!y B,/2 | C |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:2/2] E,/2 G,3/8 G,/8 | G,3/4 C/4 | C/2 !sp!y G,/2 | G,3/4 G,/4 | G,/2 !sp!y G,/2 | G,/2 !sp!y (B,/4 C/4) | G,/2 !sp!y G,/2 | G,3/4 G,/4 | G,/2 !sp!y ^F,/2 | G,3/4 G,/4 | G,/2 !sp!y (G,/4 ^F,/4) | G,3/4 B,/4 | C/2 !sp!y E,/2 | (A,/4 F,/4) !sp!y (G,/4 A,/4) | G,/2 !sp!y (G,/4 F,/4) | E, |]
+w:a1 a2 a3 a4 a5 a6 a7 a8
++:b1 b2 b3 b4 b5 b6 b7 b8
++:c1 c2 c3 c4 c5 c6 c7 c8
++:d1 d2 d3 d4 d5 d6 d7 d8
+V:4 clef=bass stem=down
+C,/2 C,3/8 D,/8 | E,3/4 E,/4 | F,/2 !sp!y D,/2 | C,3/4 D,/4 | E,/2 !sp!y E,/2 | (D,/4 C,/4) !sp!y (F,/4 E,/4) | D,/2 !sp!y C,/2 | G,,3/4 G,,/4 | B,,/2 !sp!y D,/2 | G,3/4 B,,/4 | C,/2 !sp!y D,/2 | G,,3/4 F,/4 | E,/2 !sp!y C,/2 | (F,/4 D,/4) !sp!y (E,/4 F,/4) | G,/2 !sp!y G,,/2 | C, |]
+

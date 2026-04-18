@@ -1,0 +1,25 @@
+X:1
+T:I Saw Three Ships
+C:Traditional English
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=100
+K:G
+V:1 clef=treble stem=up
+[M:3/4] |: D/8 | G/4 G/8 A/4 B/8 |  d/4 B/8 !sp!y A/4 c/8 | [1 B/4 G/8 !sp!y G/4 B/8 |  A/4 F/8 !sp!y D/4 :| [2 B/4 G/8 !sp!y G/8 A/8 | B/8 A3/8 !sp!y G/4 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4 B5 B6 B7 B8
++:C2 C3 C4 C5 C6 C7 C8
+V:2 clef=treble stem=down
+%%repbra 0
+|: B,/8 | D/4 D/8 D/4 G/8 | G/4 G/8 !sp!y D/4 A/8 | [1 G/4 D/8 !sp!y D/4 G/8 | D/4 D/8 !sp!y A,/4 :| [2 G/4 D/8 !sp!y D/8 G/8 | G/8 D3/8 !sp!y D/4 |]
+V:3 clef=bass stem=up
+%%repbra 0
+I:pos vocal above
+[M:3/4] |: G,/8 | B,/4 B,/8 B,/4 B,/8 | D/4 D/8 !sp!y A,/4 A,/8 | [1 B,/4 B,/8 !sp!y B,/4 D/8 | A,/4 A,/8 !sp!y A,/4 :| [2 D/4 B,/8 !sp!y B,/8 D/8 | D/8 A,3/8 !sp!y B,/4 |]
+V:4 clef=bass stem=down
+%%repbra 0
+|: D,/8 | G,/4 G,/8 A,/4 G,/8 | G,/4 G,/8 !sp!y D,/4 F,/8 | [1 G,/4 G,/8 !sp!y G,/4 B,/8 | D,/4 D,/8 !sp!y D,/4 :| [2 G,/4 G,/8 !sp!y G,/8 A,/8 | G,/8 D,3/8 !sp!y [G,,G,]/4 |]
+

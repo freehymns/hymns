@@ -1,0 +1,29 @@
+X:1
+T:VICTORY
+C:Giovanni Pierluigi da Palestrina, 1591
+Z:Terms:Arranged by William Henry Monk, 1861
+Z:Transcription:Converted on 2026-04-16 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 203.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=100
+K:D
+V:1 clef=treble stem=up
+[M:3/4] z/4 !sp!y F/4 !sp!y F/4 | G3/4 | F/4 !sp!y A/4 !sp!y A/4 | B3/4 | A/4 !sp!y A/4 !sp!y d/4 | c3/4 | d3/4 || A/4 !sp!y A/4 !sp!y A/4 | B/2 !sp!y A/4 | (A/4 G/4) !sp!y F/4 | A3/4 | F/4 !sp!y F/4 !sp!y F/4 | F/2 !sp!y F/4 | (F/4 E/4) !sp!y D/4 | E3/4 | A/4 !sp!y A/4 !sp!y A/4 | B/2 !sp!y A/4 | (A/4 G/4) !sp!y F/4 | A3/4 | z/4 !sp!y A/4 !sp!y d/4 | c3/4 | d3/4 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12
++:B1 B2 B3 B4 B5 B6_ B7 B8
++:C1 C2 C3 C4 C5 C6_ C7 C8
++:D1 D2 D3 D4 D5 D6_ D7 D8
++:E1 E2 E3 E4
+V:2 clef=treble stem=down
+x/4!sp!y D/4 !sp!y D/4 | D3/4 | D/4 !sp!y D/4 !sp!y D/4 | D3/4 | D/4 !sp!y D/4 !sp!y F/4 | E3/4 | F3/4 || F/4 !sp!y F/4 !sp!y F/4 | G/2 !sp!y F/4 | (F/4 B,/4) !sp!y D/4 | E3/4 | D/4 !sp!y D/4 !sp!y D/4 | D/2 !sp!y C/4 | (D/4 B,/4) !sp!y B,/4 | C3/4 | C/4 !sp!y F/4 !sp!y F/4 | G/2 !sp!y F/4 | (F/4 B,/4) !sp!y D/4 | E3/4 | x/4!sp!y D/4 !sp!y F/4 | E3/4 | F3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] D,,/4 !sp!y A,/4 !sp!y A,/4 | B,3/4 | A,/4 !sp!y F,/4 !sp!y F,/4 | G,3/4 | F,/4 !sp!y A,/4 !sp!y A,/4 | A,3/4 | A,3/4 || D/4 !sp!y D/4 !sp!y D/4 | D/2 !sp!y D/4 | (C/4 E/4) !sp!y D/4 | C3/4 | A,/4 !sp!y A,/4 !sp!y A,/4 | B,/2 !sp!y A,/4 | (A,/4 G,/4) !sp!y F,/4 | A,3/4 | A,/4 !sp!y D/4 !sp!y D/4 | D/2 !sp!y D/4 | (C/4 E/4) !sp!y D/4 | C3/4 | z/4 !sp!y D/4 !sp!y A,/4 | A,3/4 | A,3/4 |]
+w:a1 a2 a3 a4 a5 a6 a7 a8
++:b1 b2 b3 b4 b5 b6 b7 b8
+V:4 clef=bass stem=down
+x/4!sp!y D,/4 !sp!y D,/4 | G,,3/4 | D,/4 !sp!y D,/4 !sp!y D,/4 | G,,3/4 | D,/4 !sp!y F,/4 !sp!y D,/4 | A,,3/4 | D,3/4 || D,/4 !sp!y D,/4 !sp!y D,/4 | G,/2 !sp!y D,/4 | (F,/4 E,/4) !sp!y B,/4 | A,3/4 | D,/4 !sp!y D,/4 !sp!y D,/4 | B,,/2 !sp!y F,/4 | (D,/4 E,/4) !sp!y B,,/4 | A,,3/4 | F,/4 !sp!y D,/4 !sp!y D,/4 | G,/2 !sp!y D,/4 | (F,/4 E,/4) !sp!y B,/4 | A,3/4 | x/4!sp!y F,/4 !sp!y D,/4 | A,,3/4 | F,3/4 |]
+
