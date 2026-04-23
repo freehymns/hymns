@@ -40,3 +40,4 @@ Translator: George R. Woodward (1904)
 Tune: Ebeling
 Terms: Public Domain
 Variant: AhLordGod
+Index: No
