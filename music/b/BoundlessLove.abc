@@ -1,0 +1,40 @@
+X:1
+T:Behold, What Love!
+C:James McGranahan (1840-1907)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-04-25 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Sacred Songs & Solos, 888 Pieces, Ira D. Sankey (London: Morgan & Scott, late 19th Century), # 391.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:Db
+V:1 clef=treble stem=up
+[M:4/4] (D/8F/8) | A/4 !sp!y A/4 !sp!y A/4 !sp!y d/4 | A3/8 G/8 !sp!y F/4 !sp!y (D/8E/8) | F/4 !sp!y (A/8G/8) !sp!y F/4 !sp!y E/4 | D3/4 !sp!y (F/8A/8) | B/4 !sp!y B/4 !sp!y B/4 !sp!y (G/8B/8) | d/4 !sp!y d/4 !sp!y d/4 !sp!y (A/8d/8) | (c/8 e/4) !sp!y d/8 !sp!y c/4 !sp!y B/4 | A3/4 || [Q:1/4=140] [M:12/8] "REFRAIN" y A3/8 | d3/4- d/4 d/8 !sp!y d/8 c/8 B/8 | A3/4- A/4 !sp!y A/8 !sp!y B/8 !sp!y A/8 !sp!y G/8 | F/4 !sp!y F/8 !sp!y E/4 !sp!y F/8 !sp!y G/4 !sp!y A/8 !sp!y B/4 !sp!y c/8 | B3/8 !sp!y A3/4 !sp!y A3/8 | f3/4- f/4 e/8 !sp!y d/8 !sp!y c/8 !sp!y B/8 | A3/4- A3/8 !sp!y (d/8e/8) !sp!y f/8 | e3/8 !sp!y e3/8 !sp!y d3/8 !sp!y c3/8 | d3/4- d3/8 |]
+w:A1_ A2 A3 A4 A5 A6 A7 A8
++:B1_ B2 B3_ B4 B5 B6
++:C1_ C2 C3 C4 C5_ C6 C7 C8
++:D1_ D2_ D3 D4 D5 D6
++:E1 E2_ E3 E4 E5 E6 E7_
++:F1 F2 F3 F4 F5 F6
++:G1 G2 G3 G4 G5 G6 G7 G8
++:H1 H2_ H3 H4 H5 H6 H7_
++:I1_ I2 I3 I4 I5 I6 I7_
+V:2 clef=treble stem=down
+D/4 | D/4 !sp!y E/4 !sp!y F/4 !sp!y =E/4 | F3/8 E/8 !sp!y D/4 !sp!y D/4 | D/4 !sp!y (F/8E/8) !sp!y D/4 !sp!y C/4 | D3/4 !sp!y (D/8F/8) | G/4 !sp!y G/4 !sp!y G/4 !sp!y (D/8G/8) | F/4 !sp!y F/4 !sp!y F/4 !sp!y F/4 | E3/8 !sp!y =G/8 !sp!y A/4 !sp!y E/4 | E3/4 || [M:12/8] G3/8 | F3/4- F/4 F/8 !sp!y F/8 A/8 G/8 | F3/4- F/4 !sp!y F/8 !sp!y D/8 !sp!y D/8 !sp!y D/8 | D/4 !sp!y D/8 !sp!y C/4 !sp!y D/8 !sp!y E/4 !sp!y F/8 !sp!y G/4 !sp!y A/8 | G3/8 !sp!y F3/4 !sp!y F3/8 | A3/4- A/4 A/8 !sp!y B/8 !sp!y A/8 !sp!y G/8 | F3/4- F3/8 !sp!y (F/8G/8) !sp!y A/8 | G3/8 !sp!y G3/8 !sp!y F3/8 !sp!y (E/8F/8G/8) | F3/4- F3/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,/4 | F,/4 !sp!y G,/4 !sp!y A,/4 !sp!y B,/4 | A,3/8 A,/8 !sp!y A,/4 !sp!y (F,/8G,/8) | A,/4 !sp!y D/4 !sp!y D/4 !sp!y (A,/8G,/8) | F,3/4 !sp!y (A,/8D/8) | D/4 !sp!y D/4 !sp!y D/4 !sp!y B,/4 | A,/4 !sp!y A,/4 !sp!y A,/4 !sp!y (D/8A,/8) | (A,/8C/4) !sp!y B,/8 !sp!y A,/4 !sp!y =G,/4 | C3/4 || [M:12/8] A,3/8 | A,/4 A,/8 A,/8 A,/8 A,/8 A,3/8 !sp!y (A,/4 D/8) | D/4 D/8 D/8 D/8 D/8 D/4 !sp!y D/8 !sp!y D/8 !sp!y C/8 !sp!y B,/8 | A,/4 !sp!y A,/8 !sp!y A,/4 !sp!y A,/8 !sp!y A,/4 !sp!y D/8 !sp!y D/4 !sp!y D/8 | D3/8 !sp!y D3/4 !sp!y D3/8 | D3/8 D/4 D/8 D3/8 !sp!y D/8 !sp!y D/8 !sp!y D/8 | D/4 D/8 D/4 D/8 D3/8 !sp!y A,/4 !sp!y D/8 | B,3/8 !sp!y B,3/8 !sp!y A,3/8 !sp!y A,3/8 | A,3/4- A,3/8 |]
+w:a1 a2 a3 a4 a5 a6 a7 a8
++:b1_ b2 b3 b4 b5_ b6
++:c1_ c2 c3 c4 c5 c6 c7 C8
++:d1_ d2_ d3 d4 d5 d6
++:e1 e2 e3 e4 e5 e6 e7 e8_ e9 e10 e11 e12 e13 e14
++:f1 f2 f3 f4 f5 f6
++:g1 g2 g3 g4 g5 g6 g7 g8
++:h1 h2 h3 h4 h5 h6 h7 h8 h9 h10 h11 h12 h13
++:i1 i2 i3 i4 i5 i6 i7_
+V:4 clef=bass stem=down
+D,/4 | D,/4 !sp!y D,/4 !sp!y D,/4 !sp!y [D,=G,]/4 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/4 | D,/4 !sp!y D,/4 !sp!y A,,/4 !sp!y A,,/4 | D,3/4 !sp!y D,/4 | G,/4 !sp!y G,/4 !sp!y G,/4 !sp!y G,/4 | D,/4 !sp!y D,/4 !sp!y D,/4 !sp!y D,/4 | E,3/8 !sp!y E,/8 !sp!y E,/4 !sp!y E,/4 | A,3/4 || [M:12/8] A,3/8 | D,/4 D,/8 D,/8 D,/8 D,/8 D,3/8 !sp!y D,3/8 | D,/4 D,/8 D,/8 F,/8 F,/8 D/4 !sp!y D/8 !sp!y G,/8 !sp!y G,/8 !sp!y G,/8 | D,/4 !sp!y D,/8 !sp!y A,,/4 !sp!y A,,/8 !sp!y A,,/4 !sp!y A,,/8 !sp!y A,,/4 !sp!y A,,/8 | D,3/8 !sp!y D,3/4 !sp!y D,3/8 | D,3/8 D,/4 D,/8 D,3/8 !sp!y G,/8 !sp!y G,/8 !sp!y G,/8 | D,/4 D,/8 F,/4 A,/8 D3/8 !sp!y D,/4 !sp!y D,/8 | G,3/8 !sp!y E,3/8 !sp!y A,3/8 !sp!y A,,3/8 | D,3/4- D,3/8 |]
+
