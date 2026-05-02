@@ -4,6 +4,7 @@ C:William Caldwell, 19th Century
 Z:Terms:Public Domain
 Z:Transcription:Converted on 2026-04-24 using nwctxt2abc from https://github.com/freehymns/translator
 Z:Sources:The Cyber Hymnal(tm), from Hymn and Tune Book for Use in Old School or Primitive Baptist Churches, by Silas H. Durand & P. G. Lester (Greenfield, Indiana: D. H. Goble, 1886), # 9.
+Z:Edits:Corrected note a1.
 I:score (1 2) (3 4)
 I:voicecombine 1
 L:1/1
@@ -22,7 +23,7 @@ V:2 clef=treble stem=down
 D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y G/4 | F/4 !sp!y F/4 !sp!y F/4 !sp!y (G/8F/8) | G3/8 F/8 !sp!y G3/8 G/8 | G/4 !sp!y F/4 !sp!y D/4 !sp!y G/4 | G/4 !sp!y G/4 !sp!y (G3/16F/16) !sp!y G/4 | F/4 !sp!y F/4 !sp!y D/4 !sp!y (D/8F/8) | G3/8 F/8 !sp!y G3/8 G/8 | G/4 !sp!y F/4 !sp!y D/2 | F3/8 G/8 !sp!y (F/8D/8) !sp!y D/4 | A3/8 B/8 !sp!y (A/8G/8) !sp!y F/8 (G/16F/16) | G3/8 F/8 !sp!y G3/8 G/8 | G/4 !sp!y F/4 !sp!y D/4 |]
 V:3 clef=bass stem=up
 I:pos vocal above
-[M:4/4] F,/4 | B,/4 !sp!y B,/4 !sp!y (B,3/16C/16) | (D3/16B,/16) !sp!y D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y !fermata!B,/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y B,/2 | D3/8 D/8 !sp!y (D/8A,/8) !sp!y F,/4 | D3/8 D/8 !sp!y D/4 !sp!y D/8 D/8 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y !fermata!B,/4 |]
+[M:4/4] D,/4 | B,/4 !sp!y B,/4 !sp!y (B,3/16C/16) | (D3/16B,/16) !sp!y D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y !fermata!B,/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y B,/2 | D3/8 D/8 !sp!y (D/8A,/8) !sp!y F,/4 | D3/8 D/8 !sp!y D/4 !sp!y D/8 D/8 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y !fermata!B,/4 |]
 V:4 clef=bass stem=down
-F,/4 | G,,/4 !sp!y G,/4 !sp!y G,/4 | G,/4 !sp!y D,/4 !sp!y D,/4 !sp!y D,/4 !sp!y (G,/8A,/8) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/4 !sp!y (G,3/16A,/16) | B,/4 !sp!y B,/4 !sp!y (B,3/16A,/16) !sp!y G,/4 | A,/4 !sp!y A,/4 !sp!y (A,3/16G,/16) !sp!y (F,/8A,/8) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/2 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/4 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/8 (G,/16A,/16) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/4 |]
+D,/4 | G,,/4 !sp!y G,/4 !sp!y G,/4 | G,/4 !sp!y D,/4 !sp!y D,/4 !sp!y D,/4 !sp!y (G,/8A,/8) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/4 !sp!y (G,3/16A,/16) | B,/4 !sp!y B,/4 !sp!y (B,3/16A,/16) !sp!y G,/4 | A,/4 !sp!y A,/4 !sp!y (A,3/16G,/16) !sp!y (F,/8A,/8) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/2 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/4 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/8 (G,/16A,/16) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/4 |]
 

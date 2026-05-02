@@ -6,9 +6,9 @@ When= they are both full grown,
 Of_ all the trees that are in the wood,
 The_ Hol-ly bears the crown.
 
-Refrain:@A1
+Refrain:0@A1
 From the ris-ing of the sun to
-The_ set-ting of the same,
+The= set-ting of the same,
 May we med-i-tate on= Jes-us Christ
 And_ of His worth pro-claim.
 
@@ -45,3 +45,10 @@ So the Hol-ly bears the crown.
 ---
 Topic: Christmas
 Author: Traditional British carol
+Road Map: @D1;1;0;2;0;3;0;4;0;5;0;6;0
+
+---Traditional Refrain
+From the ris-ing of the sun to>The= ris-ing of the sun_
+The= set-ting of the same,>And the run-ning of the deer,
+May we med-i-tate on= Jes-us Christ>The_ play-ing of the= mer-ry or\-
+And_ of His worth pro-claim.>gan, sweet sing-ing in the choir.
