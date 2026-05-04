@@ -3,7 +3,7 @@ T:Hallelujah, He Is Risen!
 C:Philip Paul Bliss
 Z:Terms:Public Domain
 Z:Transcription:Converted on 2026-04-10 using nwctxt2abc from https://github.com/freehymns/translator
-Z:Sources:The Cyber Hymnal(tm), Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey (Chicago, Illinois: Biglow & Main, 1894), # 90.
+Z:Sources:The Cyber Hymnal(tm), from Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey (Chicago, Illinois: Biglow & Main, 1894), # 90.
 I:score (1 2) (3 4)
 I:voicecombine 1
 L:1/1
@@ -11,21 +11,41 @@ M:3/4
 Q:1/4=100
 K:G
 V:1 clef=treble stem=up
-[M:3/4] d3/16 d/16 | d3/8 B/8 !sp!y A3/16 B/16 | G/4 !sp!y D/4 !sp!y G3/16 G/16 | A3/8 c/8 !sp!y B3/16 A/16 | B/2 !sp!y d3/16 d/16 | d3/8 B/8 !sp!y A3/16 B/16 | G/4 !sp!y D/4 !sp!y G3/16 G/16 | A3/8 c/8 !sp!y B3/16 A/16 | G/2 [|: G3/16 G/16 | e3/8 e/8 !sp!y e3/16 e/16 | d/4 !sp!y B/4 !sp!y B3/16 d/16 | c3/8 c/8 !sp!y B3/16 A/16 | [1 B/2 :| [2 G/2 |]
+[M:3/4] d3/16 d/16 | d3/8 B/8 A3/16 B/16 | G/4 D/4 \
 w:A1 A2 A3 A4 A5 A6 A7 A8
-+:B1 B2 B3 B4 B5 B6 B7
-+:C1 C2 C3 C4 C5 C6 C7 C8
-+:D1 D2 D3 D4 D5 D6 D7
-+:E1 E2 E3 E4 E5 E6 E7 E8
-+:F1 F2 F3 F4 F5 F6 F7 G1
+G3/16 G/16 | A3/8 c/8 B3/16 A/16 | B/2 \
+w:B1 B2 B3 B4 B5 B6 B7
+d3/16 d/16 | d3/8 B/8 A3/16 B/16 | G/4 D/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+G3/16 G/16 | A3/8 c/8 B3/16 A/16 | G/2 \
+w:D1 D2 D3 D4 D5 D6 D7
+[|: G3/16 G/16 | e3/8 e/8 e3/16 e/16 | d/4 B/4 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+B3/16 d/16 | c3/8 c/8 B3/16 A/16 | [1 B/2 :| [2 G/2 |]
+w:F1 F2 F3 F4 F5 F6 F7 F8
 V:2 clef=treble stem=down
 %%repbra 0
-G3/16 G/16 | G3/8 G/8 !sp!y F3/16 F/16 | G/4 !sp!y B,/4 !sp!y D3/16 G/16 | F3/8 A/8 !sp!y G3/16 F/16 | G/2 !sp!y G3/16 G/16 | G3/8 G/8 !sp!y F3/16 F/16 | G/4 !sp!y B,/4 !sp!y D3/16 G/16 | F3/8 A/8 !sp!y G3/16 F/16 | G/2 [|: G3/16 G/16 | G3/8 G/8 !sp!y G3/16 G/16 | G/4 !sp!y G/4 !sp!y G3/16 G/16 | F3/8 A/8 !sp!y G3/16 F/16 | [1 G/2 :| [2 G/2 |]
+G3/16 G/16 | G3/8 G/8 F3/16 F/16 | G/4 B,/4 \
+D3/16 G/16 | F3/8 A/8 G3/16 F/16 | G/2 \
+G3/16 G/16 | G3/8 G/8 F3/16 F/16 | G/4 B,/4 \
+D3/16 G/16 | F3/8 A/8 G3/16 F/16 | G/2 \
+[|: G3/16 G/16 | G3/8 G/8 G3/16 G/16 | G/4 G/4 \
+G3/16 G/16 | F3/8 A/8 G3/16 F/16 | [1 G/2 :| [2 G/2 |]
 V:3 clef=bass stem=up
 I:pos vocal above
 %%repbra 0
-[M:3/4] B,3/16 B,/16 | B,3/8 D/8 !sp!y C3/16 C/16 | B,/4 !sp!y G,/4 !sp!y B,3/16 B,/16 | D3/8 D/8 !sp!y D3/16 D/16 | D/2 !sp!y B,3/16 B,/16 | B,3/8 D/8 !sp!y C3/16 C/16 | B,/4 !sp!y G,/4 !sp!y B,3/16 B,/16 | D3/8 D/8 !sp!y D3/16 C/16 | B,/2 [|: B,3/16 B,/16 | C3/8 C/8 !sp!y C3/16 C/16 | B,/4 !sp!y D/4 !sp!y D3/16 B,/16 | A,3/8 D/8 !sp!y D3/16 D/16 | [1 B,/2 :| [2 | B,/2 |]
+[M:3/4] B,3/16 B,/16 | B,3/8 D/8 C3/16 C/16 | B,/4 G,/4 \
+B,3/16 B,/16 | D3/8 D/8 D3/16 D/16 | D/2 \
+B,3/16 B,/16 | B,3/8 D/8 C3/16 C/16 | B,/4 G,/4 \
+B,3/16 B,/16 | D3/8 D/8 D3/16 C/16 | B,/2 \
+[|: B,3/16 B,/16 | C3/8 C/8 C3/16 C/16 | B,/4 D/4 \
+D3/16 B,/16 | A,3/8 D/8 D3/16 D/16 | [1 B,/2 :| [2 | B,/2 |]
 V:4 clef=bass stem=down
 %%repbra 0
-G,3/16 G,/16 | G,3/8 G,/8 !sp!y D,3/16 D,/16 | G,/4 !sp!y G,,/4 !sp!y G,3/16 G,/16 | D,3/8 D,/8 !sp!y D,3/16 D,/16 | G,/2 !sp!y G,3/16 G,/16 | G,3/8 G,/8 !sp!y D,3/16 D,/16 | G,/4 !sp!y G,,/4 !sp!y G,3/16 G,/16 | D,3/8 D,/8 !sp!y D,3/16 D,/16 | G,,/2 [|: G,3/16 G,/16 | C,3/8 D,/8 !sp!y E,3/16 F,/16 | G,/4 !sp!y G,/4 !sp!y G,3/16 G,/16 | D,3/8 D,/8 !sp!y D,3/16 D,/16 | [1 G,/2 :| [2 G,,/2 |]
+G,3/16 G,/16 | G,3/8 G,/8 D,3/16 D,/16 | G,/4 G,,/4 \
+G,3/16 G,/16 | D,3/8 D,/8 D,3/16 D,/16 | G,/2 \
+G,3/16 G,/16 | G,3/8 G,/8 D,3/16 D,/16 | G,/4 G,,/4 \
+G,3/16 G,/16 | D,3/8 D,/8 D,3/16 D,/16 | G,,/2 \
+[|: G,3/16 G,/16 | C,3/8 D,/8 E,3/16 F,/16 | G,/4 G,/4 \
+G,3/16 G,/16 | D,3/8 D,/8 D,3/16 D,/16 | [1 G,/2 :| [2 G,,/2 |]
 

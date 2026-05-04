@@ -5,23 +5,35 @@ M:4/4
 L:1/1
 K:Bb
 V:1
-y [DF]/8 y [DF]/8 | y [FB]/4 !sp!y [FB]/4 !sp!y [FB]/8 [EG]/8 !sp!y [DF]/8 [EG]/8 | [DB]/4 !sp!y [EG]/4 !sp!y [DF]/4 !sp!y B/8 c/8 | ([F/4d3/4] G/4 F/4) !sp!y [=EB]/8 [EB]/8 & !hid!d3/4 x/4 | ([F/4c3/4] =E/8 E/8 F/4) !sp!y [Fd]/8 [_Ec]/8 & !hid!c3/4 x/4 | [DB]/4 !sp!y [Fd]/4 !sp!y [DB]/8 [Ec]/8 !sp!y [DB]/8 [Fc]/8 | [GB]/4 !sp!y [EG]/4 !sp!y [DF]/4 !sp!y G/8 B/8 | ([F/4d3/4] G/4 F/4) !sp!y [Ec]/8 [Ec]/8 & !hid!d3/4 x/4 | [DB]3/4 || "REFRAIN" y F/8 G/8 | ([D/4B/2] E/4 D/4) !sp!y [EG]/8 [EG]/8 & !hid!B/2 x/2 | ([D/4F3/4] D/8 E/8 F/4) !sp!y B/8 c/8 & !hid!F3/4 x/4 | ([F/4d3/4] ^F/4 G/4) !sp!y [=Ec]/8 [Ed]/8 & !hid!d3/4 x/4 | ([F/4c3/4] =E/4 F/4) !sp!y [Fd]/8 [_Ec]/8 & !hid!c3/4 x/4 | [DB]/4 !sp!y [Fd]/4 !sp!y [Fd]/8 [Ec]/8 !sp!y [DB]/8 [Fc]/8 | [GB]/4 !sp!y [EG]/4 !sp!y [DF]/4 !sp!y [Fd]/8 [DB]/8 | ([F/4d3/4] ^F/4 G/4) !sp!y B/8 [=Fc]/8 & !hid!d3/4 B/8 x/8 | [FB]3/4 |]
+y [DF]/8 y [DF]/8 | y [FB]/4 [FB]/4 [FB]/8 [EG]/8 [DF]/8 [EG]/8 | [DB]/4 [EG]/4 [DF]/4 \
 w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
-+:B1 B2 B3__ B4 B5 B6___
-+:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
-+:D1 D2 D3__ D4 D5 D6
-+:E1 E2 E3__ E4 E5 E6___
-+:F1 F2 F3__ F4 F5 F6__
-+:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11
-+:H1 H2 H3__ H4 H5 H6
+B/8 c/8 | ([F/4d3/4] G/4 F/4) [=EB]/8 [EB]/8 & !hid!d3/4 x/4 | ([F/4c3/4] =E/8 E/8 \
+w:B1 B2 B3__ B4 B5 B6___
+F/4) [Fd]/8 [_Ec]/8 & !hid!c3/4 x/4 | [DB]/4 [Fd]/4 [DB]/8 [Ec]/8 [DB]/8 [Fc]/8 | [GB]/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+[EG]/4 [DF]/4 G/8 B/8 | ([F/4d3/4] G/4 F/4) [Ec]/8 \
+w:D1 D2 D3__ D4 D5 D6
+[Ec]/8 & !hid!d3/4 x/4 | [DB]3/4 ||  F/8 G/8 | ([D/4B/2] E/4 D/4) [EG]/8 [EG]/8 & !hid!B/2 \
+w:E1 E2 E3__ E4 E5 E6___
+x/2 | ([D/4F3/4] D/8 E/8 F/4) B/8 c/8 & !hid!F3/4 x/4 | ([F/4d3/4] ^F/4 G/4) \
+w:F1 F2 F3__ F4 F5 F6__
+[=Ec]/8 [Ed]/8 & !hid!d3/4 x/4 | ([F/4c3/4] =E/4 F/4) [Fd]/8 [_Ec]/8 & !hid!c3/4 x/4 | [DB]/4 [Fd]/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11
+[Fd]/8 [Ec]/8 [DB]/8 [Fc]/8 | [GB]/4 [EG]/4 [DF]/4 [Fd]/8 [DB]/8 | ([F/4d3/4] ^F/4 G/4) B/8 [=Fc]/8 & !hid!d3/4 B/8 x/8 | [FB]3/4 |]
+w:H1 H2 H3__ H4 H5 H6
 V:2
 I:pos vocal up
-[B,,B,]/8 [B,,B,]/8 | [B,,D]/4 !sp!y [B,,D]/4 !sp!y [B,,D]/8 [B,,B,]/8 !sp!y [B,,B,]/8 [B,,B,]/8 | [B,,F,]/4 !sp!y [B,,B,]/4 !sp!y [B,,B,]/4 !sp!y z/4 | B,/4 [G,B,]/4 [D,B,]/4 !sp!y [G,B,]/8 [G,B,]/8 & B,/4 x/2 x/4 | [F,A,]/4 [C,B,]/8 [C,B,]/8 [F,A,]/4 !sp!y [B,,B,]/8 [B,,B,]/8 | [B,,F,]/4 !sp!y [B,,B,]/4 !sp!y [B,,F,]/8 [B,,F,]/8 !sp!y [B,,F,]/8 [D,B,]/8 | [E,B,]/4 !sp!y [E,B,]/4 !sp!y [B,,B,]/4 !sp!y z/4 | B,/4 [G,B,]/4 [D,B,]/4 !sp!y [F,A,]/8 [F,A,]/8 & B,/4 x/2 x/4 | [B,,B,]3/4 || z/4 | [B,,F,]/4 [B,,G,]/4 [B,,B,]/4 !sp!y [E,B,]/8 [E,B,]/8 | [B,,B,]/4 [B,,B,]/8 [C,A,]/8 [D,B,]/4 !sp!y z/4 | B,/4 [A,C]/4 [G,B,]/4 !sp!y [C,G,]/8 [C,B,]/8 & B,/4 x/2 x/4 | [F,A,]/4 [G,B,]/4 [F,A,]/4 !sp!y [B,,B,]/8 [B,,B,]/8 | [B,,B,]/4 !sp!y [B,,B,]/4 !sp!y [B,,B,]/8 [B,,F,]/8 !sp!y [B,,F,]/8 [D,B,]/8 | [E,B,]/4 !sp!y [E,B,]/4 !sp!y [B,,B,]/4 !sp!y z/4 | B,/4 [A,C]/4 [G,B,]/4 !sp!y [F,E]/8 [F,F]/8 & B,/4 x/2 x/4 | [B,,D]3/4 |]
+[B,,B,]/8 [B,,B,]/8 | [B,,D]/4 [B,,D]/4 [B,,D]/8 [B,,B,]/8 [B,,B,]/8 [B,,B,]/8 | [B,,F,]/4 [B,,B,]/4 [B,,B,]/4 \
 w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11
-+:b1 b2 b3 b4 b5 b6 b7 b8 b9
-+:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11
-+:d1 d2 d3 d4 d5 d6
-+:e1 e2 e3 e4 e5 e6 e7 e8 e9
-+:f1 f2 f3 f4 f5 f6 f7 f8
-+:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10 g11
-+:h1 h2 h3 h4 h5 h6
+z/4 | B,/4 [G,B,]/4 [D,B,]/4 [G,B,]/8 [G,B,]/8 & B,/4 x/2 x/4 | [F,A,]/4 [C,B,]/8 [C,B,]/8 \
+w:b1 b2 b3 b4 b5 b6 b7 b8 b9
+[F,A,]/4 [B,,B,]/8 [B,,B,]/8 | [B,,F,]/4 [B,,B,]/4 [B,,F,]/8 [B,,F,]/8 [B,,F,]/8 [D,B,]/8 | [E,B,]/4 [E,B,]/4 [B,,B,]/4 z/4 | B,/4 \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 c12 c13
+[G,B,]/4 [D,B,]/4 [F,A,]/8 [F,A,]/8 & B,/4 x/2 x/4 | \
+w:d1 d2 d3 d4 d5
+[B,,B,]3/4 || z/4 | [B,,F,]/4 [B,,G,]/4 [B,,B,]/4 [E,B,]/8 [E,B,]/8 | [B,,B,]/4 [B,,B,]/8 [C,A,]/8 [D,B,]/4 z/4 | B,/4 [A,C]/4 \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12
+[G,B,]/4 [C,G,]/8 [C,B,]/8 & B,/4 x/2 x/4 | [F,A,]/4 [G,B,]/4 [F,A,]/4 [B,,B,]/8 [B,,B,]/8 | [B,,B,]/4 [B,,B,]/4 [B,,B,]/8 [B,,F,]/8 \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 f13
+[B,,F,]/8 [D,B,]/8 | [E,B,]/4 [E,B,]/4 [B,,B,]/4 z/4 | B,/4 [A,C]/4 [G,B,]/4 [F,E]/8 [F,F]/8 & B,/4 x/2 x/4 | [B,,D]3/4 |]\
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10 g11 g12

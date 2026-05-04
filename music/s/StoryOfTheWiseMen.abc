@@ -3,7 +3,7 @@ T:Story of the Wise Men
 C:Arranged from Beethoven by Helen M. Browne
 Z:Terms:Public Domain
 Z:Transcription:Converted on 2026-04-16 using nwctxt2abc from https://github.com/freehymns/translator
-Z:Sources:The Cyber Hymnal(tm), Let Youth Praise Him! (Grand Rapids, Michigan: William B. Eeerdmans, 1967), # 58. Cites original source as  Children\'s Melodies (Wapello, Iowa: Leyda Publishing Company).\r\n\r\n
+Z:Sources:The Cyber Hymnal(tm), from Let Youth Praise Him! (Grand Rapids, Michigan: William B. Eeerdmans, 1967), # 58. Cites original source as  Children's Melodies (Wapello, Iowa: Leyda Publishing Company).
 I:score (1 2) (3 4)
 I:voicecombine 1
 L:1/1
@@ -11,18 +11,38 @@ M:3/4
 Q:1/4=100
 K:F
 V:1 clef=treble stem=up
-[M:3/4] A3/16 B/16 | c3/16 =B/16 !sp!y c3/16 B/16 !sp!y c3/16 B/16 | c/2 !sp!y d3/16 A/16 | B/4 !sp!y B/4 !sp!y c3/16 G/16 | A/4 !sp!y z/4 !sp!y F3/16 G/16 | A3/16 ^G/16 !sp!y A3/16 G/16 !sp!y A3/16 G/16 | A/2 !sp!y B3/16 ^F/16 | G/4 !sp!y G/4 !sp!y A3/16 E/16 | F/4 !sp!y z/4 !sp!y c/8 f/8 | f/4 !sp!y e/4 !sp!y g/4 | g/2 !sp!y B/4 | A/2 !sp!y (B3/16^F/16) | G/2 !sp!y (A3/16E/16) | F/4 z/4 |]
+[M:3/4] A3/16 B/16 | c3/16 =B/16 c3/16 B/16 c3/16 B/16 | c/2 \
 w:A1 A2 A3 A4 A5 A6 A7 A8 A9
-+:B1 B2 B3 B4 B5 B6 B7
-+:C1 C2 C3 C4 C5 C6 C7 C8 C9
-+:D1 D2 D3 D4 D5 D6 D7
-+:E1 E2 E3 E4 E5 E6
-+:F1 F2 F3 F4 F5 F6 F7 F8
+d3/16 A/16 | B/4 B/4 c3/16 G/16 | A/4 \
+w:B1 B2 B3 B4 B5 B6 B7
+z/4 F3/16 G/16 | A3/16 ^G/16 A3/16 G/16 A3/16 G/16 | A/2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9
+B3/16 ^F/16 | G/4 G/4 A3/16 E/16 | F/4 \
+w:D1 D2 D3 D4 D5 D6 D7
+z/4 c/8 f/8 | f/4 e/4 g/4 | g/2 \
+w:E1 E2 E3 E4 E5 E6
+B/4 | A/2 (B3/16^F/16) | G/2 (A3/16E/16) | F/4 z/4 |]
+w:F1 F2 F3 F4 F5 F6 F7 F8
 V:2 clef=treble stem=down
-F3/16 G/16 | A3/16 ^G/16 !sp!y A3/16 G/16 !sp!y A3/16 G/16 | A/2 !sp!y B3/16 ^F/16 | G/4 !sp!y G/4 !sp!y A3/16 E/16 | F/4 !sp!y x/4!sp!y A,3/16 C/16 | C3/16 =B,/16 !sp!y C3/16 B,/16 !sp!y C3/16 B,/16 | C/2 !sp!y D3/16 A,/16 | B,/4 !sp!y B,/4 !sp!y C3/16 G,/16 | A,/4 !sp!y x/4!sp!y x/8 x/8| c/4 !sp!y B/4 !sp!y A/4 | G/2 !sp!y G/4 | C/2 !sp!y (D3/16A,/16) | B,/2 !sp!y (C3/16G,/16) | A,/4 x/4|]
+F3/16 G/16 | A3/16 ^G/16 A3/16 G/16 A3/16 G/16 | A/2 \
+B3/16 ^F/16 | G/4 G/4 A3/16 E/16 | F/4 \
+x/4A,3/16 C/16 | C3/16 =B,/16 C3/16 B,/16 C3/16 B,/16 | C/2 \
+D3/16 A,/16 | B,/4 B,/4 C3/16 G,/16 | A,/4 \
+x/4x/8 x/8| c/4 B/4 A/4 | G/2 \
+G/4 | C/2 (D3/16A,/16) | B,/2 (C3/16G,/16) | A,/4 x/4|]
 V:3 clef=bass stem=up
 I:pos vocal above
-[M:3/4] z/4 | F,,/4 !sp!y A,,/4 !sp!y C,/4 | F,/4 F,,/4 !sp!y z/4 | C,/4 !sp!y C,,/4 !sp!y z/4 | F,,/4 !sp!y F,,,/4 !sp!y z/4 | F,,/4 !sp!y A,,/4 !sp!y C,/4 | F,/4 _E,/4 !sp!y D,/4- | D,/4 !sp!y _D,/4 !sp!y C,/4 | F,,/4 !sp!y F,/4 !sp!y z/4 | C/4 !sp!y C/4 !sp!y C/4 | C/2 !sp!y C/4 | (F,/4 _E,/4) !sp!y D,/4- | D,/4 _D,/4 !sp!y C,/4 | (F,,/4 F,/4) |]
+[M:3/4] z/4 | F,,/4 A,,/4 C,/4 | F,/4 F,,/4 \
+z/4 | C,/4 C,,/4 z/4 | F,,/4 \
+F,,,/4 z/4 | F,,/4 A,,/4 C,/4 | F,/4 _E,/4 \
+D,/4- | D,/4 _D,/4 C,/4 | F,,/4 \
+F,/4 z/4 | C/4 C/4 C/4 | C/2 \
+C/4 | (F,/4 _E,/4) D,/4- | D,/4 _D,/4 C,/4 | (F,,/4 F,/4) |]
 V:4 clef=bass stem=down
- x/4| x/4!sp!y x/4!sp!y x/4| x/4 x/4!sp!y x/4| x/4!sp!y x/4!sp!y x/4| x/4!sp!y x/4!sp!y x/4| F,,,/4 !sp!y A,,,/4 !sp!y C,,/4 | F,,/4 _E,,/4 !sp!y D,,/4- | D,,/4 !sp!y _D,,/4 !sp!y C,,/4 | x/4!sp!y x/4!sp!y x/4| A,/4 !sp!y G,/4 !sp!y F,/4 | E,/4 C,/4 !sp!y E,/4 | (F,,/4 _E,,/4) !sp!y D,,/4- | D,,/4 _D,,/4 !sp!y C,,/4 | x/4 x/4|]
+x/4| x/4x/4x/4| x/4 x/4\
+x/4| x/4x/4x/4| x/4\
+x/4x/4| F,,,/4 A,,,/4 C,,/4 | F,,/4 _E,,/4 \
+D,,/4- | D,,/4 _D,,/4 C,,/4 | x/4\
+x/4x/4| A,/4 G,/4 F,/4 | E,/4 C,/4 \
+E,/4 | (F,,/4 _E,,/4) D,,/4- | D,,/4 _D,,/4 C,,/4 | x/4 x/4|]
 

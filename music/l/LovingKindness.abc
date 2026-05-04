@@ -12,18 +12,38 @@ M:4/4
 Q:1/4=108
 K:G
 V:1 clef=treble stem=up
-[M:4/4] D/4 | G/4 !sp!y G/4 !sp!y (G3/16A/16) !sp!y (B3/16G/16) | A/4 !sp!y A/4 !sp!y A/4 !sp!y (B/8c/8) | d3/8 c/8 !sp!y (B/8G/8d/8) B/8 | G/4 !sp!y A/4 !sp!y !fermata!G/4 !sp!y (B3/16c/16) | d/4 !sp!y d/4 !sp!y (d3/16c/16) !sp!y B/4 | c/4 !sp!y c/4 !sp!y (c3/16B/16) !sp!y (A/8c/8) | d3/8 c/8 !sp!y (B/8G/8d/8) B/8 | G/4 !sp!y A/4 !sp!y G/2 | A3/8 B/8 !sp!y (A/8F/8) !sp!y D/4 | c3/8 d/8 !sp!y (c/8B/8) !sp!y A/8 (B/16c/16) | d3/8 c/8 !sp!y (B/8G/8d/8) B/8 | G/4 !sp!y A/4 !sp!y !fermata!G/4 |]
+[M:4/4] D/4 | G/4 G/4 (G3/16A/16) (B3/16G/16) | A/4 A/4 A/4 \
 w:A1 A2 A3 A4_ A5_ A6 A7 A8
-+:B1_ B2 B3 B4__ B5 B6 B7 B8
-+:C1_ C2 C3 C4_ C5 C6 C7 C8_
-+:D1_ D2 D3 D4__ D5 D6 D7 D8
-+:E1 E2 E3_ E4 E5 E6 E7_ E8
-+:F1_ F2 F3 F4__ F5 F6 F7 F8
+(B/8c/8) | d3/8 c/8 (B/8G/8d/8) B/8 | G/4 A/4 !fermata!G/4 \
+w:B1_ B2 B3 B4__ B5 B6 B7 B8
+(B3/16c/16) | d/4 d/4 (d3/16c/16) B/4 | c/4 c/4 (c3/16B/16) \
+w:C1_ C2 C3 C4_ C5 C6 C7 C8_
+(A/8c/8) | d3/8 c/8 (B/8G/8d/8) B/8 | G/4 A/4 G/2 | \
+w:D1_ D2 D3 D4__ D5 D6 D7 D8
+A3/8 B/8 (A/8F/8) D/4 | c3/8 d/8 (c/8B/8) A/8 \
+w:E1 E2 E3_ E4 E5 E6 E7_ E8
+(B/16c/16) | d3/8 c/8 (B/8G/8d/8) B/8 | G/4 A/4 !fermata!G/4 |]
+w:F1_ F2 F3 F4__ F5 F6 F7 F8
 V:2 clef=treble stem=down
-D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y G/4 | F/4 !sp!y F/4 !sp!y F/4 !sp!y (G/8F/8) | G3/8 F/8 !sp!y G3/8 G/8 | G/4 !sp!y F/4 !sp!y D/4 !sp!y G/4 | G/4 !sp!y G/4 !sp!y (G3/16F/16) !sp!y G/4 | F/4 !sp!y F/4 !sp!y D/4 !sp!y (D/8F/8) | G3/8 F/8 !sp!y G3/8 G/8 | G/4 !sp!y F/4 !sp!y D/2 | F3/8 G/8 !sp!y (F/8D/8) !sp!y D/4 | A3/8 B/8 !sp!y (A/8G/8) !sp!y F/8 (G/16F/16) | G3/8 F/8 !sp!y G3/8 G/8 | G/4 !sp!y F/4 !sp!y D/4 |]
+D/4 | D/4 D/4 D/4 G/4 | F/4 F/4 F/4 \
+(G/8F/8) | G3/8 F/8 G3/8 G/8 | G/4 F/4 D/4 \
+G/4 | G/4 G/4 (G3/16F/16) G/4 | F/4 F/4 D/4 \
+(D/8F/8) | G3/8 F/8 G3/8 G/8 | G/4 F/4 D/2 | \
+F3/8 G/8 (F/8D/8) D/4 | A3/8 B/8 (A/8G/8) F/8 \
+(G/16F/16) | G3/8 F/8 G3/8 G/8 | G/4 F/4 D/4 |]
 V:3 clef=bass stem=up
 I:pos vocal above
-[M:4/4] D,/4 | B,/4 !sp!y B,/4 !sp!y (B,3/16C/16) | (D3/16B,/16) !sp!y D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y !fermata!B,/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D/4 !sp!y D/4 !sp!y D/4 !sp!y D/4 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y B,/2 | D3/8 D/8 !sp!y (D/8A,/8) !sp!y F,/4 | D3/8 D/8 !sp!y D/4 !sp!y D/8 D/8 | D3/8 D/8 !sp!y (D/8 B,/4) D/8 | B,/4 !sp!y C/4 !sp!y !fermata!B,/4 |]
+[M:4/4] D,/4 | B,/4 B,/4 (B,3/16C/16) | (D3/16B,/16) D/4 D/4 D/4 \
+D/4 | D3/8 D/8 (D/8 B,/4) D/8 | B,/4 C/4 !fermata!B,/4 \
+D/4 | D/4 D/4 D/4 D/4 | D/4 D/4 D/4 \
+D/4 | D3/8 D/8 (D/8 B,/4) D/8 | B,/4 C/4 B,/2 | \
+D3/8 D/8 (D/8A,/8) F,/4 | D3/8 D/8 D/4 D/8 \
+D/8 | D3/8 D/8 (D/8 B,/4) D/8 | B,/4 C/4 !fermata!B,/4 |]
 V:4 clef=bass stem=down
-D,/4 | G,,/4 !sp!y G,/4 !sp!y G,/4 | G,/4 !sp!y D,/4 !sp!y D,/4 !sp!y D,/4 !sp!y (G,/8A,/8) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/4 !sp!y (G,3/16A,/16) | B,/4 !sp!y B,/4 !sp!y (B,3/16A,/16) !sp!y G,/4 | A,/4 !sp!y A,/4 !sp!y (A,3/16G,/16) !sp!y (F,/8A,/8) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/2 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/4 | D,3/8 D,/8 !sp!y D,/4 !sp!y D,/8 (G,/16A,/16) | B,3/8 A,/8 !sp!y G,3/8 G,/8 | D,/4 !sp!y D,/4 !sp!y G,,/4 |]
+D,/4 | G,,/4 G,/4 G,/4 | G,/4 D,/4 D,/4 D,/4 \
+(G,/8A,/8) | B,3/8 A,/8 G,3/8 G,/8 | D,/4 D,/4 G,,/4 \
+(G,3/16A,/16) | B,/4 B,/4 (B,3/16A,/16) G,/4 | A,/4 A,/4 (A,3/16G,/16) \
+(F,/8A,/8) | B,3/8 A,/8 G,3/8 G,/8 | D,/4 D,/4 G,,/2 | \
+D,3/8 D,/8 D,/4 D,/4 | D,3/8 D,/8 D,/4 D,/8 \
+(G,/16A,/16) | B,3/8 A,/8 G,3/8 G,/8 | D,/4 D,/4 G,,/4 |]
 

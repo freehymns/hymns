@@ -3,7 +3,7 @@ T:MUELLER
 C:James Ramsey Murray, 1887
 Z:Terms:Public Domain
 Z:Transcription:Converted on 2026-03-18 using nwctxt2abc from https://github.com/freehymns/translator
-Z:Sources:The Cyber Hymnal(tm), The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 217.
+Z:Sources:The Cyber Hymnal(tm), from The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 217.
 I:score (1 2) (3 4)
 I:voicecombine 1
 L:1/1
@@ -11,16 +11,28 @@ M:3/4
 Q:1/4=115
 K:F
 V:1 clef=treble stem=up
-[M:3/4] c/4 | c3/8 B/8 !sp!y A/4 | A/4 !sp!y G/4 !sp!y F/4 | F/4 !sp!y E/4 !sp!y D/4 | C/2 !sp!y C/4 | C3/8 D/8 !sp!y C/4 | C/4 !sp!y G/4 !sp!y E/4 | D/4 !sp!y C/4 !sp!y F/4 | A/2 !sp!y c/4 | c3/8 B/8 !sp!y A/4 | A/4 G/4 !sp!y F/4 | F/4 !sp!y E/4 !sp!y D/4 | C/2 !sp!y C/4 | B3/8 A/8 !sp!y G/4 | A/4 !sp!y G/4 !sp!y F/4 | G/4 !sp!y D/4 !sp!y E/4 | F/2 |]
+[M:3/4] c/4 | c3/8 B/8 A/4 | A/4 G/4 F/4 | F/4 E/4 D/4 | C/2 \
 w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
-+:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11
-+:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
-+:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11
+C/4 | C3/8 D/8 C/4 | C/4 G/4 E/4 | D/4 C/4 F/4 | A/2 \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11
+c/4 | c3/8 B/8 A/4 | A/4 G/4 F/4 | F/4 E/4 D/4 | C/2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+C/4 | B3/8 A/8 G/4 | A/4 G/4 F/4 | G/4 D/4 E/4 | F/2 |]
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11
 V:2 clef=treble stem=down
-F/4 | F3/8 G/8 !sp!y F/4 | F/4 !sp!y C/4 !sp!y C/4 | D/4 !sp!y C/4 !sp!y B,/4 | A,/2 !sp!y A,/4 | B,3/8 B,/8 !sp!y B,/4 | B,/4 !sp!y B,/4 !sp!y B,/4 | B,/4 !sp!y A,/4 !sp!y C/4 | F/2 !sp!y F/4 | F3/8 G/8 !sp!y F/4 | F/4 C/4 !sp!y C/4 | D/4 !sp!y C/4 !sp!y B,/4 | A,/2 !sp!y x/4| E3/8 F/8 !sp!y E/4 | F/4 !sp!y C/4 !sp!y C/4 | D/4 !sp!y B,/4 !sp!y C/4 | C/2 |]
+F/4 | F3/8 G/8 F/4 | F/4 C/4 C/4 | D/4 C/4 B,/4 | A,/2 \
+A,/4 | B,3/8 B,/8 B,/4 | B,/4 B,/4 B,/4 | B,/4 A,/4 C/4 | F/2 \
+F/4 | F3/8 G/8 F/4 | F/4 C/4 C/4 | D/4 C/4 B,/4 | A,/2 \
+x/4| E3/8 F/8 E/4 | F/4 C/4 C/4 | D/4 B,/4 C/4 | C/2 |]
 V:3 clef=bass stem=up
 I:pos vocal above
-[M:4/4] A,/4 | A,3/8 D/8 !sp!y C/4 | C/4 !sp!y B,/4 !sp!y A,/4 | B,/4 !sp!y F,/4 !sp!y F,/4 | F,/2 !sp!y F,/4 | E,3/8 E,/8 !sp!y E,/4 | E,/4 !sp!y E,/4 !sp!y G,/4 | F,/4 !sp!y F,/4 !sp!y A,/4 | C/2 !sp!y A,/4 | A,3/8 D/8 !sp!y C/4 | (C/4 B,/4) !sp!y A,/4 | B,/4 !sp!y F,/4 !sp!y F,/4 | F,/2 !sp!y F,/4 | G,3/8 C/8 !sp!y C/4 | C/4 !sp!y B,/4 !sp!y A,/4 | G,/4 !sp!y G,/4 !sp!y B,/4 | A,/2 |]
+[M:4/4] A,/4 | A,3/8 D/8 C/4 | C/4 B,/4 A,/4 | B,/4 F,/4 F,/4 | F,/2 \
+F,/4 | E,3/8 E,/8 E,/4 | E,/4 E,/4 G,/4 | F,/4 F,/4 A,/4 | C/2 \
+A,/4 | A,3/8 D/8 C/4 | (C/4 B,/4) A,/4 | B,/4 F,/4 F,/4 | F,/2 \
+F,/4 | G,3/8 C/8 C/4 | C/4 B,/4 A,/4 | G,/4 G,/4 B,/4 | A,/2 |]
 V:4 clef=bass stem=down
-F,/4 | F,3/8 F,/8 !sp!y F,/4 | F,/4 !sp!y F,/4 !sp!y F,/4 | B,,/4 !sp!y B,,/4 !sp!y B,,/4 | F,,/2 !sp!y F,,/4 | C,3/8 C,/8 !sp!y C,/4 | C,/4 !sp!y C,/4 !sp!y C,/4 | x/4!sp!y x/4!sp!y F,/4 | F,/2 !sp!y F,/4 | F,3/8 F,/8 !sp!y F,/4 | (F,/4 F,/4) !sp!y F,/4 | B,,/4 !sp!y B,,/4 !sp!y B,,/4 | F,,/2 !sp!y A,,/4 | C,3/8 C,/8 !sp!y C,/4 | F,/4 !sp!y F,/4 !sp!y F,/4 | B,,/4 !sp!y G,,/4 !sp!y C,/4 | F,/2 |]
+F,/4 | F,3/8 F,/8 F,/4 | F,/4 F,/4 F,/4 | B,,/4 B,,/4 B,,/4 | F,,/2 \
+F,,/4 | C,3/8 C,/8 C,/4 | C,/4 C,/4 C,/4 | x/4x/4F,/4 | F,/2 \
+F,/4 | F,3/8 F,/8 F,/4 | (F,/4 F,/4) F,/4 | B,,/4 B,,/4 B,,/4 | F,,/2 \
+A,,/4 | C,3/8 C,/8 C,/4 | F,/4 F,/4 F,/4 | B,,/4 G,,/4 C,/4 | F,/2 |]
 

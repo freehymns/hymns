@@ -3,7 +3,7 @@ T:The Birthday of a King
 C:William Harold Neidlinger
 Z:Terms:Public Domain
 Z:Transcription:Converted on 2026-04-16 using nwctxt2abc from https://github.com/freehymns/translator
-Z:Sources:The Cyber Hymnal(tm), Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 187.
+Z:Sources:The Cyber Hymnal(tm), from Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 187.
 Z:Edits:Corrected note C9
 I:score (1 2) (3 4)
 I:voicecombine 1
@@ -12,20 +12,48 @@ M:4/4
 Q:1/4=90
 K:G
 V:1 clef=treble stem=up
-[M:4/4] D/8 D/8 | E/4 !sp!y E/4 !sp!y F/8 G/4 A/8 | G3/8 D/8 !sp!y D/4 !sp!y E/4 | C3/8 C/8 !sp!y D/4 !sp!y A,/4 | D3/4 !sp!y D/8 D/8 | E3/8 F/8 !sp!y G/4 !sp!y B/8 B/8 | ^c3/8 B/8 !sp!y A/4 !sp!y D/8 D/8 | A,/4 !sp!y F/4 !sp!y B,/4 !sp!y E/4 | D3/4 || "REFRAIN" y D3/16 D/16 | c/4 !sp!y c/4- c/8 c/8 !sp!y B/8 A/8 | B3/8 G/8 !sp!y D/4 !sp!y G3/16 A/16 | B/4 !sp!y B/2 !sp!y ^c3/16 c/16 | d3/4 !sp!y c/8 c/8 | B3/8 A/8 !sp!y G/4 !sp!y e/8 e/8 | d3/8 c/8 !sp!y B/4 !sp!y G3/16 A/16 | B/4 !sp!y B/2 !sp!y A3/8 G/8 | G3/4 |]
+[M:4/4] D/8 D/8 | E/4 E/4 F/8 G/4 A/8 | G3/8 D/8 D/4 \
 w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
-+:B1 B2 B3 B4 B5 B6
-+:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
-+:D1 D2 D3 D4 D5 D6 D7
-+:E1 E2 E3 E4_ E5 E6 E7 E8 E9 E10
-+:F1 F2 F3 F4 F5 F6 F7
-+:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10
-+:H1 H2 H3 H4 H5 H6 H7
+E/4 | C3/8 C/8 D/4 A,/4 | D3/4 \
+w:B1 B2 B3 B4 B5 B6
+D/8 D/8 | E3/8 F/8 G/4 B/8 B/8 | ^c3/8 B/8 A/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+D/8 D/8 | A,/4 F/4 B,/4 E/4 | D3/4 ||  \
+w:D1 D2 D3 D4 D5 D6 D7
+D3/16 D/16 | c/4 c/4- c/8 c/8 B/8 A/8 | B3/8 G/8 D/4 \
+w:E1 E2 E3 E4_ E5 E6 E7 E8 E9 E10
+G3/16 A/16 | B/4 B/2 ^c3/16 c/16 | d3/4 \
+w:F1 F2 F3 F4 F5 F6 F7
+c/8 c/8 | B3/8 A/8 G/4 e/8 e/8 | d3/8 c/8 B/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10
+G3/16 A/16 | B/4 B/2 A3/8 G/8 | G3/4 |]
+w:H1 H2 H3 H4 H5 H6 H7
 V:2 clef=treble stem=down
-B,/8 B,/8 | C/4 !sp!y C/4 !sp!y D/8 D/4 C/8 | B,3/8 B,/8 !sp!y B,/4 !sp!y B,/4 | A,3/8 A,/8 !sp!y A,/4 !sp!y A,/4 | B,3/4 !sp!y B,/8 B,/8 | B,3/8 B,/8 !sp!y E/4 !sp!y D/8 D/8 | E3/8 D/8 !sp!y D/4 !sp!y x/8 x/8| A,/4 !sp!y A,/4 !sp!y B,/4 !sp!y ^C/4 | A,3/4 || x3/16 x/16| E/4 !sp!y E/4- E/8 E/8 !sp!y D/8 C/8 | D3/8 B,/8 !sp!y B,/4 !sp!y D3/16 D/16 | G/4 !sp!y G/2 !sp!y E3/16 E/16 | F3/4 !sp!y F/8 F/8 | F3/8 F/8 !sp!y E/4 !sp!y G/8 G/8 | F3/8 D/8 !sp!y D/4 !sp!y E3/16 E/16 | G/4 !sp!y G/2 !sp!y F3/8 E/8 | D3/4 |]
+B,/8 B,/8 | C/4 C/4 D/8 D/4 C/8 | B,3/8 B,/8 B,/4 \
+B,/4 | A,3/8 A,/8 A,/4 A,/4 | B,3/4 \
+B,/8 B,/8 | B,3/8 B,/8 E/4 D/8 D/8 | E3/8 D/8 D/4 \
+x/8 x/8| A,/4 A,/4 B,/4 ^C/4 | A,3/4 || \
+x3/16 x/16| E/4 E/4- E/8 E/8 D/8 C/8 | D3/8 B,/8 B,/4 \
+D3/16 D/16 | G/4 G/2 E3/16 E/16 | F3/4 \
+F/8 F/8 | F3/8 F/8 E/4 G/8 G/8 | F3/8 D/8 D/4 \
+E3/16 E/16 | G/4 G/2 F3/8 E/8 | D3/4 |]
 V:3 clef=bass stem=up
 I:pos vocal above
-[M:4/4] G,/8 G,/8 | G,/4 !sp!y G,/4 !sp!y A,/8 G,/4 F,/8 | G,3/8 G,/8 !sp!y G,/4 !sp!y G,/4 | E,3/8 G,/8 !sp!y F,/4 !sp!y A,/4 | G,3/4 !sp!y G,/8 G,/8 | G,3/8 A,/8 !sp!y B,/4 !sp!y G,/8 G,/8 | G,3/8 G,/8 !sp!y F,/4 !sp!y F,/8 F,/8 | F,/4 !sp!y F,/4 !sp!y G,/4 !sp!y G,/4 | F,3/4 || F,3/16 F,/16 | G,/4 !sp!y G,/4 F,/8 F,/8 !sp!y F,/8 F,/8 | G,3/8 G,/8 !sp!y G,/4 !sp!y B,3/16 B,/16 | B,/4 !sp!y B,/2 !sp!y A,3/16 A,/16 | A,3/4 !sp!y A,/8 A,/8 | B,3/8 B,/8 !sp!y B,/4 !sp!y B,/8 B,/8 | A,3/8 A,/8 !sp!y G,/4 !sp!y C3/16 C/16 | D/4 !sp!y D/2 !sp!y C3/8 C/8 | B,3/4 |]
+[M:4/4] G,/8 G,/8 | G,/4 G,/4 A,/8 G,/4 F,/8 | G,3/8 G,/8 G,/4 \
+G,/4 | E,3/8 G,/8 F,/4 A,/4 | G,3/4 \
+G,/8 G,/8 | G,3/8 A,/8 B,/4 G,/8 G,/8 | G,3/8 G,/8 F,/4 \
+F,/8 F,/8 | F,/4 F,/4 G,/4 G,/4 | F,3/4 || \
+F,3/16 F,/16 | G,/4 G,/4 F,/8 F,/8 F,/8 F,/8 | G,3/8 G,/8 G,/4 \
+B,3/16 B,/16 | B,/4 B,/2 A,3/16 A,/16 | A,3/4 \
+A,/8 A,/8 | B,3/8 B,/8 B,/4 B,/8 B,/8 | A,3/8 A,/8 G,/4 \
+C3/16 C/16 | D/4 D/2 C3/8 C/8 | B,3/4 |]
 V:4 clef=bass stem=down
-G,,/8 G,,/8 | C,/4 !sp!y C,/4 !sp!y C,/8 B,,/4 A,,/8 | G,,3/8 G,,/8 !sp!y G,,/4 !sp!y G,,/4 | A,,3/8 A,,/8 !sp!y D,/4 !sp!y F,/4 | G,,3/4 !sp!y G,,/8 G,,/8 | E,3/8 E,/8 !sp!y E,/4 !sp!y E,/8 E,/8 | A,,3/8 A,,/8 !sp!y D,/4 !sp!y D,/8 D,/8 | D,/4 !sp!y D,/4 !sp!y E,/4 !sp!y A,,/4 | D,3/4 || D,3/16 D,/16 | A,,/4 !sp!y A,,/4 D,/8 D,/8 !sp!y D,/8 D,/8 | G,,3/8 G,,/8 !sp!y G,,/4 !sp!y G,3/16 F,/16 | E,/4 !sp!y E,/2 !sp!y A,,3/16 A,,/16 | D,3/4 !sp!y D,/8 D,/8 | D,3/8 D,/8 !sp!y E,/4 !sp!y ^C,/8 C,/8 | D,3/8 F,/8 !sp!y G,/4 !sp!y C,3/16 A,,/16 | D,/4 !sp!y D,/2 !sp!y D,3/8 D,/8 | G,3/4 |]
+G,,/8 G,,/8 | C,/4 C,/4 C,/8 B,,/4 A,,/8 | G,,3/8 G,,/8 G,,/4 \
+G,,/4 | A,,3/8 A,,/8 D,/4 F,/4 | G,,3/4 \
+G,,/8 G,,/8 | E,3/8 E,/8 E,/4 E,/8 E,/8 | A,,3/8 A,,/8 D,/4 \
+D,/8 D,/8 | D,/4 D,/4 E,/4 A,,/4 | D,3/4 || \
+D,3/16 D,/16 | A,,/4 A,,/4 D,/8 D,/8 D,/8 D,/8 | G,,3/8 G,,/8 G,,/4 \
+G,3/16 F,/16 | E,/4 E,/2 A,,3/16 A,,/16 | D,3/4 \
+D,/8 D,/8 | D,3/8 D,/8 E,/4 ^C,/8 C,/8 | D,3/8 F,/8 G,/4 \
+C,3/16 A,,/16 | D,/4 D,/2 D,3/8 D,/8 | G,3/4 |]
 

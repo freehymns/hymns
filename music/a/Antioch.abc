@@ -3,7 +3,7 @@ T:ANTIOCH
 C:Lowell Mason, 1836
 Z:Terms:Public Domain
 Z:Transcription:Converted on 2026-04-14 using nwctxt2abc from https://github.com/freehymns/translator
-Z:Sources:The Cyber Hymnal(tm), The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 246.
+Z:Sources:The Cyber Hymnal(tm), from The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 246.
 N:Edits:Corrected third note of C4
 I:score (1 2) (3 4)
 I:voicecombine 1
@@ -12,18 +12,38 @@ M:2/4
 Q:1/4=95
 K:D
 V:1 clef=treble stem=up
-[M:2/4] d/4 | c3/16 B/16 | A3/8 G/8 | F/4 E/4 | D3/8 A/8 | B3/8 B/8 | c3/8 c/8 | d3/8 !sp!y d/8 | (d/8c/8) (B/8A/8) | (A3/16G/16F/8) d/8 | (d/8c/8) (B/8A/8) | (A3/16G/16F/8) F/8 | F/8 F/8 F/8 (F/16G/16) | A3/8 (G/16F/16) | E/8 E/8 E/8 (E/16F/16) | G3/8 (F/16E/16) | (D/8 d/4) B/8 | (A3/16G/16F/8) G/8 | F/4 E/4 | D/2 |]
+[M:2/4] d/4 | c3/16 B/16 | A3/8 G/8 | F/4 E/4 | D3/8 \
 w:A1 A2 A3 A4 A5 A6 A7 A8
-+:B1 B2 B3 B4 B5 B6
-+:C1 C2_ C3_ C4__ C5 C6_ C7_ C8__
-+:D1 D2 D3 D4 D5_ D6
-+:E1_ E2 E3 E4 E5_ E6
-+:F1_ F2 F3 F4 F5_ F6 F7 F8 F9 F10
+A/8 | B3/8 B/8 | c3/8 c/8 | d3/8 \
+w:B1 B2 B3 B4 B5 B6
+d/8 | (d/8c/8) (B/8A/8) | (A3/16G/16F/8) d/8 | (d/8c/8) (B/8A/8) | (A3/16G/16F/8) \
+w:C1 C2_ C3_ C4__ C5 C6_ C7_ C8__
+F/8 | F/8 F/8 F/8 (F/16G/16) | A3/8 \
+w:D1 D2 D3 D4 D5_ D6
+(G/16F/16) | E/8 E/8 E/8 (E/16F/16) | G3/8 \
+w:E1_ E2 E3 E4 E5_ E6
+(F/16E/16) | (D/8 d/4) B/8 | (A3/16G/16F/8) G/8 | F/4 E/4 | D/2 |]
+w:F1_ F2 F3 F4 F5_ F6 F7 F8 F9 F10
 V:2 clef=treble stem=down
-F/4 | A3/16 G/16 | F3/8 E/8 | D/4 C/4 | D3/8 A/8 | G3/8 G/8 | E3/8 E/8 | F3/8 !sp!y F/8 | (F/8A/8) (G/8F/8) | (F3/16E/16D/8) F/8 | (F/8A/8) (G/8F/8) | (F3/16E/16D/8) D/8 | D/8 D/8 D/8 (D/16E/16) | F3/8 (E/16D/16) | C/8 C/8 C/8 (C/16D/16) | E3/8 (D/16C/16) | x/8F/4 G/8 | (F3/16E/16D/8) E/8 | D/4 C/4 | D/2 |]
+F/4 | A3/16 G/16 | F3/8 E/8 | D/4 C/4 | D3/8 \
+A/8 | G3/8 G/8 | E3/8 E/8 | F3/8 \
+F/8 | (F/8A/8) (G/8F/8) | (F3/16E/16D/8) F/8 | (F/8A/8) (G/8F/8) | (F3/16E/16D/8) \
+D/8 | D/8 D/8 D/8 (D/16E/16) | F3/8 \
+(E/16D/16) | C/8 C/8 C/8 (C/16D/16) | E3/8 \
+(D/16C/16) | x/8F/4 G/8 | (F3/16E/16D/8) E/8 | D/4 C/4 | D/2 |]
 V:3 clef=bass stem=up
 I:pos vocal above
-[M:2/4] D/4 | D3/16 D/16 | D3/8 B,/8 | A,/4 A,/4  | F,3/8 D/8 | D3/8 D/8 | A,3/8 A,/8 | A,3/8 !sp!y A,/8 | A,/4 D/4 | (D/4 A,/8) A,/8 | A,/4 D/4 | (D/4 A,/8) z/8 | z/4 z/8 A,/8 | (A,/8A,/8 A,/8A,/8) | A,3/8 A,,/8 | A,3/8 A,/8 | F,/8 A,/4 D/8 | D3/8 B,/8 | A,/4 (A,/8G,/8) | F,/2 |]
+[M:2/4] D/4 | D3/16 D/16 | D3/8 B,/8 | A,/4 A,/4  | F,3/8 \
+D/8 | D3/8 D/8 | A,3/8 A,/8 | A,3/8 \
+A,/8 | A,/4 D/4 | (D/4 A,/8) A,/8 | A,/4 D/4 | (D/4 A,/8) \
+z/8 | z/4 z/8 A,/8 | (A,/8A,/8 A,/8\
+A,/8) | A,3/8 A,,/8 | A,3/8 \
+A,/8 | F,/8 A,/4 D/8 | D3/8 B,/8 | A,/4 (A,/8G,/8) | F,/2 |]
 V:4 clef=bass stem=down
-D,/4 | D,3/16 D,/16 | D,3/8 G,,/8 | A,,/4 A,,/4 | D,3/8 F,/8 | G,3/8 G,/8 | A,3/8 A,/8 | D,3/8 !sp!y D,/8 | D,/4 D,/4 | D,3/8 D,/8 | D,/4 D,/4 | D,3/8 x/8| x/4 x/8D,/8 | (D,/8D,/8 D,/8D,/8) | x3/8 x/8| (A,,/8A,,/8A,,/8) A,,/8 | D,3/8 D,/8 | D,3/8 G,,/8 | A,,/4 A,,/4 | D,/2 |]
+D,/4 | D,3/16 D,/16 | D,3/8 G,,/8 | A,,/4 A,,/4 | D,3/8 \
+F,/8 | G,3/8 G,/8 | A,3/8 A,/8 | D,3/8 \
+D,/8 | D,/4 D,/4 | D,3/8 D,/8 | D,/4 D,/4 | D,3/8 \
+x/8| x/4 x/8D,/8 | (D,/8D,/8 D,/8\
+D,/8) | x3/8 x/8| (A,,/8A,,/8A,,/8) \
+A,,/8 | D,3/8 D,/8 | D,3/8 G,,/8 | A,,/4 A,,/4 | D,/2 |]
 

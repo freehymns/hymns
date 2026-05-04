@@ -6,10 +6,16 @@ L:1/8
 Q:1/4=115
 K:F
 V:1
-(FF) | FF F2 [dF]2 | [cE]2 [AF]2 (FF) | FF F2 [dF]2 | [cE]4 cB | AG F2 (AA) | DD C2 [FB,]G | AB [AC]2 [GE]2 | [FC]4 |]
+(FF) | FF F2 [dF]2 | [cE]2 [AF]2 \
 w:A1 A2 A3 A4 A5 A6 A7 A8
-+:B1 B2 B3 B4 B5 B6 B7
-+:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
-+:D1 D2 D3 D4 D5 D6 D7
+(FF) | FF F2 [dF]2 | [cE]4 \
+w:B1 B2 B3 B4 B5 B6 B7
+cB | AG F2 (AA) | DD C2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+[FB,]G | AB [AC]2 [GE]2 | [FC]4 |]
+w:D1 D2 D3 D4 D5 D6 D7
 V:2
-[A,F,]2 | [B,G,]2 [CA,]2 [DB,]2 | [C-A,]2 [CF,]2 [CA,]2 | [DB,]2 [CA,]2 [=B,G,]2 | [CC,]4 [CE,]2 | [CF,]4 [F,D,]2 | [G,B,,]2 [F,A,,]2 [F,D,]2 | [F,C,]4 [B,C,]2 | [A,F,]4 |]
+[A,F,]2 | [B,G,]2 [CA,]2 [DB,]2 | [C-A,]2 [CF,]2 \
+[CA,]2 | [DB,]2 [CA,]2 [=B,G,]2 | [CC,]4 \
+[CE,]2 | [CF,]4 [F,D,]2 | [G,B,,]2 [F,A,,]2 \
+[F,D,]2 | [F,C,]4 [B,C,]2 | [A,F,]4 |]
