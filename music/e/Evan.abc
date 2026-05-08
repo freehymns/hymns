@@ -1,0 +1,27 @@
+X:1
+T:EVAN
+C:William Havergal, 1847
+Z:Arrangement:Lowell Mason, 1850
+Z:Terms:Public Domain, 
+Z:Transcription:Converted on 2026-05-06 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 104.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/2
+Q:1/4=140
+K:Ab
+V:1 clef=treble stem=up
+[M:3/2] E/2 | E/4 A/4 c/2 B/2 | A/4 F/4 E/2 E/2 | E/4 A/4 c/2 A/2 | B d/2 | c/4 B/4 A/2 B/2 | c/4 A/4 F/2 E/2 | E/4 A/4 c/2 B/2 | A |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4 B5 B6
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3 D4 D5 D6
+V:2 clef=treble stem=down
+C/2 | C/4 C/4 E/2 D/2 | C/4 D/4 C/2 C/2 | C/4 C/4 C/2 C/2 | E E/2 | E/4 D/4 C/2 E/2 | E/4 E/4 D/2 B,/2 | C/4 C/4 E/2 D/2 | C |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/2] A,/2 | A,/4 A,/4 A,/2 G,/2 | A,/4 A,/4 A,/2 A,/2 | A,/4 A,/4 A,/2 A,/2 | G, B,/2 | A,/4 G,/4 A,/2 G,/2 | A,/4 A,/4 A,/2 G,/2 | A,/4 A,/4 A,/2 G,/2 | A, |]
+V:4 clef=bass stem=down
+A,,/2 | A,,/4 A,,/4 A,,/2 E,/2 | F,/4 D,/4 A,,/2 A,,/2 | A,,/4 A,/4 F,/2 F,/2 | E, G,/2 | A,/4 E,/4 F,/2 E,/2 | A,/4 C,/4 D,/2 E,/2 | A,,/4 F,/4 E,/2 E,/2 | A,, |]
+

@@ -1,0 +1,27 @@
+X:1
+C:Unknown
+T:HEREFORD
+I:score (1) (2 3)
+L:1/8
+M:4/4
+K:Eb
+Q:90
+V:1 treble
+[GE]2 [GE] [FD] [EC]2 [FD]2 | [GE]6 \
+w:A1 A2 A3 A4 A5 A6
+[GB]2 | [Ge] [GB] [FA] [GE] [EA] [EB] [Ec] [Ec] | [EB]8 | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
+[FB]2 [GB] [F=A] [EB]2 [GB]2 | [Fc] [eE] [Fd] [Ec] [DB]4 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+[GE]2 [EB] [EA] [GE]2 [FD]2 | [EE]8 |]
+w:D1 D2 D3 D4 D5 D6
+V:2 bass
+[E,B,]2 [E,B,] [B,B,,] [G,C,]2 [B,B,,]2 | [E,B,]6 \
+[EE,]2 |[E,B,] [E,B,] [D,B,] [E,B,] [C,A,] [G,B,,] [A,A,,] [A,A,,] | [E,E,,]8 |\
+[D,B,]2 [EE,] [F,C] [G,B,]2 [E,B,]2 | A, [G,B,] [F,B,] [F,=A,] [B,B,,]4 |\
+[E,B,]2 [G,B,] [CA,] B,2 B,A, | [G,E,]8 |]
+V:3 bass
+x8 | x8 | \
+x8 | x8 | x8 | \
+x8 | x6 \
+B,,2 | x8 |]

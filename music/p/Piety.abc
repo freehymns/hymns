@@ -1,0 +1,48 @@
+X:1
+T:PIETY
+C:Unknown
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-07 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from New Harmonia Sacra, Legacy Edition (Dayton, Virginia: Legacy Book Publishers, 1980), # 92.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=100
+K:D
+V:1 clef=treble stem=up
+[M:4/4] d/2 d/4 c/4 | d/2 d/2 | (f/4 e/4) (d/4 c/4) | d3/4 \
+w:A1 A2 A3 A4 A5 A6_ A7_ A8
+A/4 | B3/8 c/8 (d/8c/8) (d/8B/8) | A3/8 G/8 F/4 \
+w:B1 B2 B3 B4_ B5_ B6 B7 B8
+d/4 | f/4 e/4 d/4 c/4 | d3/4 \
+w:C1 C2 C3 C4 C5 C6
+A/4 | d/2 d/2 | e/2 e/2 | (f/4 e/4) (d/4 c/4) | d3/4 \
+w:D1 D2 D3 D4 D5 D6_ D7_ D8
+A/4 | B3/4 (G/8B/8) | A3/4 (F/8A/8) | G3/4 (E/8G/8) | (F/4 A/4 d/4) \
+w:E1 E2 E3_ E4 E5_ E6 E7_ E8__
+A/4 | (d/4 e/4) (f/4 e/4) | d/2 c/2 | d |]
+w:F1 F2_ F3_ F4 F5 F6
+V:2 clef=treble stem=down
+F/2 A/4 A/4 | A/2 A/2 | A/2 A/2 | A3/4 \
+A/4 | G3/8 F/8 (G/8A/8) (B/8G/8) | F3/8 E/8 D/4 \
+A/4 | A/4 G/4 F/4 E/4 | F3/4 \
+F/4 | A/2 A/2 | c/2 c/2 | (d/4 c/4) (B/4 A/4) | A3/4 \
+F/4 | G3/4 (E/8G/8) | F3/4 (D/8F/8) | E3/4 (C/8E/8) | (D/4 F/4 A/4) \
+F/4 | (A/4 G/4) (F/4 G/4) | A/2 G/2 | F |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,/2 D/4 E/4 | F/2 F/2 | (A/4 G/4) (F/4 E/4) | F3/4 \
+D/4 | D3/8 C/8 (B,/8C/8) D/4 | D3/4 \
+(F/8E/8) | D/4 E/4 F/4 E/4 | D3/4 \
+D/4 | F/2 F/2 | E/2 E/2 | (D/4 E/4) (F/4 E/4) | F3/4 \
+D,/4 | G,3/4 E,/4 | F,3/4 D,/4 | E,3/4 C,/4 | D,3/4 \
+F/4 | (F/4 E/4) (D/4 G/4) | F/2 E/2 | F |]
+V:4 clef=bass stem=down
+D,/2 F,/4 A,/4 | D/2 D,/2 | (D,/4 G,/4) (A,/4 A,,/4) | D,3/4 \
+F,/4 | G,3/8 A,/8 B,/8 A,/8 G,/4 | D,3/4 \
+(F,/8E,/8) | D,/4 G,/4 A,/4 A,,/4 | D,3/4 \
+D,/4 | D,/2 F,/4 D,/4 | A,/2 C/4 A,/4 | D/4 C/4 (B,/4 A,/4) | D,3/4 \
+x/4| x3/4 x/4| x3/4 x/4| x3/4 x/4| x3/4\
+A,/4 | (B,/4 C/4) (D/4 G,/4) | A,/2 A,/2 | D, |]
+

@@ -1,0 +1,47 @@
+X:1
+T:CORONATION
+C:Oliver Holden, 1793
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-05 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 154.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=115
+K:F
+V:1 clef=treble stem=up
+[M:4/4] C/4 | F/4 F/4 A/4 A/4 | G/4 F/4 G/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+A/4 | G/4 F/4 A/4 G/4 | F3/4 \
+w:B1 B2 B3 B4 B5 B6
+G/4 | A/4 G/4 F/4 A/4 | (c/8B/8) (A/8G/8) A/4 \
+w:C1 C2 C3 C4 C5 C6_ C7_ C8
+c/4 | c/2 c/2 | d/2 (c/4 =B/4) | c3/4 \
+w:D1 D2 D3 D4 D5_ D6
+A/4 | c/4 A/4 F/4 A/4 | (G/8F/8) (G/8A/8) G/4 \
+w:E1 E2 E3 E4 E5 E6_ E7_ E8
+F/4 | c/2 B/2 | (A3/8 B/8 G/4) G/4 | F3/4 |]
+w:F1 F2 F3 F4__ F5 F6
+V:2 clef=treble stem=down
+A,/4 | C/4 C/4 F/4 F/4 | E/4 F/4 E/4 \
+F/4 | E/4 F/4 F/4 E/4 | F3/4 \
+C/4 | F/4 C/4 A,/4 F/4 | (A/8G/8) (F/8E/8) F/4 \
+E/4 | F/2 G/2 | F/2 (E/4 D/4) | E3/4 \
+C/4 | C/4 C/4 C/4 C/4 | (E/8F/8) E/4 E/4 \
+F/4 | F/2 D/2 | C3/4 E/4 | F3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,/4 | A,/4 A,/4 C/4 C/4 | B,/4 A,/4 B,/4 \
+C/4 | B,/4 A,/4 C/4 B,/4 | A,3/4 \
+G,/4 | A,/4 G,/4 F,/4 A,/4 | (C/8B,/8) (A,/8G,/8) A,/4 \
+G,/4 | A,/2 G,/2 | A,/2 G,/2 | G,3/4 \
+F,/4 | A,/4 C/4 C/4 C/4 | (B,/8A,/8) (B,/8C/8) B,/4 \
+A,/4 | F,/2 F,/2 | (F,3/8 G,/8 E,/8G,/8) B,/4 | A,3/4 |]
+V:4 clef=bass stem=down
+F,,/4 | F,,/4 F,,/4 F,/4 F,/4 | C,/4 C,/4 C,/4 \
+F,/4 | C,/4 D,/4 C,/4 C,/4 | F,,3/4 \
+C,/4 | F,/4 C,/4 A,,/4 F,/4 | (A,/8G,/8) (F,/8E,/8) F,/4 \
+C,/4 | F,/2 E,/2 | D,/2 G,/2 | C,3/4 \
+F,/4 | F,/4 F,/4 A,/4 F,/4 | C,/4 C,/4 C,/4 \
+D,/4 | A,,/2 B,,/2 | C,3/4 C,/4 | F,,3/4 |]

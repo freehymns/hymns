@@ -1,0 +1,49 @@
+X:1
+T:ST. GERTRUDE
+C:Arthur Seymour Sullivan, 1871
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-04 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 575.
+Z:Edit:Added natural to d12
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=112
+K:Eb
+V:1 clef=treble stem=up
+[M:4/4] B/4 B/4 B/4 B/4 | (B3/8 c/8) B/2 | F/4 F/4 E/4 F/4 | G | \
+w:A1 A2 A3 A4 A5_ A6 A7 A8 A9 A10 A11
+E/4 G/4 B/4 e/4 | e/2 d/2 | c/4 c/4 G/4 =A/4 | B | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11
+F/4 F/4 B/4 F/4 | (G3/8 A/8) G/2 | B/4 B/4 e/4 B/4 | c | \
+w:C1 C2 C3 C4 C5_ C6 C7 C8 C9 C10 C11
+c/4 B/4 A/4 B/4 | (c/4 B/4) (A/4 B/4) | c/4 B/4 A/4 G/4 | F | \
+w:D1 D2 D3 D4 D5_ D6_ D7 D8 D9 D10 D11
+E/4 E/4 E/4 E/4 | (E/4 D/8C/8) (D/4 E/4) | F/4 F/4 F/4 (E/8F/8) | G | \
+w:E1 E2 E3 E4 E5__ E6_ E7 E8 E9 E10_ E11
+B/4 B/4 e/4 d/4 | e/2 B/2 | A/4 G/4 F3/8 E/8 | E |]
+w:F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11
+V:2 clef=treble stem=down
+G/4 G/4 G/4 G/4 | A/2 A/2 | D/4 D/4 C/4 D/4 | E | \
+E/4 E/4 E/4 E/4 | F/2 F/2 | E/4 E/4 E/4 E/4 | D | \
+D/4 D/4 F/4 D/4 | (E3/8 F/8) E/2 | E/4 E/4 E/4 E/4 | E | \
+E/4 E/4 E/4 E/4 | E/2 E/2 | E/4 E/4 F/4 E/4 | D | \
+B,/4 B,/4 B,/4 B,/4 | B,/2 B,/2 | B,/4 B,/4 B,/4 B,/4 | B, | \
+G/4 G/4 A/4 A/4 | G/2 E/2 | E/4 E/4 D3/8 B,/8 | B, |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] E,/4 G,/4 B,/4 E/4 | E/2 D/2 | B,/4 B,/4 B,/4 B,/4 | B, | \
+B,/4 B,/4 B,/4 B,/4 | (A,3/8 B,/8) B,/2 | =A,/4 A,/4 B,/4 C/4 | B, | \
+B,/4 B,/4 B,/4 B,/4 | B,/2 B,/2 | G,/4 G,/4 B,/4 G,/4 | A, | \
+A,/4 G,/4 A,/4 G,/4 | (A,/4 G,/4) (A,/4 G,/4) | A,/4 G,/4 F,/4 F,/4 | B, | \
+G,/4 G,/4 G,/4 G,/4 | A,/2 A,/2 | A,/4 A,/4 A,/4 A,/4 | G, | \
+E/4 E/4 B,/4 B,/4 | B,/2 B,/2 | C3/8 B,/8 A,3/8 G,/8 | G, |]
+V:4 clef=bass stem=down
+E,/4 E,/4 E,/4 E,/4 | F,/2 B,,/2 | A,/4 A,/4 G,/4 F,/4 | E, | \
+G,/4 G,/4 G,/4 G,/4 | F,/2 F,/2 | F,/4 F,/4 F,/4 F,/4 | B,, | \
+B,,/4 B,,/4 D,/4 B,,/4 | E,/2 E,/2 | E,/4 E,/4 G,/4 E,/4 | A, | \
+A,/4 E,/4 C,/4 E,/4 | A,/4 E,/4 (C,/4 E,/4) | A,,/4 A,,/4 A,,/4 =A,,/4 | B,, | \
+E,/4 B,,/4 E,/4 B,,/4 | (F,/4 B,,/4) (F,/4 B,,/4) | D,/4 B,,/4 D,/4 B,,/4 | E, | \
+E,/4 E,/4 F,/4 F,/4 | G,/2 G,,/2 | A,,/4 F,,/4B,,3/8 E,/8 | E, |]
+

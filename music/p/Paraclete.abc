@@ -1,0 +1,32 @@
+X:1
+T:PARACLETE
+C:Frederick C. Maker (1844-1926)
+I:score (1 2) (3 4)
+L:1/4
+M:3/4
+K:Eb
+V:1 treble
+[GB] | ([GB] [^Fc]) [GB] | [GE]2 [GE] | ([EB] [DA]) [=E^C] | [FD]2 \
+w:A1 A2_ A3 A4 A5 A6_ A7 A8
+[GD] | [EC]2 [EC] | (B A) [GE] | [FD]2 | \
+w:B1 B2 B3 B4_ B5 B6
+[FB] | (B c) [Fd] | [eE]2 [GE] | ([GG] [FA]) [EB] | [Ec]2 \
+w:C1 C2_ C3 C4 C5 C6_ C7 C8
+[FD] | (B E) [FE] | [GE]2 [FD] | [EE]2 |]
+w:D1 D2_ D3 D4 D5 D6
+V:2 treble
+x | x3 | x3 | x3 | x3 | \
+x3 | E2 x | x2 | \
+x | F2 x | x3 | x3 | x3 | \
+E2 x | x3 | x2]
+V:3 bass
+[E,B,] | (B, =A,) [E,B,] | [E,B,]2 [E,B,] | (G, F,) [G,B,,] | [B,,A,]2 \
+[G,=B,,] | [G,C,]2 [G,C,] | ([G,,B,] [CA,,]) [C=A,,] | [F,B,,]2 | \
+[DB,] | ([DB,] [C=A,]) [B,_A,] | [G,B,]2 [E,B,] | ([EE,] [F,D]) [G,_D] | [CA,]2 \
+[_CA,,] | [G,,B,]2 [CA,,] | [B,B,,]2 [B,,A,] | [G,E,]2 |]
+V:4 bass
+x | E,2 x | x3 | B,,2 x | x3 | \
+x3 | x3 | x2 | \
+x | x3 | x3 | x3 | x3 | \
+x3 | x3 | x2 |]
+
