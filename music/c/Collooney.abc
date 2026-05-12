@@ -1,0 +1,60 @@
+X:1
+T:COLLOONEY
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:G
+Q:1/4=120
+V:1 treble
+G/A/ | B (A/ A/) G A/B/ | [Gd] [GB] [FA] \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
+G/A/ | [GB] [FA]/G/ [GB] [FA] | G2 \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+z | [GD]/[FA]/ | [GB] (A/ A/) G [FA]/[GB]/ | [Gd] [GB] [FA] \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+[GD]/[FA]/ | [GB] [DA]/[GD]/ [DB] [CA] | [GB,]2 \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+z | [GB]/[Gc]/ | [Gd] (e/ e/) [Gd] [GB]/[cA]/ | [Gd] [Ge] [Gd] \
+w:E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11
+[GB]/[Gc]/ | [Gd] [Gd]/[Ge]/ [Gd] [GB] | [FA]2 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+z | D/D/ | [GD] (G/ G/) [GD] [GD]/[GD]/ | [GE] [EC] [GB,] \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11
+[GD]/[DA]/ | [GB] [FA]/G/ [GB] [FA] | G3 |]
+w:H1 H2 H3 H4 H5 H6 H7 H8
+V:2 treble
+D | D (F/ F/) G D | x3 | \
+G | x4 | x3 | \
+x | x (F/ F/) G x | x3 | \
+x | x4 | x3 | \
+x | x (G/ G/) x2 | x3 | \
+x | x4 | x3 | \
+D/D/ | x (D/ D/) x2 | x3 | \
+x | x4 | x3 |]
+V:3 bass
+I:pos vocal above
+B,/C/ | D (C/ C/) B, D | [DB,] [G,D] [DD,] \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10
+[G,B,]/[G,C]/ | [G,D] [G,C]/[G,B,]/ [DD,] [D,C] | [G,,B,]2 \
+w:b1 b2 b3 b4 b5 b6 b7 b8
+z | [G,B,]/[G,C]/ | [G,D] (C/ C/) [G,B,] D | [DB,] [G,D] [DD,] \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10
+[DB,,]/[DD,]/ | [G,D] [G,C]/[G,B,]/ [G,D,] [F,D,] | [G,G,,]2 \
+w:d1 d2 d3 d4 d5 d6 d7 d8
+z | [G,D]/[G,C]/ | [G,B,] (C/ C/) [G,B,] [G,D]/[G,C]/ | [G,B,] [CC,] [G,B,] \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11
+[G,D]/[G,C]/ | [G,B,] [G,B,]/[G,C]/ [G,B,] [DB,,] | [DD,]2 \
+w:f1 f2 f3 f4 f5 f6 f7 f8
+z | D,/D,/ | [G,B,,] (G,/ G,/) [G,B,,] [G,B,,]/[G,B,,]/ | [G,C,] [G,C,] [G,G,,] \
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10 g11
+[G,B,]/[G,C]/ | [G,D] [G,C]/[G,B,]/ [DD,] [D,C] | [G,,B,]3 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8
+V:4 bass
+G, | G, (D,/ D,/) G, F,/G,/ | x3 | \
+x | x4 | x3 \
+x | x (D,/ D,/) x D | x3 \
+x | x4 | x3 \
+x | x (C,/ C,/) x2 | x3 \
+x | x4 | x3 \
+D,/C,/ | x (B,,/ B,,/) x2 | x3 \
+x | x4 | x3 |]

@@ -1,0 +1,31 @@
+X:1
+T:RESTING
+C:C. and F. Jourard
+I:score (1 2) (3 4)
+L:1/8
+M:9/8
+K:D
+V:1 treble
+[FA]2 [GE] | [F-D-]3 [FD]2 [FD] [FD][EC] [FD] | [CA]3 [GC]3 \
+w:A1 A2 A3_ A4 A5_ A6 A7 A8
+[GE]2 [FD] | [E-C-]3 [EC]2 [CA] [GB][FA] [GE] | [F-D-]3 [FD]3 | \
+w:B1 B2 B3_ B4 B5_ B6 B7_
+[FA]2 [GE] | [F-D-]3 [FD]2 [DA] Bd [GB] | [FA]3 [FD]3 \
+w:C1 C2 C3_ C4 C5_ C6 C7 C8
+[FD]2 [FD] | [E-D-]3 [ED]2 [F^D] [FA][GE] [EC] | D3-D3 |]
+w:D1 D2 D3_ D4 D5_ D6 D7_
+V:2 treble
+x3 | x9 | x9 | \
+x9 | x6 | \
+x3 | x6 D2 x | x9 | \
+x9 | D3-D3 |]
+V:3 bass
+[D,A,]2 [D,A,] | [D,-A,-]3 [D,A,]2 [D,A,] A,G, [F,A,] | [E,A,]3 [E,A,]3 \
+[A,A,,]2 [A,A,,] | [A,-A,,-]3 [A,A,,]2 [A,A,,] A,2 [C,A,] | [D,-A,-]3 [D,A,]3 | \
+[DD,]2 [D,A,] | [D,-A,-]3 [D,A,]2 [F,D] DB, [G,D] | [DD,]3 [D,A,]3 \
+A,2 A, | [G,-B,-]3 [G,B,]2 [F,B,] [E,B,]2 [G,A,,] | [F,-D,-]3 [F,D,]3 |]
+V:4 bass
+x3 | x9 | x9 | \
+x6 A,,B,, x | x6 | \
+x3 | x6 G,2 x | x6 \
+A,2 A, | x9 | x6 |]

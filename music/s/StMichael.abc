@@ -1,0 +1,27 @@
+X:1
+T:ST. MICHAEL
+C:French Genevan Psalter, 1551
+Z:Terms:Melody by Louis Bourgeois, adapted by William Crotch, 1836
+Z:Transcription:Converted on 2026-05-08 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 662.
+Z:Corrections:Chord d4
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=113
+K:G
+V:1 clef=treble stem=up
+[M:4/4] D/4 | G/4 B/4 A/4 A/4 | B3/4 d/4 | c/4 B/4 A/4 A/4 | G3/4 G/4 | F/4 E/4 D/4 G/4 | G/4 A/4 B/4 B/4 | A/4 G/4 G/4 F/4 | G3/4 |]
+w:A1 A2 A3 A4 A5 A6
++:B1 B2 B3 B4 B5 B6
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3 D4 D5 D6
+V:2 clef=treble stem=down
+B,/4 | E/4 G/4 G/4 F/4 | G3/4 A/4 | G/4 G/4 G/4 F/4 | G3/4 E/4 | D/4 C/4 B,/4 D/4 | E/4 E/4 ^D/4 =D/4 | C/4 D/4 E/4 D/4 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] G,/4 | B,/4 D/4 E/4 D/4 | D3/4 D/4 | E/4 D/4 D3/8 C/8 | B,3/4 B,/4 | B,/4 G,/4 G,/4 G,/4 | B,/4 A,/4 F,/4 G,/4 | (E,/8F,/8) G,/4 G,/4 A,/4 | B,3/4 |]
+V:4 clef=bass stem=down
+G,/4 | E,/4 B,,/4 C,/4 D,/4 | G,3/4 F,/4 | E,/4 G,/4 D,/4 D,/4 | G,,3/4 E,/4 | B,,/4 C,/4 G,,/4 B,,/4 | E,/4 C,/4 B,,/4 G,,/4 | A,,/4 B,,/4 C,/4 D,/4 | G,,3/4 |]
+

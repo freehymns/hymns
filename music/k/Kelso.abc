@@ -1,0 +1,41 @@
+X:1
+T:KELSO
+C:Unknown
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:G
+V:1 treble
+[DB,] | [GB,] [DB] [DB] ([DA]/[G^C]/) | [DA]3 \
+w:A1 A2 A3 A4 A5_ A6
+D | [DA] [Fc] [Fc] ([GB]/[FA]/) | [GB]3  \
+w:B1 B2 B3 B4 B5_ B6
+(B/c/) | [Gd] [FB] G (A/B/) | [Ec] [EA] [FD] \
+w:C1_ C2 C3 C4 C5_ C6 C7 C8
+D | ([DB]/[CA]/) ([DB]/[Ec]/) [DB] A | [GB,]3  \
+w:D1 D2_ D3_ D4 D5 D6
+[DC] | [GB,] [GD] [DA] [DA] | [DB]2 [Ge]2 | [Fd]2 [E^c]2 | [Fd]3  \
+w:E1 E2 E3 E4 E5 E6 E7 E8 E9 E10
+[cA] | [GB] [FA] [GB] [Gc] | [Gd] D [EC] [Ec] | [DB]2 A2 | [GB,]3 |]
+w:F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12
+V:2 treble
+x | x4 | x4 | \
+x4 | x3 | \
+G | x3 E | x4 | \
+x3 (D/C/) | x3 | \
+x | x4 | x4 | x4 | x3 | \
+x | x4 | x4 | x2 (D C) | x3 |]
+V:3 bass
+[G,G,,] | [G,G,,] [G,G,,] G, A, | [F,A,]3 \
+[F,D,] | [F,D,] [D,A,] [DD,] [DD,] | [G,D]3 \
+G, | [G,B,] [DD,] [E,B,] ([C,A,]/[^G,B,,]/) | [A,A,,] [C,A,] [D,A,] \
+[F,D,] | [G,G,,] G, [G,D,] [F,D,] | [G,G,,]3  \
+[F,D,] | [G,G,,] [G,B,,] [F,D,] [F,D,] | G,2 [E,B,]2 | A,2 [A,A,,]2 | [D,A,]3  \
+[F,D] | [G,D] [DD,] D [E,C] | [D,B,] [G,B,,] [G,C,] [G,A,,] | [G,D,]2 [F,D,]2 | [G,G,,]3 |]
+V:4 bass
+x | x3 (F,/E,/) | x4 | \
+x4 | x3 | \
+(G,/A,/) | x4 | x4 | \
+x (G,,/C,/) x2 | x3 | \
+x | x4 | x4 | x4 | x3 | \
+x | x2 (G,/F,/) x | x4 | x4 | x3 |]

@@ -1,0 +1,54 @@
+X:1
+T:MERIBAH
+C:Lowell Mason, 1839
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-11 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Methodist Hymnal (New York: Methodist Book Concern, 1905), # 365, 519.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/2
+Q:1/4=140
+K:Eb
+V:1 clef=treble stem=up
+[M:3/2] E/2 | G3/8 G/8 G/4 F/4 G/4 A/4 | B \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+G/2 | c3/8 c/8 c/4 B/4 A/4 G/4 | F \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+B/2 | d/4 c/4 B/2 =A/2 | B \
+w:C1 C2 C3 C4 C5 C6
+B/2 | e/4 B/4 B/4 G/4 A/4 c/4 | B \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+B/2 | e/4 B/4 B/4 G/4 A/4 c/4 | B \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+E/2 | F/4 A/4 G/2 F/2 | E |]
+w:F1 F2 F3 F4 F5 F6
+V:2 clef=treble stem=down
+E/2 | E3/8 E/8 E/4 D/4 E/4 F/4 | G \
+E/2 | E3/8 E/8 E/4 E/4 D/4 E/4 | D \
+F/2 | F/4 G/4 F/2 E/2 | D \
+G/2 | G/4 G/4 G/4 E/4 E/4 A/4 | G \
+G/2 | G/4 G/4 G/4 E/4 E/4 A/4 | G \
+E/2 | C/4 F/4 E/2 D/2 | E |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/2] G,/2 | B,3/8 B,/8 B,/4 B,/4 B,/4 B,/4 | B, \
+w:a1 a2 a3 a4 a5 a6 a7 a8
+B,/2 | A,3/8 A,/8 A,/4 B,/4 B,/4 B,/4 | B, \
+w:b1 b2 b3 b4 b5 b6 b7 b8
+D/2 | F/4 E/4 D/2 C/2 | B, \
+w:c1 c2 c3 c4 c5 c6
+B,/2 | B,/4 E/4 E/4 B,/4 C/4 E/4 | E \
+w:d1 d2 d3 d4 d5 d6 d7 d8
+B,/2 | B,/4 E/4 E/4 B,/4 C/4 E/4 | E \
+w:e1 e2 e3 e4 e5 e6 e7 e8
+B,/2 | A,/4 C/4 B,/2 A,/2 | G, |]
+w:f1 f2 f3 f4 f5 f6
+V:4 clef=bass stem=down
+E,/2 | E,3/8 E,/8 E,/4 A,/4 G,/4 F,/4 | E, \
+E,/2 | A,3/8 A,/8 x/4G,/4 F,/4 E,/4 | B,, \
+B,,/2 | B,,/4 E,/4 F,/2 F,/2 | B,, \
+E,/2 | E,/4 E,/4 E,/4 E,/4 C,/4 A,,/4 | E, \
+E,/2 | E,/4 E,/4 E,/4 E,/4 C,/4 A,,/4 | E, \
+G,,/2 | A,,/4 A,,/4 B,,/2 B,,/2 | E, |]
+
