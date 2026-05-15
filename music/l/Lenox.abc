@@ -1,0 +1,53 @@
+X:1
+T:LENOX
+C:Lewis Edson (1748-1820)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-12 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm)
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=140
+K:Bb
+V:1 clef=treble stem=up
+[M:4/4] B/4 | B/4 B/4 F/4 G/4 | F3/4 \
+w:A1 A2 A3 A4 A5 A6
+F/4 | B/4 c/4 d/4 c/4 | B3/4 \
+w:B1 B2 B3 B4 B5 B6
+B/4 | d/4 f/4 d/4 B/4 | c3/4 \
+w:C1 C2 C3 C4 C5 C6
+c/4 | d/4 B/4 c/4 A/4 | B3/4 \
+w:D1 D2 D3 D4 D5 D6
+F/4 | B/4 B/4 B/4 F/4 | G/4 G/4 G/4 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+B/4 | c/4 c/4 c/4 d/4 | B/4 B/4 B/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+F/4 | G/4 G/4 G/4 B/4 | c/2 A/2 | B3/4 |]
+w:G1 G2 G3 G4 G5 G6 G7 G8
+V:2 clef=treble stem=down
+D/4 | D/4 D/4 F/4 E/4 | C3/4 \
+D/4 | D/4 F/4 F/4 E/4 | D3/4 \
+D/4 | F/4 F/4 F/4 F/4 | F3/4 \
+F/4 | F/4 G/4 G/4 F/4 | F3/4 \
+D/4 | D/4 D/4 D/4 D/4 | E/4 E/4 E/4 \
+D/4 | F/4 F/4 F/4 F/4 | D/4 D/4 D/4 \
+F/4 | E/4 E/4 E/4 D/4 | F/2 F/2 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,/4 | F,/4 B,/4 B,/4 B,/4 | A,3/4 \
+A,/4 | G,/4 A,/4 B,/4 A,/4 | B,3/4 \
+B,/4 | B,/4 C/4 B,/4 B,/4 | A,3/4 \
+A,/4 | B,/4 B,/4 E/4 C/4 | D3/4 \
+B,/4 | F,/4 F,/4 F,/4 B,/4 | B,/4 B,/4 B,/4 \
+B,/4 | A,/4 A,/4 A,/4 A,/4 | B,/4 B,/4 B,/4 \
+B,/4 | B,/4 B,/4 B,/4 B,/4 | A,/2 C/2 | B,3/4 |]
+V:4 clef=bass stem=down
+B,,/4 | B,,/4 B,,/4 D,/4 E,/4 | F,3/4 \
+D,/4 | G,/4 F,/4 x/4F,/4 | B,,3/4 \
+B,,/4 | B,/4 A,/4 x/4D,/4 | F,3/4 \
+F,/4 | B,/4 G,/4 E,/4 F,/4 | B,,3/4 \
+B,,/4 | B,,/4 B,,/4 B,,/4 B,,/4 | E,/4 E,/4 E,/4 \
+B,,/4 | F,/4 F,/4 F,/4 D,/4 | G,/4 G,/4 G,/4 \
+D,/4 | E,/4 E,/4 E,/4 B,,/4 | F,/2 F,/2 | B,,3/4 |]
+

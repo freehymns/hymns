@@ -1,0 +1,31 @@
+X:1
+T:Zacher
+C:Unknown
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:G
+V:1
+[DB] [DB] [dD] [GE] | [EA] [DA] [DB]2 | \
+w:A1 A2 A3 A4 A5 A6 A7
+[dD] [dD] [eC] [dD] | [DB] [^CA] [DA]2 | \
+w:B1 B2 B3 B4 B5 B6 B7
+G [DA] [DB] [Fd] | [Ge] [Ge] [Gd]2 | \
+w:C1 C2 C3 C4 C5 C6 C7
+[GB] [Gd] [Ge] G | (B A) G2 |]
+w:D1 D2 D3 D4 D5_ D6
+V:2
+x4 | x4 | \
+x4 | x4 | \
+G x3 | x4 | \
+x4 | (G F) G2 |]
+V:3
+G, G, [F,A,] [E,B,] | [C,A,] [F,D,] [G,G,,]2 | \
+[F,A,] [G,B,] [G,C,] [G,B,,] | [G,G,,] [E,A,,] [F,D,]2 | \
+[E,B,] [F,A,] G, [D,A,] | [CC,] [CC,] [G,B,]2 | \
+[G,D] [DB,,] [CC,] [E,B,] | (D C) [G,G,,B,]2 |]
+V:4
+G, G, x2 | x4 | \
+x4 | x4 | \
+x2 G, x | x4 | \
+x4 | D,2 x2 |]

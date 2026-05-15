@@ -1,0 +1,22 @@
+X:1
+T:SACRIFICE
+C:H. Laher
+I:score (1) (2)
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+[GE] | [EA] [GE] [FB,] [EB,] | [EB,]2 [DB,] \
+w:A1 A2 A3 A4 A5 A6 A7
+E | [FE] [GE] [EA] [FA] | [GE]3 |\
+w:B1 B2 B3 B4 B5 B6
+$ [FB] | [eE] [GE] [GE] [GE] | [GE]2 [FE] \
+w:C1 C2 C3 C4 C5 C6 C7
+[FE] | [FE] [FE] [GD] [FD] | E3 |]
+w:D1 D2 D3 D4 D5 D6
+V:2
+[E,B,] | [E,C] [E,B,] [E,A,] [G,E,] | [G,B,,]2 [F,B,,] \
+[G,,B,] | [CA,,] [B,B,,] [C,B,] [D,B,] | [E,B,]3 |\
+$ [D,B,] | [G,C,] [G,C,] [G,B,,] [G,B,,] | [CA,,]2 [CA,,] \
+[CA,,] | [B,,A,] [B,,A,] [B,B,,] [B,,A,] | [G,E,]3 |]

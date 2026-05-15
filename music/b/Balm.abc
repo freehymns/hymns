@@ -1,0 +1,34 @@
+X:1
+T:BALM
+C:Unknown
+I:score (1 2) (3)
+L:1/4
+M:2/2
+K:Eb
+V:1
+[GB]3/2 [cA]/ [GB] [GE] | [Ge] [Gd] d [Ec] | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+[EB]3/2 [Ec]/ [EB] [GE] | [FA] [GE] [FD]2 | \
+w:B1 B2 B3 B4 B5 B6 B7
+[EB]3/2 [Ec]/ [EB] [GE] | [Ge] [Gd] [Fd] [Ec] | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+[EB]3/2 [Ec]/ [EB] [GE] | [FD] [GD] E2 | \
+w:D1 D2 D3 D4 D5 D6 D7
+E3/2 [FD]/ [GE] [FD] | [GE]3/2 [EA]/ [EB] [GE] | \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+[Gc]3/2 [G=B]/ [Gc] [eE] | [GE] [FD] E2 |]
+w:F1 F2 F3 F4 F5 F6 F7
+V:2
+x4 | x2 G/F/ x | \
+x4 | x4 | \
+x4 | x4 | \
+x4 | x2 E2 | \
+x4 | x4 | \
+x4 | x4 |]
+V:3
+[E,B,]3/2 [EE,]/ [E,B,] [E,B,] | [E,C] [F,F,,] [F,=B,] [CC,] | \
+[G,E,]3/2 A,/ [G,B,] [E,B,] | [D,B,] [E,B,] [B,B,,]2 | \
+[G,B,]3/2 A,/ [G,B,] [E,B,] | [E,=B,] [F,B,] [G,B,] [CA,] | \
+[G,E,]3/2 A,/ [G,B,] [E,B,] | [B,B,,] [B,,A,] [G,E,]2 | \
+[G,C,]3/2 [B,B,,]/ [E,B,] [B,B,,] | [E,B,]3/2 [F,B,]/ [G,B,] [E,B,] | \
+[EC,]3/2 [DD,]/ [E,C] [CA,,] | [B,B,,] [B,,A,] [G,E,]2 |]

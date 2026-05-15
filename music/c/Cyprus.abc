@@ -1,0 +1,23 @@
+X:1
+T:CYPRUS
+C:Greek Melody
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:F
+V:1 treble
+[cA] | [cA]3/2 [GB]/ [FA] [cA] | (B3/2 A/) [GE] [GB] | [FA] [FC] [DB,] [GD] | [FC]2 [EC] [Ec] | [Fc]3/2 [GB]/ [FA] [Fc] | [EB]3/2 [FA]/ [GE] [EB] | [FA] (B/G/) [FC] [EC] | [GC]2 [FC] C | [GC]3/2 [FC]/ [EC] C | (B3/2 A/) [GE] [GE] | [FA] [FA] [F=B] [FB] | [Ec]2 [Ec] [Fc] | [Fc]3/2 [GB]/ [FA] [Fc] | [EB]3/2 [FA]/ [GE] [EB] | [FA] (B/G/) [FC] [EC] | [GC]2 [FC] |]
+w:A1 A2 A3 A4 A5 A6_ A7
++:B1 B2 B3 B4 B5 B6 B7
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3_ D4 D5 D6 D7
++:E1 E2 E3 E4 E5 E6_ E7
++:F1 F2 F3 F4 F5 F6 F7
++:G1 G2 G3 G4 G5 G6 G7 G8
++:H1 H2 H3_ H4 H5 H6 H7
+V:2 treble
+x | x4 | (G3/2 F/) x2 | x4 | x3 x | x4 | x4 | x D x2 | x3 C | x4 | (E3/2 F/) x2 | x4 | x3 x | x4 | x4 | x D x2 | x3 |]
+V:3 bass
+[F,C] | [F,C]3/2 [F,C]/ [F,C] [F,C] | [CC,]2 [CC,] [E,C] | [F,C] [F,A,] [F,B,,] [B,B,,] | [C,A,]2 [G,C,] [G,C,] | [F,A,]3/2 [F,B,]/ [F,C] [F,A,] | [G,C,]3/2 [C,A,]/ [C,B,] [G,C,] | F, [B,B,,] [C,A,] [G,C,] | [F,,B,]2 [F,,A,] [CC,] | [C,B,]3/2 [C,A,]/ [G,C,] C, | (G,3/2 A,/) [C,B,] [CC,] | [F,C] [F,C] G, [G,G,,] | [G,CC,]2 [G,C,] [F,A,] | [F,A,]3/2 [F,B,]/ [F,C] [F,A,] | [G,C,]3/2 [C,A,]/ [C,B,] [G,C,] | F, [B,B,,] [C,A,] [G,C,] | [F,,B,]2 [F,,A,] |]
+V:4 bass
+x | x4 | x4 | x4 | x3 x | x4 | x4 | x4 | x3 x | x4 | C,2 x2 | x4 | x3 x | x4 | x4 | x4 | x3 |]

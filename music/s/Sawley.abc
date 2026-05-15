@@ -1,0 +1,26 @@
+X:1
+T:SAWLEY
+C:James Walch, 1860
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-13 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Psalter Hymnal (Grand Rapids, Michigan: Board of Publications of the Christian Reformed Church, 1976), # 15.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=116
+K:Bb
+V:1 clef=treble stem=up
+[M:3/4] B/4 A/4 G/4 | F/2 D/4 | (E/4 A/4) G/4 | F3/4 | d/4 c/4 B/4 | (A/4 B/4) G/4 | F3/4 | B/4 A/4 G/4 | F/2 D/4 | (E/4 A/4) G/4 | F3/4 | G/4 A/4 B/4 | d/2 c/4 | B3/4 |]
+w:A1 A2 A3 A4 A5 A6_ A7 A8
++:B1 B2 B3 B4_ B5 B6
++:C1 C2 C3 C4 C5 C6_ C7 C8
++:D1 D2 D3 D4 D5 D6
+V:2 clef=treble stem=down
+D/4 F/4 E/4 | D/2 D/4 | (C/4 E/4) E/4 | D3/4 | F/4 F/4 F/4 | F/2 =E/4 | F3/4 | F/4 F/4 E/4 | (E/4 D/4) B,/4 | (C/4 F/4) C/4 | D3/4 | G/4 _G/4 F/4 | (F/4 =E/4) _E/4 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] B,/4 B,/4 B,/4 | B,/2 B,/4 | (A,/4 C/4) A,/4 | B,3/4 | B,/4 A,/4 B,/4 | (C/4 D/4) B,/4 | A,3/4 | B,/4 B,/4 B,/4 | B,/2 B,/4 | (B,/4 C/4) A,/4 | B,3/4 | B,/4 C/4 D/4 | (B,/4 G,/4) A,/4 | B,3/4 |]
+V:4 clef=bass stem=down
+B,,/4 B,,/4 B,,/4 | B,,/2 B,,/4 | F,/2 F,/4 | B,,3/4 | B,,/4 C,/4 D,/4 | C,/2 C,/4 | (F,/2 E,/4) | D,/4 D,/4 E,/4 | B,,/2 _A,/4 | (G,/4 F,/4) E,/4 | D,3/4 | E,/4 E,/4 D,/4 | F,/2 F,/4 | B,,3/4 |]
+

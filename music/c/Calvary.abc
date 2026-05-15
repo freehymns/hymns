@@ -1,0 +1,83 @@
+X:1
+T:CALVARY / SHAWNEE LODGE
+C:John Robson Sweney
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-14 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Select Songs of Praise, by Samuel W. Beazley et al. (Philadelphia, Pennsylvania: Judson Press, 1923), # 19. Also in The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 439.
+I:score (1 2 3) (4 5 6)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=100
+K:Bb
+V:1 clef=treble stem=up
+[M:4/4] z3/16 d/16 c3/16 B/16 | F/2- F3/16 D/16 F3/16 B/16 | A/2- A3/16 \
+w:A1 A2 A3 A4_ A5 A6 A7 A8_
+e/16 d3/16 c/16 | G/2- G3/16 A/16 G3/16 F/16 | D/2- D3/16 \
+w:B1 B2 B3 B4_ B5 B6 B7 B8_
+d/16 c3/16 B/16 | F/2- F3/16 D/16 F3/16 B/16 | G/2- G3/16 \
+w:C1 C2 C3 C4_ C5 C6 C7 C8_
+e/16 d3/16 ^c/16 | d/2- d3/16 B/16 A3/16 c/16 | B3/4 || \
+w:D1 D2 D3 D4_ D5 D6 D7 D8
+F/4 | c3/16 =B/16 c/2 d/4 | B3/16 G/16 F/2 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+F/4 | G/8 G/8 e/8 d/8 c/4 B/4 | c3/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+F/4 | d3/16 c/16 B/2 A/4 | G3/16 B/16 e/2 \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+G/4 | F3/8 B/8 A/8 B/8 d3/16 c/16 | B/2 |]
+w:H1 H2 H3 H4 H5 H6 H7 H8
+V:2 clef=treble stem=down
+x3/16 x/16 x3/16 x/16| x3/16 D/16D3/16D/16 D/4 x3/16 x/16| x3/16 E/16E3/16E/16 E/4 \
+x3/16 x/16| x3/16 E/16E3/16E/16 E/4 x3/16 x/16| x3/16 B,/16B,3/16B,/16 B,/4 \
+x3/16 x/16| x3/16 D/16D3/16D/16 D3/16 x/16 x3/16 x/16| x3/16 E/16 E3/16 E/16 E3/16 \
+G/16 F3/16 =E/16 | F/2- F3/16 F/16 F3/16 E/16 | D3/4 || \
+F/4 | E3/16 D/16 E/2 F/4 | D3/16 E/16 D/2 \
+D/4 | E/8 E/8 G/8 F/8 G/4 G/4 | F3/8=E/8 _E/4 \
+F/4 | F3/16 E/16 D/2 F/4 | E3/16 G/16 G/2 \
+E/4 | D3/8 F/8 F/8 F/8 F3/16 E/16 | D/2 |]
+V:3
+x/2 | x | x | \
+x | x | \
+x | x | \
+x | x3/4 || \
+x/4 | x | x | \
+x | {A} y x | \
+x | x | \
+x | x/2 |]
+V:4 clef=bass stem=up
+I:pos vocal above
+[M:4/4] z/2 | !grace!B,,3/16 B,/16B,3/16B,/16 B,/4 !grace!B,,/4 | !grace!C,3/16 F,/16F,3/16F,/16 [C,F,]/4 \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12
+!grace!D,3/16 !grace!E,/16 | !grace!D,3/16 F,/16A,3/16A,/16 A,/4 z/4  | !grace!B,,3/16 F,/16F,3/16F,/16 F,/4 \
+w:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12 b13
+!grace!B,,/4 | !grace!B,,3/16 B,/16B,3/16B,/16 B,3/16 z/16 !grace!B,,/4 | !grace!E,3/16 B,/16B,3/16B,/16B,3/16 \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 c12
+!grace!E,/16 !grace!F,/4 | F,3/16B,/16B,3/16B,/16B,3/16 D/16 C3/16 A,/16 | B,3/4 || \
+w:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11
+F,/4 | A,3/16 ^G,/16 A,/2 F,/4 | F,3/16 B,/16 B,/2 \
+w:e1 e2 e3 e4 e5 e6 e7 e8
+B,/4 | B,/8 B,/8 C/8 B,/8 E/4 C/4 | A,3/8 B,/8 C/4 \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10
+F,/4 | B,3/16 F,/16 F,/2 B,/4 | B,3/16 B,/16 B,/2 \
+w:g1 g2 g3 g4 g5 g6 g7 g8
+B,/4 | B,3/8 D/8 E/8 D/8 B,3/16 A,/16 | B,/2 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8
+V:5 clef=bass stem=down
+x/4 x/4| x3/16B,,/16B,,3/16B,,/16 B,,/4 x/4| x3/16C,/16C,3/16C,/16 x3/16 \
+!grace!C,/16 x3/16 x/16| x3/16D,/16F,3/16F,/16 F,/4 x/4| x3/16B,,/16B,,3/16B,,/16 B,,/4 \
+x/4| x3/16B,,/16B,,3/16B,,/16 B,,3/16 x/16 x/4| x3/16E,/16E,3/16E,/16E,3/16 \
+x/16 x/4| x3/16F,/16F,3/16F,/16F,3/16 F,/16 F,3/16 F,/16 | B,,3/4 || \
+F,/4 | F,3/16 F,/16 F,/2 F,/4 | B,,3/16 B,,/16 B,,/2 \
+B,,/4 | E,/8 E,/8 C,/8 D,/8 E,/4 =E,/4 | F,3/8 G,/8 A,/4 \
+F,/4 | B,,3/16 B,,/16 B,,/2 D,/4 | E,3/16 E,/16 E,/2 \
+E,/4 | F,3/8 F,/8 F,/8 F,/8 F,3/16 F,/16 | [B,,F,]/2 |]
+V:6
+x/2 | x | x | \
+x | x | \
+x | x | \
+x | x3/4 || \
+x/4 | x | x | \
+x | {C} y x | \
+x | x | \
+x | x/2 |]

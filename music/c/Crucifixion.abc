@@ -1,0 +1,46 @@
+X:1
+T:CRUCIFIXION
+C:T. Willey
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:C
+V:1
+[GC] | [GC]3/2 [EC]/ [EC] [cC] | [CB]3/2 [CA]/ [CA] \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+[CA] | [GC]3/2 [EC]/ [EC] C | [DB,]3 | \
+w:B1 B2 B3 B4 B5 B6
+[GF] | [GE]3/2 [EC]/ [EC] [cC] | [CB]3/2 [CA]/ [GC] \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+[GC] | [CA]3/2 [CA]/ [GC] [EC] | [FB,]3/2 [FB,]/ [EC] \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+[EC] | [DB,] [GB,] [^FC] [CA] | [GB,]3 \
+w:E1 E2 E3 E4 E5 E6
+[GB,] | [GC]3/2 [GC]/ [CA] [DA] | [DB]3/2 [FB]/ !fermata![Ec] \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+[GC] | [GC] [EC] [FC]3/2 [FC]/ | [EC] [DB,] !fermata!C |]
+w:G1 G2 G3 G4 G5 G6 G7 G8
+V:2
+x | x4 | x3 \
+x | x3 C | x3  \
+x | x4 | x3 \
+x | x4 | x3 \
+x | x4 | x3 \
+x | x4 | x3 \
+x | x4 | x2 C |]
+V:3
+[E,C,] | [E,C,]3/2 [G,C,]/ [G,C,] [G,E,] | F,3/2 F,/ F, \
+F, | [G,E,]3/2 [G,C,]/ [G,C,] [^F,A,,] | [G,G,,]3 | \
+[G,B,,] | [G,C,]3/2 x/ [G,C,] [G,E,] | F,3/2 F,/ [E,C,] \
+[G,E,] | F,3/2 F,/ [G,E,] [G,C,] | [G,D,]3/2 [G,G,,]/ [G,C,] \
+[G,C,] | [G,D,] [G,D,] [D,A,] [^F,D,] | [G,G,,]3 \
+(G,/F,/) | [E,C,]3/2 [E,C,]/ F, [F,D,] | G,3/2 [G,G,,]/ !fermata![G,C,] \
+[E,C,] | [G,E,] [G,C,] [F,,A,]3/2 [F,,A,]/ | [G,G,,] [G,,F,] !fermata![E,C,] |]
+V:4
+x | x4 | x3 \
+x | x4 | x3 \
+x | x4 | x3 \
+x | x4 | x3 \
+x | x4 | x3 \
+G,, | x4 | x3 \
+x | x4 | x3 |]
