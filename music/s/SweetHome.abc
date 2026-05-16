@@ -1,0 +1,28 @@
+X:1
+T:SWEET HOME
+C:Henry Rowley Bishop, 1829
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-15 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The New Cokesbury Hymnal (Nashville, Tennessee: The Cokesbury Press 1928), # 268. Date of tune found in Long, p. 124. Date of words found in Select Songs, by Francis Nathen Peloubet (New York & Chicago: Biglow & Main, 1884), # 23.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:2/4
+Q:1/4=90
+K:Eb
+V:1 clef=treble stem=up
+[M:2/4] E/8 | G/4 A/8 c/8 | B/4 G/8 B/8 | (A3/16G/16) A/8 F/8 | G3/8 E/8 | G/4 A/8 c/8 | B/4 G/8 B/8 | (A3/16G/16) A/8 F/8 | E3/8 B/8 | (e3/16d/16) c/8 B/8 | B/4 G/8 B/8 | (A3/16G/16) A/8 F/8 | G3/8 B/8 | (e3/16d/16) c/8 B/8 | B/4 G/8 B/8 | (A3/16G/16) A/8 F/8 | E3/8 z/8 || B/2 | (A/4 F/4) | E/4 F/4 | G3/8 B/8 | (e3/16d/16) c/8 B/8 | B/4 G/8 B/8 | (A3/16G/16) A/8 F/8 | E3/8 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8_ A9 A10 A11
++:B1 B2 B3 B4 B5 B6 B7 B8_ B9 B10 B11
++:C1 C2_ C3 C4 C5 C6 C7 C8_ C9 C10 C11
++:D1 D2_ D3 D4 D5 D6 D7 D8_ D9 D10 D11
++:E1 E2_ E3 E4 E5
++:F1 F2_ F3 F4 F5 F6 F7 F8_ F9 F10 F11
+V:2 clef=treble stem=down
+E/8 | E/4 F/8 A/8 | G/4 E/8 G/8 | (F3/16E/16) F/8 D/8 | E3/8 E/8 | E/4 F/8 A/8 | G/4 E/8 G/8 | (F3/16E/16) F/8 D/8 | E3/8 G/8 | (G3/16B/16) A/8 G/8 | G/4 E/8 G/8 | (F3/16E/16) F/8 D/8 | E3/8 G/8 | (G3/16B/16) A/8 G/8 | G/4 E/8 G/8 | (F3/16E/16) F/8 D/8 | E3/8 x/8|| E/2 | D/2 | E/4 D/4 | E3/8 G/8 | (G3/16B/16) A/8 G/8 | G/4 E/8 G/8 | (F3/16E/16) F/8 D/8 | E3/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:2/4] G,/8 | B,/4 B,/8 D/8 | E/4 B,/8 B,/8 | B,/4 B,/8 B,/8 | B,3/8 G,/8 | B,/4 B,/8 D/8 | E/4 B,/8 B,/8 | B,/4 B,/8 A,/8 | G,3/8 B,/8 | B,/4 E/8 E/8 | E/4 B,/8 B,/8 | B,/4 B,/8 B,/8 | B,3/8 B,/8 | B,/4 E/8 E/8 | E/4 B,/8 B,/8 | B,/4 B,/8 A,/8 | G,3/8 z/8 || G,/2 | F,/4 A,/4 | G,/4 B,/4 | B,3/8 B,/8 | B,/4 E/8 E/8 | E/4 B,/8 B,/8 | B,/4 B,/8 A,/8 | G,3/8 |]
+V:4 clef=bass stem=down
+E,/8 | E,/4 E,/8 E,/8 | E,/4 E,/8 E,/8 | B,,/4 B,,/8 B,,/8 | E,3/8 E,/8 | E,/4 E,/8 E,/8 | E,/4 E,/8 E,/8 | B,,/4 B,,/8 B,,/8 | E,3/8 E,/8 | E,/4 E,/8 E,/8 | E,/4 E,/8 E,/8 | B,,/4 B,,/8 B,,/8 | E,3/8 E,/8 | E,/4 E,/8 E,/8 | E,/4 E,/8 E,/8 | B,,/4 B,,/8 B,,/8 | E,3/8 x/8|| E,/2 | B,,/2 | C,/4 B,,/4 | E,3/8 E,/8 | E,/4 E,/8 E,/8 | E,/4 E,/8 E,/8 | B,,/4 B,,/8 B,,/8 | E,3/8 |]
+

@@ -1,0 +1,24 @@
+X:1
+T:PATIENCE
+C:Unknown
+I:score (1) (2)
+L:1/4
+M:none
+K:G
+V:1
+[GB]2 [FA] [FA] | G3 \
+w:A1 A2 A3 A4
+[GE] | [Gd] [Fd] [Ec] [Dc] | [DB]3 \
+w:B1 B2 B3 B4 B5 B6
+[GB] | [Gc] [Gc] [FA] A | [Gd] [Fd] [GB] \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+[GB] | [Gc] [Gc] [FA] A | [Gd] [Fd] [EB]2 | \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+[Ec]2 [FA] [FA] | [GG]4 |]
+w:E1 E2 E3 E4
+V:2
+[G,D]2 [DD,] [D,C] | [E,B,]3 \
+[E,B,] | [B,B,,] [D,A,] [G,E,] [F,A,] | [G,B,]3 \
+[G,D] | [E,C] [EC,] [DD,] [F,D] | [DB,] [DA,] [G,D] \
+[G,D] | [EC,] [EC,] [DD,] [F,C] | [G,B,] [D,A,] [G,E,]2 | \
+[G,C,]2 [DD,] [D,C] | [G,,B,]4 |]

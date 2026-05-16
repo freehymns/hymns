@@ -1,21 +1,27 @@
 X:1
 T:GLORIOUS MORROW
 C:James McGranahan (1840-1907)
-I:score (1 2) (3)
+I:score (1 2) (3 4)
 L:1/16
 M:3/4
 K:G
 V:1 treble
-[DB,]3 [GB,] | [DB]7 [Ec] [DB]3 [CA] | [GB,]4 [DB,]4 (3 B,2 D2 [GB]2 | [dB]7 [ec] [dB]3 [cA] | [GB]8 | [GB]3 [GB] | [cA]7 [^GB] [cA]3 [GB] | [cA]4 [FA]4 [^GB]3 [cA] | [dB]7 [^c^A] [dB]3 [cA] | [dB]8 | [dB]3 [cA] | [GB]7 [Ec] [DB]3 [CA] | [GB,]4 [DB,]4 (3B,2 D2 [GB]2 | [dB]7 [ec] [dB]3 [cA] | [GB]8 | [DB]3 [DB] | [Ec]7 [Fd] [Ge]3 [Ec] | [GB]3 [cA] [dB]4 [dB]3 [GB] | [FA]7 [cA] [GB]3 [FA] | G8 |]
+[DB,]3 [GB,] | [DB]7 [Ec] [DB]3 [CA] | [GB,]4 [DB,]4 [I:pos stem down] (3 B,2 D2 [I:pos stem up] [GB]2 | [dB]7 [ec] [dB]3 [cA] | [GB]8 [GB]3 [GB] | [cA]7 [^GB] [cA]3 [GB] | [cA]4 [FA]4 [^GB]3 [cA] | [dB]7 [^c^A] [dB]3 [cA] | [dB]8 [dB]3 [cA] | [GB]7 [Ec] [DB]3 [CA] | [GB,]4 [DB,]4 [I:pos stem down] (3B,2 D2 [I:pos stem up] [GB]2 | [dB]7 [ec] [dB]3 [cA] | [GB]8 [DB]3 [DB] | [Ec]7 [Fd] [Ge]3 [Ec] | (B3 c) [dB]4 [dB]3 [GB] | [FA]7 [cA] [GB]3 [FA] | G8 G3 G | [Ec]7 [Fd] [Ge]3 [Gc] | (B3 c) [dG]4 [dG]3 [GB] | [FA]7 [BG] [cA]3 [dB] | [BG]8 [G=F]3 [GF] | [Ec]7 [Fd] [Ge]3 [Ec] | (B3 c) [dG]4 [dG]3 [GB] | [FA]7 [cF] [GB]3 [DA] | [GD]8 |]
 w:A1 A2 A3 A4 A5 A6 A7 A8
 +:B1_ B2 B3 B4 B5 B6 B7
 +:C1 C2 C3 C4 C5 C6 C7 C8
 +:D1 D2 D3 D4 D5 D6 D7
 +:E1 E2 E3 E4 E5 E6 E7 E8
 +:F1_ F2 F3 F4 F5 F6 F7
-+:G1 G2 G3 G4 G5 G6 G7 G8 G9
++:G1 G2 G3 G4 G5 G6 G7_ G8
 +:H1 H2 H3 H4 H5 H6 H7
++:I1 I2 I3 I4 I5 I6 I7_ I8
++:J1 J2 J3 J4 J5 J6 J7
++:K1 K2 K3 K4 K5 K6 K7_ K8
++:L1 L2 L3 L4 L5 L6 L7
 V:2 treble
-x4 | x12 | x8 G4 | x12 | x8 | x4 | x12 | x12 | x12 | x8 | x4 | x12 | x8 B4 | x12 | x8 | x4 | x12 | x12 | x12 | x8 |]
+[I:pos stem up] x4 | x12 | x8 G4 | x12 | x8 x4 | x12 | x12 | x12 | x8 x4 | x12 | x8 B4 | x12 | x8 [I:pos stem down] x4 | x12 | (G3 A) x8 | x12 | x8 G3 G | x12 | G4 x8 | x12 | x8 x4 | x12 G4 x8 | x12 | x8 |]
 V:3 bass
-z4 | [G,G,,]4 [G,G,,]4 [G,G,,]4 | [G,G,,]4 [G,G,,]4 [G,G,,]4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [G,G,,]4 [G,DB,]4 | [DB,G,]4 | [D,D,,]4 [F,DD,A,]4 [F,DD,A,]4 | [D,D,,]4 [F,D,CA,]4 z4 | [G,G,,]4 [G,B,]4 [G,DB,]4 | [G,G,,]4 [G,DB,]4 | z4 | [G,G,,]4 [G,G,,]4 [G,G,,]4 | [G,G,,D,]8 z4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [G,G,,]4 [G,DB,]4 | [G,DB,]4 | [CC,]4 [EC]4 [EC]4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [D,D,,]4 [F,D,CA,]4 [F,D,CA,]4 | [G,G,,B,]8 |]
+z4 | [G,G,,]4 [G,G,,]4 [G,G,,]4 | [G,G,,]4 [G,G,,]4 [G,G,,]4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [G,G,,]4 [G,DB,]4 [DB,G,]4 | [D,D,,]4 [F,DD,A,]4 [F,DD,A,]4 | [D,D,,]4 [F,D,CA,]4 z4 | [G,G,,]4 [G,B,]4 [G,DB,]4 | [G,G,,]4 [G,DB,]4 z4 | [G,G,,]4 [G,G,,]4 [G,G,,]4 | [G,G,,D,]8 z4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [CC,]4 [EC]4 [EC]4 | [G,G,,]4 [G,DB,]4 [G,DB,]4 | [D,D,,]4 [F,D,CA,]4 [F,D,CA,]4 | [G,G,,B,]8 G,3 G, | [G,C,]7 [G,C,] [CC,]3 [EC,] | (D3 C) [G,B,]4 [G,B,]3 [DG,] | [DD,]7 [DD,] [DD,]3 [DD,] | [DG,]8 [B,G,]3 [B,G,] | [G,C,]7 [G,C,] [CC,]3 [EC,] | (D3 C) [G,B,]4 [G,B,]3 [DG,] | [DD,]7 [A,D,] [DD,]3 [CD,] | [B,G,,]8 |]
+V:4 bass
+x4 | x12 | x12 | x12 | x8 x4 | x12 | x12 | x12 | x8 x4 | x12 | x12 | x12 | x8 x4 | x12 | x12 | x12 | x8 G,3 G, | x12 | G,4 x8 | x12 | x8 x4 | x12 | G,4 x8 | x12 | x8 |]
