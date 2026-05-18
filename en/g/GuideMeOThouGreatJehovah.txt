@@ -33,3 +33,5 @@ Author: William Williams (1717-1791)
 Original Language: Welsh
 Translator: Peter Williams (1722–1796)
 Tune: CwmRhondda
+Alt Tune: Zion
+Alt Tune: RegentSquare

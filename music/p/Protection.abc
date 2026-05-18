@@ -1,0 +1,26 @@
+X:1
+T:PROTECTION
+C:Joseph Funk, 1832
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-16 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 369. Also in Harmonia Sacra, legacy edition (Dayton, Virginia: Legacy Book Publishers, 1980), # 241.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:2/2
+Q:1/4=135
+K:Ab
+V:1 clef=treble stem=up
+[M:2/2] (E/4 F/4) | A/2 F/4 A/4 | E/2 A/4 A/4 | c/2 A/4 c/4 | E/2 (E/4 F/4) | A/2 F/4 A/4 | E/2 A/4 A/4 | c/2 B/4 B/4 | A/2 c/2 | e/2 c/4 e/4 | A/2 A/4 A/4 | c/2 A/4 c/4 | E/2 (E/4 F/4) | A/2 F/4 A/4 | E/2 A/4 A/4 | c/2 B/4 B/4 | A/2 |]
+w:A1_ A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
++:B1_ B2 B3 B4 B5 B6 B7 B8 B9 B10 B11
++:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
++:D1_ D2 D3 D4 D5 D6 D7 D8 D9 D10 D11
+V:2 clef=treble stem=down
+(C/4 D/4) | E/2 D/4 F/4 | C/2 C/4 C/4 | E/2 C/4 A,/4 | B,/2 (C/4 D/4) | E/2 D/4 F/4 | C/2 C/4 C/4 | E/2 E/4 D/4 | C/2 E/2 | A/2 E/4 E/4 | F/2 F/4 F/4 | E/2 C/4 C/4 | B,/2 (C/4 D/4) | E/2 D/4 F/4 | x/2C/4 C/4 | E/2 E/4 D/4 | C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:2/2] A,/2 | C/2 A,/4 A,/4 | A,/2 E,/4 E,/4 | A,/2 A,/4 A,/4 | G,/2 A,/2 | C/2 A,/4 A,/4 | A,/2 A,/4 A,/4 | A,/2 G,/4 G,/4 | A,/2 A,/2 | C/2 A,/4 B,/4 | C/2 B,/4 A,/4 | A,/2 A,/4 A,/4 | G,/2 A,/2 | C/2 A,/4 A,/4 | A,/2 A,/4 A,/4 | A,/2 G,/4 G,/4 | A,/2 |]
+V:4 clef=bass stem=down
+A,,/2 | A,,/2 D,/4 D,/4 | C,/2 A,,/4 A,,/4 | A,,/2 A,,/4 A,,/4 | E,/2 A,,/2 | A,,/2 D,/4 D,/4 | C,/2 F,/4 F,/4 | E,/2 E,/4 E,/4 | A,,/2 C,/2 | A,/2 A,/4 G,/4 | F,/2 D,/4 D,/4 | A,,/2 A,,/4 A,,/4 | E,/2 A,,/2 | A,,/2 D,/4 D,/4 | C,/2 F,/4 F,/4 | E,/2 E,/4 E,/4 | [A,,E,]/2 |]
+

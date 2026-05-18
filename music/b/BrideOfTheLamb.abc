@@ -1,0 +1,31 @@
+X:1
+T:EMMANUEL
+C:Ludwig van Beethoven (1770-1827)
+I:score (1 2) (3 4)
+L:1/4
+M:3/4
+K:G
+V:1
+[D] | [GB,] [GD] [GE] [GB,] | [DB] [CA] [GB,] \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+[DB,] | [DA] [DA] [Dc] [DB] | [DA]3 | \
+w:B1 B2 B3 B4 B5 B6
+D | [DB] [^DB] [EB] [=DB] | [cC] [Gd] [Ge] \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+c/A/ | [GD] [G^C] [DB] A | [GB,]3 |]
+w:D1_ D2 D3 D4 D5 D6
+V:2
+x | x4 | x4 | \
+x4 | x3 | \
+x | x4 | x3 \
+E | x3 D/=C/ | x3 |]
+V:3
+[F,D,] | [G,G,,] [G,B,,] [G,C,] [G,E,] | [G,D,] [F,D,] [G,G,,] \
+G, | [F,A,] [F,D,] [F,A,] G, | [F,D,]3 | \
+[DD,] | [G,B,] [B,A,] [G,B,] [G,=F,] | [G,E,] [D,B,] [CC,] \
+[CC,] | [D,B,] A,/G,/ [G,D,] [F,D,] | [G,G,,]3 |]
+V:4
+x | x4 | x4 | \
+x4 | x3 | \
+x | x4 | x4 | \
+x E, x3/2 | x3 |]

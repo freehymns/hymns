@@ -1,0 +1,29 @@
+X:1
+T:LANDIS
+C:Alfred P. Gibbs (1890-1967)
+A:Terms:Copyright 1946. No record of renewal.
+I:score (1) (2)
+L:1/4
+M:3/4
+I:linebreak $
+K:F
+V:1
+[FCA] [FCA] [FCA] | [FDB]2 [FCA] | [EcC]3 | [GEC]3 | \
+w:A1 A2 A3 A4 A5 A6 A7
+[GDB] [FDB] [GDB] | [EcC]2 [GEC] | [F-C-A-]3 | [FCA]3 |\
+w:B1 B2 B3 B4 B5 B6_
+$ [FCA] [FCA] [FCA] | [FBB,]2 [F=B=B,] | [FcC]3 | [_EcC]3 | \
+w:C1 C2 C3 C4 C5 C6 C7
+[Dc] [DB] [DA] | [GEC]2 [ECB] | [F-C-A-]3 | [FCA]3 |\
+w:D1 D2 D3 D4 D5 D6_
+$ [FdD] [FdD] [FdD] | [FDB]2 [FdD] | [FcC]3 | [FDA]3 | \
+w:E1 E2 E3 E4 E5 E6 E7
+[GD] [Dc] [DB] | [FCA]2 [GEC] | [F-C-]3 | [FC]3 |]
+w:F1 F2 F3 F4 F5 F6_
+V:2
+[F,F,,] [F,F,,] [F,F,,] | [F,F,,]2 [F,F,,] | [G,C,]3 | [G,C,]3 | \
+[G,G,,] [G,G,,] [G,G,,] | [G,C,]2 [G,C,] | [F,-F,,-]3 | [F,F,,]3 |\
+$ [F,F,,] [F,F,,] [F,F,,] | [F,D,]2 [F,_D,] | [F,C,A,]3 | [F,A,]3 | \
+[F,B,B,,] [F,B,B,,] [F,B,B,,] | [G,C,]2 [G,C,] | [F,-A,-]3 | [F,A,]3 |\
+$ [F,B,B,,] [F,B,B,,] [F,B,B,,] | [F,B,B,,]2 [F,B,B,,] | [F,A,]3 | [D,A,]3 | \
+[G,B,B,,] [G,B,B,,] [G,B,B,,] | [C,A,]2 [C,B,] | [F,-A,-]3 | [F,A,]3 |]

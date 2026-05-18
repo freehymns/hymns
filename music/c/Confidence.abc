@@ -1,0 +1,51 @@
+X:1
+T:CONFIDENCE
+C:Unknown
+I:score (1 2) (3 4)
+L:1/4
+M:6/4
+K:D
+V:1 treble
+[FD]/[GE]/ | [FA]2 [FD] [GC]2 [CA,] | (D2 F) [FD]2 \
+w:A1_ A2 A3 A4 A5 A6_ A7
+[FD] | [FA]2 [FA] (B G) [EB,] | (D3 C2)  \
+w:B1 B2 B3 B4_ B5 B6_
+[EC] | [FD]2 [FD] (G F) [GC] | [DA]3 [DB]2 \
+w:C1 C2 C3 C4_ C5 C6 C7
+B/c/ | [Fd]2 [FA] (A G) [EC] | D3-D2  \
+w:D1_ D2 D3 D4_ D5 D6_
+[FD]/[GE]/ | [FA]2 [Fd] [cA]2 [GB] | [FA]3 [FD]2 \
+w:E1_ E2 E3 E4 E5 E6 E7
+[FD]/[GE]/ | [FA]2 [Fd] [Ge]2 [GE] | ([FD]3 [EC]2)  \
+w:F1_ F2 F3 F4 F5 F6_
+D | [FD]2 [FD] (G F) [GC] | [DA]3 [DB]2 \
+w:G1 G2 G3 G4_ G5 G6 G7
+[DB]/[Ec]/ | [dD]2 [FA] (A G) [EC] | D3- D2 |]
+w:H1_ H2 H3 H4_ H5 H6_
+V:2 treble
+x | x6 | A,3 x3 | \
+x3 D2 x | (A,3 A,2)  \
+x | x3 (C D) x | x3 x2 \
+G | x3 C2 x | x3 x2  \
+x | x6 | x6 | \
+x6 | (D3 C2)  \
+D | x3 (C D) x | x6 | \
+x3 C2 x | x3 x2 |]
+V:3 bass
+[D,A,] | [D,A,]2 [D,A,] [A,A,,]2 [G,A,,] | (F,2 A,) [D,A,]2 \
+[D,A,] | [DD,]2 [D,A,] [G,G,,]2 [G,G,,] | (F,3 E,2)  \
+[A,A,,] | [D,A,]2 [D,A,] A,2 [E,A,] | [F,A,]3 G,2 \
+G, | [D,A,]2 [D,A,] [A,A,,]2 [G,A,,] | [F,-D,-]3 [F,D,]2  \
+[D,A,] | [DD,]2 [D,A,] [B,G,]2 [G,C] | [DD,]3 [D,A,]2 \
+[D,A,]/ x/ | [DD,]2 [A,D,] [CA,,]2 [C,A,] | (A,3 A,2)  \
+[F,D,] | [D,A,]2 [D,A,] A,2 [E,A,] | [F,A,]3 G,2 \
+G, | [F,A,]2 [D,A,] [A,A,,]2 [G,A,,] | [F,-D,-]3 [F,D,]2 |]
+V:4 bass
+x | x6 | D,3 x3 | \
+x6 | (A,,3 A,,2) \
+x | x3 (E, D,) x | x3 G,2 \
+G, | x6 | x3 x2 \
+x | x6 | x6 | \
+x6 | (D,3 A,,2) \
+x | x3 (E, D,) x | x3 G,2 \
+G, | x4 x | x3 x2 |]

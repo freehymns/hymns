@@ -1,0 +1,48 @@
+X:1
+T:TOPLADY
+C:Thomas Hastings, 1830
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-16 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 271.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/2
+Q:1/4=145
+K:Bb
+V:1 clef=treble stem=up
+[M:3/2] F3/8 G/8 | F/2 D/2 B3/8 G/8 | F \
+w:A1 A2 A3 A4 A5 A6 A7
+B/4 c/4 | d3/4 c/4 B/4 A/4 | B \
+w:B1 B2 B3 B4 B5 B6 B7
+A3/8 B/8 | c3/4 c/4 A/4 F/4 | B \
+w:C1 C2 C3 C4 C5 C6 C7
+A3/8 B/8 | c3/4 c/4 A/4 F/4 | B \
+w:D1 D2 D3 D4 D5 D6 D7
+F3/8 G/8 | F/2 D/2 B3/8 G/8 | F \
+w:E1 E2 E3 E4 E5 E6 E7
+B/4 c/4 | d3/4 c/4 B/4 A/4 | B |]
+w:F1 F2 F3 F4 F5 F6 F7
+V:2 clef=treble stem=down
+D3/8 E/8 | D/2 B,/2 F3/8 E/8 | D \
+F/4 F/4 | F3/4 G/4 F/4 E/4 | D \
+C3/8 D/8 | E3/4 E/4 E/4 E/4 | D \
+C3/8 D/8 | E3/4 E/4 E/4 E/4 | D \
+D3/8 E/8 | D/2 B,/2 F3/8 E/8 | D \
+D/4 E/4 | F3/4 G/4 F/4 E/4 | D |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/2] B,3/8 B,/8 | B,/2 F,/2 B,3/8 B,/8 | B, \
+B,/4 A,/4 | B,3/4 E/4 D/4 C/4 | B, \
+F,3/8 F,/8 | F,3/4 A,/4 C/4 A,/4 | B, \
+F,3/8 B,/8 | A,3/4 A,/4 C/4 A,/4 | B, \
+B,3/8 B,/8 B,/2 F,/2 B,3/8 B,/8 | B, \
+B,/4 A,/4 | B,3/4 E/4 D/4 C/4 | B, |]
+V:4 clef=bass stem=down
+B,,3/8 B,,/8 | B,,/2 B,,/2 D,3/8 E,/8 | B,, \
+D,/4 F,/4 | B,3/4 E,/4 F,/4 F,/4 | B,, \
+F,3/8 F,/8 | F,3/4 F,/4 F,/4 F,/4 | B,, \
+F,3/8 F,/8 | F,3/4 F,/4 F,/4 F,/4 | B,, \
+B,,3/8 B,,/8 B,,/2 B,,/2 D,3/8 E,/8 | B,, \
+G,/4 F,/4 | B,3/4 E,/4 F,/4 F,/4 | B,, |]
+
