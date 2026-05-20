@@ -1,0 +1,42 @@
+X:1
+T:ERWIG
+C:Alexander Erwig (1830-1895)
+I:score (1 2) (3)
+L:1/4
+M:4/4
+K:Db
+V:1
+[DA,] | [EA,] [DA,] [GD] [FD] | [EC]2 D \
+w:A1 A2 A3 A4 A5 A6 A7
+[FD] | [DA] [Fd] [Ec] [E=A] | [DB]3 \
+w:B1 B2 B3 B4 B5 B6
+[GB] | [FA] [FD] [FC] [E=A,] | [DB,]2 [EC] \
+w:C1 C2 C3 C4 C5 C6 C7
+[FD] | [FD] [FD] [EC] [DB,] | [EC]3 \
+w:D1 D2 D3 D4 D5 D6
+[EC] | [GD] [FD] [DB] [Fc] | [Fd]2 [eA] \
+w:E1 E2 E3 E4 E5 E6 E7
+A | f3/2 f/ [Ge] [=Gd] | [cA]3 \
+w:F1 F2 F3 F4 F5 F6
+[CB] | [DA] [FD] [FC] [E=A,] | [DB,]2 [EC] \
+w:G1 G2 G3 G4 G5 G6 G7
+[FD] | [FD] [FD] [EC]3/2 D/ | D3 | %20
+w:H1 H2 H3 H4 H5 H6
+V:2
+x | x4 | x4 | \
+x4 | x3 \
+x | x4 | x4 | \
+x4 | x3 \
+x | x4 | x4 | \
+A A x2 | x3 \
+x | x4 | x4 | \
+x4 | x3 | %20
+V:3
+[F,D,] | [G,D,] [F,D,] [D,B,] [D,A,] | [G,A,,]2 [F,D,] \
+[D,A,] | [F,D,] [D,A,] [F,=A,] [F,C] | [B,B,,]3 \
+[G,,D] | [DD,] [D,A,] [F,=A,] [F,F,,] | [F,B,,]2 [A,A,,] \
+[D,A,] | [B,B,,] [D,A,] [A,A,,] [F,B,,] | [A,A,,]3 \
+[A,A,,] | [G,,B,] [D,A,] [G,B,] [F,=A,] | B,2 [CA,] \
+[CA,] | [DD,] [F,D] [G,B,] [DB,] | [EA,]3 \
+[G,E] | [F,A,] [D,A,] [F,=A,,] [F,F,,] | [F,B,,]2 [A,A,,] \
+[D,A,] | [B,B,,] [F,,A,] [G,A,,]3/2 [F,D,]/ | [F,D,]3 | %20

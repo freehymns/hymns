@@ -1,0 +1,28 @@
+X:1
+T:TREUE LIEBE
+C:Unknown
+I:score (1) (2)
+L:1/4
+M:3/4
+I:linebreak $
+K:E
+V:1
+B,/ E/ F/ | [GEB,]3/2 A/ F/ G/ | [G,EB,]3/2 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+E/ [GE]/ [FA]/ | [GEB]3/2 c/ A/ B/ | [GE]3/2  \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+E/ [G,EB,]/ [G,E=DB,]/ | [EcA]3/2 c/ [ecA]/ [EcA]/ | [GEB]3/2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+G/ [GEB]/ [GEB]/ | [FDA]3/2 F/ [FDBA]/ [FDBA]/ | [GEB,]3/2  \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+E/ [G,EB,]/ [G,E=DB,]/ | [EcA]3/2 c/ [ecA]/ [EcA]/ | [GEB]3/2 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+G/ [GEB]/ [GEB]/ | [FDA]3/2 F/ [GFDB]/ [FDBA]/ | [GEB,]3/2 |]
+w:F1 F2 F3 F4 F5 F6 F7 F8
+V:2
+z/ z | [E,E,,B,,]3/2 z/ [B,,A,] | [E,E,,B,,]3/2 \
+z/ E, | E,3/2 z/ B,, | [E,E,,]3/2  \
+z/ [E,E,,]  | [A,A,,]3/2 z/ [A,A,,] | [E,E,,B,,]2 \
+E, | B,,3/2 z/ B,, | [E,E,,B,,]3/2  \
+z/ [E,E,,] | [A,A,,]3/2 z/ [A,A,,] | [E,E,,]3/2 \
+z/ E, | B,,3/2 z/ B, | [E,E,,B,,]3/2 |]

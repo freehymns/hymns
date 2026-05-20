@@ -1,0 +1,26 @@
+X:1
+T:HOLLEY
+C:George Hews, 1835
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-17 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Church Hymnal, Revised and Enlarged (Boston, Massachusetts: Parish Choir, 1911), # 272.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=140
+K:Eb
+V:1 clef=treble stem=up
+G/2 ^F/4 G/4 | E/2 G/2 | (F/4 G/4) (A/4 B/4) | G | B/2 =A/4 B/4 | G/2 (G/4 B/4) | (B/4 A/4) (A/4 G/4) | F | G/2 F/4 F/4 | E/2 F/2 | (G/4 A/4) (B/4 c/4) | F | G/2 B/4 B/4 | A3/4 F/4 | E/2 D/2 | E |]
+w:A1 A2 A3 A4 A5 A6_ A7_ A8
++:B1 B2 B3 B4 B5_ B6_ B7_ B8
++:C1 C2 C3 C4 C5 C6_ C7_ C8
++:D1 D2 D3 D4 D5 D6 D7 D8
+V:2 clef=treble stem=down
+E/2 E/4 E/4 | E/2 E/2 | (D/4 E/4) (F/4 D/4) | E | E/2 E/4 E/4 | E/2 (E/4 G/4) | (G/4 F/4) (F/4 E/4) | D | E/2 D/4 D/4 | C/2 D/2 | (E/4 D/4) E/2 | (E/2 D/2) | E/2 E/4 E/4 | E3/4 C/4 | B,/2 B,/2 | B, |]
+V:3 clef=bass stem=up
+I:pos vocal above
+B,/2 =A,/4 B,/4 | G,/2 B,/2 | B,/2 B,/2 | B, | G,/2 ^F,/4 G,/4 | B,/2 B,/2 | B,/2 B,/2 | B, | B,/2 B,/4 A,/4 | G,/2 B,/2 | (B,/4 A,/4) (G,/4 C/4) | B, | B,/2 _D/4 D/4 | C3/4 A,/4 | G,/2 (A,/4 F,/4) | G, |]
+V:4 clef=bass stem=down
+E,/2 E,/4 E,/4 | E,/2 E,/2 | B,/2 B,,/2 | E, | E,/2 E,/4 E,/4 | E,/2 E,/2 | D,/2 E,/2 | B,, | E,/2 B,,/4 =B,,/4 | C,/2 B,,/2 | (E,/4 F,/4) G,/4 A,/4 | B, | E,/2 G,/4 G,/4 | A,3/4 A,,/4 | B,,/2 B,,/2 | E, |]
+

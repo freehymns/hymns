@@ -1,0 +1,66 @@
+X:1
+T:Leaning on the Everlasting Arms
+C:Anthony Johnson Showalter
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-19 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 417. Also in The Baptist Hymnal (Nashville, Tennessee: Convention Press, 1991), # 333.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:Ab
+V:1 clef=treble stem=up
+[M:4/4] c/4 c/4 c3/16 B/16 A/4 | B/4 B/4 B3/16 A/16 F/4 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
+E/4 E/4 A3/16 G/16 A3/16 B/16 | c/4 c/4 B/2 | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9
+c/4 c/4 c3/16 B/16 A/4 | B/4 B/4 B3/16 A/16 F/4 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+E/4 E/4 A3/16 G/16 A3/16 B/16 | c/4 B/4 A/2 || \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9
+c/2 A/2 | A/2 F/2 | \
+w:E1 E2 E3 E4
+E/4 A3/16 G/16 A/4 B/4 | c/4 c/4 B/2 | \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+c/2 A/2 | A/2 F/2 | \
+w:G1 G2 G3 G4
+E/4 E/4 A3/16 G/16 A3/16 B/16 | c/4 B/4 A/2 |]
+w:H1 H2 H3 H4 H5 H6 H7 H8 H9
+V:2 clef=treble stem=down
+E/4 E/4 E3/16 D/16 C/4 | D/4 D/4 D3/16 D/16 D/4 | \
+C/4 C/4 C3/16 B,/16 C3/16 D/16 | E/4 E/4 E/2 | \
+E/4 E/4 E3/16 D/16 C/4 | D/4 D/4 D3/16 D/16 D/4 | \
+C/4 C/4 C3/16 B,/16 C3/16 D/16 | E/4 D/4 C/2 || \
+E/2 C/2 | F/2 D/2 | \
+C/4 C3/16 D/16 E/4 E/4 | E/4 E/4 E/2 | \
+E/2 C/2 | F/2 D/2 | \
+C/4 C/4 C3/16 B,/16 C3/16 D/16 | E/4 D/4 C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,/4 A,/4 A,3/16 A,/16 E,/4 | F,/4 F,/4 F,3/16 F,/16 A,/4 | \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10
+A,/4 A,/4 A,3/16 A,/16 A,3/16 A,/16 | A,/4 A,/4 G,/2 | \
+w:b1 b2 b3 b4 b5 b6 b7 b8 b9
+A,/4 A,/4 A,3/16 A,/16 E,/4 | F,/4 F,/4 F,3/16 F,/16 A,/4 | \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10
+A,/4 A,/4 E,3/16 E,/16 E,3/16 E,/16 | A,/4 G,/4 E,/2 || \
+w:d1 d2 d3 d4 d5 d6 d7 d8 d9
+A,/4 A,3/16A,/16 A,/4 A,/4 | A,/4 A,3/16A,/16 A,/4 A,/4 | \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10
+A,/4 E,3/16 E,/16 A,/4 G,/4 | A,/4 A,/4 G,/2 | \
+w:f1 f2 f3 f4 f5 f6 f7 f8
+A,/4 A,3/16A,/16 A,/4 A,/4 | A,/4 A,3/16A,/16 A,/4 A,/4 | \
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10
+A,/4 A,/4 E,3/16 E,/16 E,3/16 E,/16 | A,/4 G,/4 E,/2 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8 h9
+V:4 clef=bass stem=down
+A,,/4 A,,/4 A,,3/16 A,,/16 A,,/4 | D,/4 D,/4 D,3/16 D,/16 D,/4 | \
+A,,/4 A,,/4 A,,3/16 A,,/16 A,,3/16 A,,/16 | A,/4 A,/4 E,/2 | \
+A,,/4 A,,/4 A,,3/16 A,,/16 A,,/4 | D,/4 D,/4 D,3/16 D,/16 D,/4 | \
+E,/4 E,/4 x3/16 x/16 x3/16 x/16| E,/4 E,/4 A,,/2 || \
+A,/4 x3/16 x/16A,/4 A,/4 | D,/4 D,3/16D,/16 D,/4 D,/4 | \
+A,,/4 A,,3/16 B,,/16 C,/4 E,/4 | A,/4 A,/4 E,/2 | \
+A,/4 x3/16 x/16A,/4 A,/4 | D,/4 D,3/16D,/16 D,/4 D,/4 | \
+E,/4 E,/4 x3/16 x/16 x3/16 x/16| E,/4 E,/4 A,,/2 |]
+

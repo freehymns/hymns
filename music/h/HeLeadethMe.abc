@@ -1,0 +1,58 @@
+X:1
+T:He Leadeth Me
+C:William Batchelder Bradbury, 1864
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-19 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Edward MacHugh's Treasury of Gospel Hymns and Poems (Winona Lake, Indiana: Rodeheaver Hall-Mack, 1938), # 44.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=108
+K:D
+V:1 clef=treble stem=up
+[M:4/4] A/4 | F3/8 E/8 D/4 A/4 | B/4 G/4 G/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+B/4 | A3/8 F/8 F/4 (E/8D/8) | F/4 F/4 E/4 \
+w:B1 B2 B3 B4 B5_ B6 B7 B8
+A/4 | F3/8 E/8 D/4 A/4 | B/4 G/4 d/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+(c/8B/8) | A/4 F/4 (F/8E/8) (D/8E/8) | F3/8 E/8 D3/8 | \
+w:D1_ D2 D3 D4_ D5_ D6 D7 D8
+A/4 | A/4 d/4 c/4 e/4 | d/4 (c/8B/8) A/4 \
+w:E1 E2 E3 E4 E5 E6 E7_ E8
+B/4 | A/4 F/4 (F/8E/8) (D/8E/8) | F/4 F/4 E/4 \
+w:F1 F2 F3 F4_ F5_ F6 F7 F8
+A/4 | A/4 d/4 c/4 e/4 | d/4 (c/8B/8) A/4 \
+w:G1 G2 G3 G4 G5 G6 G7_ G8
+B/4 | A/4 F/4 (F/8E/8) (D/8E/8) | F3/8 E/8 D/2 |]
+w:H1 H2 H3 H4_ H5_ H6 H7 H8
+V:2 clef=treble stem=down
+F/4 | D3/8 A,/8 A,/4 D/4 | D/4 D/4 D/4 \
+G/4 | F3/8 D/8 D/4 D/4 | D/4 D/4 C/4 \
+C/4 | D3/8 A,/8 A,/4 D/4 | D/4 x/4G/4 \
+G/4 | F/4 D/4 (D/8C/8) (B,/8C/8) | D3/8 C/8 D3/8 | \
+F/4 | F/4 D/4 E/4 A/4 | A/4 G/4 F/4 \
+G/4 | F/4 D/4 (D/8C/8) (B,/8C/8) | D/4 D/4 C/4 \
+F/4 | F/4 D/4 E/4 A/4 | A/4 G/4 F/4 \
+G/4 | F/4 D/4 (D/8C/8) (B,/8C/8) | D3/8 C/8 D/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,/4 | A,3/8 G,/8 F,/4 F,/4 | G,/4 B,/4 B,/4 \
+D/4 | D3/8 A,/8 A,/4 (G,/8F,/8) | A,/4 A,/4 A,/4 \
+A,/4 | A,3/8 G,/8 F,/4 F,/4 | G,/4 B,/4 B,/4 \
+D/4 | D/4 A,/4 B,/4 F,/4 | A,3/8 G,/8 F,3/8 | \
+A,/4 | D/4 A,/4 A,/4 C/4 | D/4 D/4 D/4 \
+D/4 | D/4 A,/4 B,/4 F,/4 | A,/4 A,/4 A,/4 \
+A,/4 | D/4 A,/4 A,/4 C/4 | D/4 D/4 D/4 \
+D/4 | D/4 A,/4 B,/4 F,/4 | A,3/8 G,/8 F,/2 |]
+V:4 clef=bass stem=down
+D,/4 | D,3/8 D,/8 D,/4 D,/4 | x/4G,/4 G,/4 \
+G,/4 | D,3/8 D,/8 D,/4 D,/4 | A,,/4 A,,/4 A,,/4 \
+A,,/4 | D,3/8 D,/8 D,/4 D,/4 | G,/4 G,/4 G,/4 \
+G,/4 | D,/4 D,/4 B,,/4 B,,/4 | A,,3/8 A,,/8 D,3/8 | \
+D,/4 | D,/4 F,/4 x/4G,/4 | F,/4 G,/4 D,/4 \
+D,/4 | D,/4 D,/4 B,,/4 B,,/4 | A,,/4 A,,/4 A,,/4 \
+D,/4 | D,/4 F,/4 x/4G,/4 | F,/4 G,/4 D,/4 \
+D,/4 | D,/4 D,/4 B,,/4 B,,/4 | A,,3/8 A,,/8 D,/2 |]
+

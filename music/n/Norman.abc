@@ -1,0 +1,44 @@
+X:1
+T:NORMAN
+C:Alfred P. Gibbs (1890-1967)
+Z:Terms:Copyright 1956. No record of renewal.
+Z:Corrections: Added natural to H5.
+I:score (1 2) (3)
+L:1/4
+M:6/8
+K:D
+V:1
+D/ E/ [FD]/ [FB] [FD]/ | [CA]3/2 [FC] \
+w:A1 A2 A3 A4 A5 A6 A7
+[EC]/ | D/C/ D/ [FD] E/ | [E-C-]3/2 [EC] \
+w:B1 B2_ B3 B4 B5 B6_
+[GE]/ | [GE] [GE]/ [Gc] [GB]/ | [GB]3/2 [GE] \
+w:C1 C2 C3 C4 C5 C6 C7
+[GB]/ | [CA] [EC]/ [CA] [CB]/ | [D-A-]3/2 [DA]3/2 | \
+w:D1 D2 D3 D4 D5 D6_
+D/ E/ [FD]/ [FB] [FD]/ | [DA]3/2 [FD] \
+w:E1 E2 E3 E4 E5 E6 E7
+[Fd]/ | [Fd] [Fd]/ [Fc] [F=c]/ | [G-B-]3/2 [GB] \
+w:F1 F2 F3 F4 F5 F6_
+[GB]/ | d/c/ [GB]/ d/c/ [GB]/ | [FA]3/2 [FD] \
+w:G1 G2_ G3 G4_ G5 G6 G7
+[FA]/ | B/^A/ [EB]/ [Gc] =A/ | [F-d-]3/2 [Fd]3/2 |]
+w:H1 H2_ H3 H4 H5 H6_
+V:2
+D/ D/ x2 | x3 | \
+D/C/ D/ x D/ | x2 x/2 \
+x/ | x3 | x3 | \
+x3 | x3 | \
+D/ D/ x2 | x3 | \
+x3 | x2 x/ | \
+x/ | G x/ G x/ | x3/2 x \
+x/ | E x/ x G/ | x3 |]
+V:3
+[F,D,]/ [G,D,]/ [D,A,]/ [DD,] [D,A,]/ | [E,A,]3/2 [A,A,,] \
+[G,A,,]/ | [F,B,,]/ x/ [F,B,,]/ [^G,E,] [G,E,]/ | [A,-A,,-]3/2 [A,A,,] \
+[A,A,,]/ | [A,A,,] [A,A,,]/ [A,A,,] [A,A,,]/ | [A,A,,]3/2 [A,A,,] \
+[A,A,,]/ | [E,A,,] [E,A,,]/ [G,A,,] [G,A,,]/ | [F,-D,-]3/2 [F,D,]3/2 | \
+[F,D,]/ [G,D,]/ [D,A,]/ [DD,] [D,A,]/ | [F,D,]3/2 [D,A,] \
+[D,A,]/ | [D,A,] [D,A,]/ [DD,] [DD,]/ | [G,-D-]3/2 [G,D] \
+[G,D]/ | [G,B,] [G,D]/ [G,B,] [G,D]/ | [DD,]3/2 [D,A,] \
+[DD,]/ | [^G,E,] [G,E,]/ [A,A,,] [A,A,,]/ | [D,-A,-]3/2 [D,A,]3/2 |]

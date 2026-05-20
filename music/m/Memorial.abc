@@ -1,0 +1,39 @@
+X:1
+T:MEMORIAL
+C:H. Ross Phillips, 1916
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-19 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Northfield Hymnal No. 2, edited by William Revell Moody (New York: Fleming H. Revell, 1916), # 255.
+Z:Corrections:Note a5
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=102
+K:G
+V:1 clef=treble stem=up
+[M:4/4] D/4 D3/16 G/16 B3/8 ^A/8 | B/4 c/4 A/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+D/4 D3/16 F/16 A3/8 ^G/8 | A/4 B/4 G/2 | \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+D/4 D3/16 G/16 B3/8 d/8 | d/4 c/4 E/2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+D/2 E/4 F/4 | G |]
+w:D1 D2 D3 D4
+V:2 clef=treble stem=down
+D/4 D3/16 D/16 G3/8 G/8 | G/4 G/4 F/2 | \
+D/4 D3/16 D/16 D3/8 D/8 | D/4 D/4 D/2 | \
+D/4 D3/16 D/16 D3/8 D/8 | E/4 E/4 C/2 | \
+A,/2 ^C/4 =C/4 | B, |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,/4 B,3/16 B,/16 D3/8 ^C/8 | D/4 E/4 C/2 | \
+C/4 C3/16 C/16 C3/8 B,/8 | C/4 D/4 B,/2 | \
+B,/4 B,3/16 B,/16 B,3/8 B,/8 | C/4 C/4 G,/2 | \
+F,/2 G,/4 A,/4 | G, |]
+V:4 clef=bass stem=down
+G,/4 G,3/16 G,/16 G,3/8 G,/8 | G,/4 G,/4 D,/2 | \
+D,/4 D,3/16 D,/16 D,3/8 D,/8 | D,/4 D,/4 G,/2 | \
+G,/4 G,3/16 G,/16 G,3/8 G,/8 | C,/4 C,/4 C,/2 | \
+D,/2 D,/4 D,/4 | G,, |]
+

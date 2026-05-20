@@ -1,0 +1,58 @@
+X:1
+T:ALSTYNE
+C:William Howard Doane, 1875
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-18 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing Company, 1974), # 251. Also in Sacred Songs and Solos, 888 Pieces, by Ira D. Sankey (London: Morgan & Scott, late 19th Century), # 166. & The Seventh-day Adventist Hymnal (Hagerstown, Maryland: Review and Herald® Publishing Association, 1985), # 244.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=113
+K:G
+V:1 clef=treble stem=up
+[M:4/4] D/4 | D3/8 E/8 D/4 G/4 | G/2 F/4 \
+w:A1 A2 A3 A4 A5 A6 A7
+F/4 | G/4 G/4 c/4 B/4 | D3/4 \
+w:B1 B2 B3 B4 B5 B6
+(B/8c/8) | d3/8 B/8 A/4 G/4 | G/2 E/4 \
+w:C1_ C2 C3 C4 C5 C6 C7
+E/4 | D/4 G/4 F/4 (E/8F/8) | G3/4 \
+w:D1 D2 D3 D4 D5_ D6
+D/4 | d3/8 d/8 d/4 (c/8B/8) | A/2 D/4 \
+w:E1 E2 E3 E4 E5_ E6 E7
+D/4 | A3/8 A/8 A/4 (G/8A/8) | B3/4 \
+w:F1 F2 F3 F4 F5_ F6
+(B/8c/8) | d3/8 B/8 A/4 G/4 | G/2 E/4 \
+w:G1_ G2 G3 G4 G5 G6 G7
+E/4 | D/4 G/4 F/4 (E/8F/8) | G3/4 |]
+w:H1 H2 H3 H4 H5_ H6
+V:2 clef=treble stem=down
+B,/4 | B,3/8 C/8 B,/4 D/4 | D/2 D/4 \
+D/4 | D/4 D/4 D/4 D/4 | D3/4 \
+D/4 | D3/8 G/8 D/4 D/4 | E/2 C/4 \
+C/4 | B,/4 D/4 D/4 C/4 | B,3/4 \
+D/4 | B3/8 B/8 B/4 (A/8G/8) | F/2 D/4 \
+D/4 | F3/8 F/8 F/4 x/8F/8 | G3/4 \
+G/4 | G3/8 G/8 D/4 D/4 | E/2 C/4 \
+C/4 | B,/4 D/4 D/4 C/4 | B,3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] G,/4 | G,3/8 G,/8 G,/4 G,/4 | B,/2 A,/4 \
+A,/4 | G,/4 G,/4 F,/4 G,/4 | F,3/4 \
+(G,/8A,/8) | B,3/8 D/8 C/4 B,/4 | C/2 G,/4 \
+G,/4 | G,/4 B,/4 A,/4 A,/4 | G,3/4 \
+D/4 | D3/8 D/8 D/4 D/4 | D/2 D/4 \
+D/4 | D3/8 D/8 C/4 (B,/8D/8) | D3/4 \
+(G,/8A,/8) | B,3/8 D/8 C/4 B,/4 | C/2 G,/4 \
+G,/4 | G,/4 B,/4 A,/4 A,/4 | G,3/4 |]
+V:4 clef=bass stem=down
+G,,/4 | G,,3/8 G,,/8 G,,/4 B,,/4 | D,/2 D,/4 \
+C,/4 | B,,/4 B,,/4 A,,/4 G,,/4 | D,3/4 \
+G,/4 | G,3/8 G,/8 G,/4 G,/4 | C,/2 C,/4 \
+C,/4 | D,/4 D,/4 D,/4 D,/4 | G,,3/4 \
+D,/4 | D,3/8 D,/8 D,/4 D,/4 | D,/2 D,/4 \
+D,/4 | D,3/8 D,/8 D,/4 D,/4 | G,3/4 \
+G,/4 | G,3/8 G,/8 G,/4 G,/4 | C,/2 C,/4 \
+C,/4 | D,/4 D,/4 D,/4 D,/4 | G,,3/4 |]
+

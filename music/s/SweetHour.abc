@@ -1,0 +1,59 @@
+X:1
+T:SWEET HOUR
+C:William Batchelder Bradbury, 1861
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-19 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 398.  Also in Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 434.
+I:score (1 2) (3 4)
+I:voicecombine 1
+Z:Corrections:Timing on D8.
+L:1/1
+M:6/8
+Q:1/4=78
+K:D
+V:1 clef=treble stem=up
+[M:6/8] D/8 | F/4 G/8 A/4 A/8 | B/4 c/8 d/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+B/8 | A/4 F/8 (F/8E/8) D/8 | E/4 F/8 E/4 \
+w:B1 B2 B3 B4_ B5 B6 B7 B8
+D/8 | F/4 G/8 A/4 A/8 | B/4 c/8 d/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+B/8 | A/4 F/8 (F/8E/8) D/8 | F/4 E/8 D/4 \
+w:D1 D2 D3 D4_ D5 D6 D7 D8
+A/8 | d/4 c/8 d/4 B/8 | A/4 F/8 A/4 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+A/8 | d/4 c/8 d/4 B/8 | A/4 F/8 E/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+D/8 | F/4 G/8 A/4 A/8 | B/4 c/8 d/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+B/8 | A/4 F/8 (F/8E/8) D/8 | F/4 E/8 D/4 |]
+w:H1 H2 H3 H4_ H5 H6 H7 H8
+V:2 clef=treble stem=down
+D/8 | D/4 E/8 F/4 F/8 | G/4 A/8 B/4 \
+G/8 | F/4 D/8 (D/8C/8) D/8 | C/4 D/8 C/4 \
+D/8 | D/4 E/8 F/4 F/8 | G/4 A/8 B/4 \
+G/8 | F/4 D/8 (D/8C/8) D/8 | D/4 C/8 D/4 \
+F/8 | F/4 G/8 A/4 G/8 | F/4 D/8 F/4 \
+D/8 | F/4 G/8 A/4 G/8 | F/4 D/8 C/4 \
+D/8 | D/4 E/8 F/4 F/8 | G/4 A/8 B/4 \
+G/8 | F/4 D/8 (D/8C/8) D/8 | D/4 C/8 D/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] F,/8 | A,/4 A,/8 D/4 D/8 | D/4 D/8 D/4 \
+D/8 | D/4 A,/8 (A,/8G,/8) F,/8 | A,/4 A,/8 A,/4 \
+F,/8 | A,/4 A,/8 D/4 D/8 | D/4 D/8 D/4 \
+D/8 | D/4 A,/8 (A,/8G,/8) F,/8 | A,/4 G,/8 F,/4 \
+A,/8 | A,/4 A,/8 A,/4 D/8 | D/4 A,/8 D/4 \
+F,/8 | A,/4 A,/8 A,/4 D/8 | D/4 A,/8 A,/4 \
+F,/8 | A,/4 A,/8 D/4 D/8 | D/4 D/8 D/4 \
+D/8 | D/4 A,/8 (A,/8G,/8) F,/8 | A,/4 G,/8 F,/4 |]
+V:4 clef=bass stem=down
+D,/8 | D,/4 D,/8 D,/4 D,/8 | G,/4 G,/8 G,/4 \
+G,/8 | D,/4 D,/8 D,/4 D,/8 | A,,/4 A,,/8 A,,/4 \
+D,/8 | D,/4 D,/8 D,/4 D,/8 | G,/4 G,/8 G,/4 \
+G,/8 | D,/4 D,/8 D,/4 D,/8 | A,,/4 A,,/8 D,/4 \
+D,/8 | D,/4 E,/8 F,/4 G,/8 | D,/4 D,/8 D,/4 \
+D,/8 | D,/4 E,/8 F,/4 G,/8 | D,/4 D,/8 A,,/4 \
+D,/8 | D,/4 D,/8 D,/4 D,/8 | G,/4 G,/8 G,/4 \
+G,/8 | D,/4 D,/8 D,/4 D,/8 | A,,/4 A,,/8 D,/4 |]
+

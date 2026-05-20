@@ -1,0 +1,79 @@
+X:1
+T:HERMAS
+C:Frances Ridley Havergal,  1871
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-18 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 80.
+I:score (1 2) (3 4)
+I:voicecombine 1
+Z:Corrections:Note f3
+L:1/1
+M:4/4
+Q:1/4=115
+K:G
+V:1 clef=treble stem=up
+[M:4/4] B3/8 B/8 B/4 A/4 | G/2 E/2 | \
+w:A1 A2 A3 A4 A5 A6
+c3/8 B/8 A/4 G/4 | F | \
+w:B1 B2 B3 B4 B5
+d/4 A/4 B/4 c/4 | B/2 G/2 | \
+w:C1 C2 C3 C4 C5 C6
+A3/8 G/8 F/4 E/4 | D | \
+w:D1 D2 D3 D4 D5
+D/4 D/4 E/4 F/4 | A/2 G/2 | \
+w:E1 E2 E3 E4 E5 E6
+G/4 G/4 c/4 c/4 | B | \
+w:F1 F2 F3 F4 F5
+G/4 A/4 B/4 c/4 | d/2 D/2 | \
+w:G1 G2 G3 G4 G5 G6
+E/4 c/4 B/4 A/4 | G | \
+w:H1 H2 H3 H4 H5
+B3/8 B/8 B/4 A/4 | G/2 E/2 | \
+w:I1 I2 I3 I4 I5 I6
+c3/8 B/8 A/4 G/4 | F | \
+w:J1 J2 J3 J4 J5
+G/4 A/4 B/4 c/4 | d/2 D/2 | \
+w:K1 K2 K3 K4 K5 K6
+E/4 c/4 B/4 A/4 | G |]
+w:L1 L2 L3 L4 L5
+V:2 clef=treble stem=down
+D3/8 D/8 D/4 C/4 | B,/2 B,/2 | \
+C3/8 D/8 E/4 E/4 | D | \
+D/4 F/4 G/4 F/4 | G/2 D/2 | \
+D3/8 E/8 D/4 ^C/4 | D | \
+D/4 D/4 D/4 D/4 | D/2 D/2 | \
+G/4 G/4 G/4 (F/8E/8) | ^D | \
+B,3/8 B,/8 E/4 G/4 | D/2 D/2 | \
+C/4 E/4 G/4 F/4 | G | \
+G3/8 G/8 G/4 F/4 | G/2 B,/2 | \
+C3/8 D/8 E/4 E/4 | D | \
+B,/4 C/4 D/4 E/4 | D/2 D/2 | \
+C/4 E/4 G/4 F/4 | B, |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] G,3/8 G,/8 G,/4 F,/4 | G,/2 G,/2 | \
+G,3/8 ^G,/8 A,/4 A,/4 | A, | \
+F,/4 A,/4 D/4 D/4 | D/2 B,/2 | \
+A,3/8 B,/8 A,/4 G,/4 | F, | \
+F,/4 F,/4 G,/4 A,/4 | C/2 B,/2 | \
+B,/4 B,/4 A,/4 (A,/8G,/8) | F, | \
+E,/4 F,/4 G,/4 G,/4 | F,/2 G,/2 | \
+G,/4 A,/4 B,/4 C/4 | B, | \
+D3/8 D/8 D/4 C/4 | B,/2 G,/2 | \
+A,3/8 ^G,/8 A,/4 A,/4 | A, | \
+G,/4 G,/4 G,/4 G,/4 | G,/2 G,/2 | \
+G,/4 A,/4 B,/4 C/4 | G, |]
+V:4 clef=bass stem=down
+G,,3/8 G,,/8 B,,/4 D,/4 | E,/2 E,/2 | \
+A,,3/8 B,,/8 C,/4 ^C,/4 | D, | \
+D,/4 C,/4 B,,/4 A,,/4 | G,,/2 G,/2 | \
+F,3/8 G,/8 A,/4 A,,/4 | D, | \
+D,/4 D,/4 D,/4 D,/4 | D,/2 D,/2 | \
+E,/4 E,/4 A,,/4 A,,/4 | B,, | \
+E,3/8 E,/8 E,/4 E,/4 | D,/2 B,,/2 | \
+C,/4 A,,/4 D,/4 D,/4 | G,, | \
+G,,3/8 G,,/8 B,,/4 D,/4 | E,/2 E,/2 | \
+A,,3/8 B,,/8 C,/4 ^C,/4 | D, | \
+E,/4 E,/4 D,/4 C,/4 | B,,/2 B,,/2 | \
+C,/4 A,,/4 D,/4 D,/4 | G,, |]
+

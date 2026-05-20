@@ -1,0 +1,31 @@
+X:1
+T:PALM
+C:Unknown
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:F
+V:1 treble stem=up
+[Fc] | [FA] F [Gc]3/2 [AF]/ | [Fd] [Fc] [EB] [FA] | [GE] F2 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
+[cA] | [Ge]2 d2 | [Ec]3  \
+w:B1 B2 B3 B4
+[Fc] | [Fd] [Fc] [fA]3/2 [FA]/ | [FB] [Fd] [Fc] [FB] | [EB] [FA]2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+F | [FA]2 [GE]2 | F3 | %10
+w:D1 D2 D3 D4
+V:2 treble stem=down
+x | x F x2 | x4 | x F2 \
+x | x2 (G F) | x3  \
+x | x4 | x4 | x3 \
+F | x4 | F3 | %10
+V:3 bass stem=down
+[F,A,] | [F,C] [CA,] [E,C]3/2 [CF,]/ | [B,] [CA,] [G,C] [F,C] | [C,B,] [F,F,,A,]2 \
+[F,C] | [G,C]2 [G,G,,=B,]2 | [CC,]3  \
+[CA,] | B, [CA,] [F,C]3/2 [F,C]/ | [D,B,] [B,B,,] [CA,,] [DB,,] | [CC,] [F,C]2 \
+[DB,,] | [CC,]2 [I:pos stem up](C B,) | [I:pos stem down] [F,A,]3 | %10
+V:4 bass stem=up
+x | x4 | B, x3 | x4 | \
+x4 | x3  \
+x | B, x3 | x4 | x4 | \
+x2 [I:pos stem down] C,2 | x3 | %10
