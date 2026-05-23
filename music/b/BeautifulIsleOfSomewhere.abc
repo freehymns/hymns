@@ -1,0 +1,59 @@
+X:1
+T:Beautiful Isle of Somewhere
+C:John Sylvester Fearis
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-21 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns and Sacred Songs, edited by Edwin O. Excell (Chicago, Illinois: Hope Publishing, 1918), # 222.
+Z:Corrections:Note e2 (third chord)
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=95
+K:A
+V:1 clef=treble stem=up
+[M:6/8] c/8 B/8 A/8 E/4 A/8 | A3/8 G3/8 | \
+w:A1 A2 A3 A4 A5 A6 A7
+d/8 c/8 B/8 F/4 G/8 (F3/8 E3/8) | \
+w:B1 B2 B3 B4 B5 B6_
+c/8 B/8 A/8 E/4 A/8 | G3/8 B3/8 | \
+w:C1 C2 C3 C4 C5 C6 C7
+B/8 c/8 B/8 (A/8G/8) F/8 | E3/4 || \
+w:D1 D2 D3 D4_ D5 D6
+B3/8 E3/8 | A3/8 E3/8 | \
+w:E1 E2 E3 E4
+A/8 A/8 A/8 (A/8G/8) A/8 | (B/4 c/8) [Ed]3/8 | \
+w:F1 F2 F3 F4_ F5 F6_ F7
+c/8 d/8 c/8 B/4 B/16 B/16 | e/4 A/8 d3/8 | \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9
+c/8 B/8 A/8 (E/8A/8) c/8 | B3/8 A3/8 |]
+w:H1 H2 H3 H4_ H5 H6 H7
+V:2 clef=treble stem=down
+E/8 D/8 C/8 C/4 C/8 | D3/8 D3/8 | \
+E/8 E/8 E/8 D/4 D/8 C3/4 | \
+E/8 D/8 C/8 C/4 E/8 | E3/8 E3/8 | \
+^D/8 D/8 D/8 D/4 D/8 | E3/4 || \
+D3/8 D3/8 | C3/8 C3/8 | \
+C/8 C/8 C/8 ^D/4 D/8 | E3/4 | \
+E/8 F/8 E/8 E/4 E/16 E/16 | E/4 =G/8 F3/8 | \
+E/8 E/8 E/8 C/4 E/8 | D3/8 C3/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] A,/8 F,/8 E,/8 A,/4 E,/8 | E,3/8 E,3/8 | \
+B,/8 A,/8 G,/8 B,/4 B,/8 A,3/4 | \
+A,/8 F,/8 E,/8 A,/4 C/8 | B,3/8 G,3/8 | \
+F,/8 F,/8 F,/8 B,/4 A,/8 | G,3/4 || \
+(G,/4 G,/8) (G,/8A,/8B,/8) | (A,/8A,/8A,/8) A,3/8 | \
+A,/8 A,/8 A,/8 B,/4 B,/8 | (G,/4 A,/8) B,3/8 | \
+A,/8 A,/8 A,/8 G,/4 G,/16 G,/16 | A,/4 A,/8 A,3/8 | \
+A,/8 D/8 C/8 A,/4 A,/8 | G,3/8 A,3/8 |]
+V:4 clef=bass stem=down
+A,,/8 A,,/8 A,,/8 A,,/4 A,,/8 | B,,3/8 B,,3/8 | \
+E,/8 E,/8 E,/8 E,/4 E,/8 A,,3/4 | \
+A,,/8 A,,/8 A,,/8 A,,/4 A,,/8 | B,,3/8 B,,3/8 | \
+B,,/8 B,,/8 B,,/8 B,,/4 B,,/8 | E,3/4 || \
+(E,/4 E,/8) (E,/8F,/8G,/8) | x/8(E,/8C,/8) A,,3/8 | \
+F,/8 F,/8 F,/8 B,,/4 B,,/8 | E,3/8 E,3/8 | \
+x/8 x/8 x/8E,/4 D,/16 D,/16 | C,/4 C,/8 D,3/8 | \
+E,/8 E,/8 E,/8 E,/4 E,/8 | E,3/8 A,,3/8 |]
+

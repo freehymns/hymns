@@ -43,3 +43,4 @@ Author:  Isaac Watts (1674-1748)
 Author, Refrain: Ralph E. Hudson, 1885
 Tune: Abney
 Alt Tune: Martyrdom
+Alt Tune: Hudson

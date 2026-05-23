@@ -1,0 +1,30 @@
+X:1
+T:Bring Them In
+C:William Augustine Ogden (1841–1897)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-22 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 31. Also in Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 708.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:Ab
+V:1 clef=treble stem=up
+[M:4/4] E/4 E3/16 F/16 E/4 c/4 | c/4 B/4 B/2 | E/4 E3/16 F/16 E/4 B/4 | B/4 A/4 A/2 | E/4 E3/16 F/16 E/4 c/4 | c/4 B/4 d/2 | d/4 c3/16 B/16 A/4 E/4 | c3/8 B/8 A/2 || c/4 E/4 c/4 x/4 | d/4 F/4 d/4 x/4 | c/4 c/4 (c/8B/8) A3/16 c/16 | B/4 B/4 B/2 | c/4 E/4 c/4 x/4 | d/4 F/4 d/4 x/4 | c/4 c/4 c/8 B/8 A3/16 c/16 | B/2 A/2 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4 B5 B6 B7 B8
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3 D4 D5 D6 D7 D8
++:E1 E2 E3 E4 E5 E6
++:F1 F2 F3_ F4 F5 F6 F7 F8
++:G1 G2 G3 G4 G5 G6
++:H1 H2 H3 H4 H5 H6 H7 H8
+V:2 clef=treble stem=down
+C/4 C3/16 D/16 C/4 E/4 | E/4 E/4 E/2 | D/4 D3/16 D/16 D/4 D/4 | D/4 C/4 C/2 | C/4 C3/16 D/16 C/4 E/4 | F/4 F/4 F/2 | F/4 F3/16 F/16 E/4 E/4 | E3/8 D/8 C/2 || E/4 C/4 E/4 (3E/8A/8c/8 | F/4 D/4 F/4 (3F/8A/8d/8 | E/4 E/4 E/4 E3/16 E/16 | E/4 =D/4 E/2 | E/4 C/4 E/4 (3E/8A/8c/8 | F/4 D/4 F/4 (3F/8A/8d/8 | E/4 E/4 E/8 E/8 E3/16 E/16 | D/2 C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,/4 A,3/16 A,/16 A,/4 A,/4 | A,/4 G,/4 G,/2 | G,/4 G,3/16 G,/16 G,/4 G,/4 | E,/4 A,/4 A,/2 | A,/4 A,3/16 A,/16 A,/4 A,/4 | F,/4 F,/4 B,/2 | B,/4 =A,3/16 B,/16 C/4 C/4 | A,3/8 G,/8 A,/2 || A,/4 A,/4 A,/2 | A,/4 A,/4 A,/2 | A,/4 A,/4 (A,/8G,/8) A,3/16 A,/16 | G,/4 F,/4 G,/4 (3D,/8C,/8B,,/8 | A,/4 A,/4 A,/2 | A,/4 A,/4 A,/2 | A,/4 A,/4 A,/8 G,/8 A,3/16 A,/16 | G,/2 A,/2 |]
+V:4 clef=bass stem=down
+A,,/4 A,,3/16 A,,/16 A,,/4 A,,/4 | E,/4 E,/4 E,/2 | E,/4 E,3/16 E,/16 E,/4 E,/4 | A,,/4 A,,/4 A,,/2 | A,,/4 A,,3/16 A,,/16 A,,/4 A,,/4 | D,/4 D,/4 B,,/2 | B,,/4 C,3/16 D,/16 E,/4 E,/4 | E,3/8 E,/8 A,,/2 || A,,/4 A,,/4 A,,/2 | D,/4 D,/4 D,/2 | A,,/4 A,,/4 (A,,/8B,,/8) C,3/16 A,,/16 | E,/4 B,,/4 E,/4 x/4| A,,/4 A,,/4 A,,/2 | D,/4 D,/4 D,/2 | A,,/4 A,,/4 A,,/8 B,,/8 C,3/16 A,,/16 | E,/2 A,,/2 |]
+

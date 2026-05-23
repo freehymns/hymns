@@ -1,0 +1,78 @@
+X:1
+T:Come Unto Me
+C:Charles Price Jones, 1908
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-23 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnaltm, from Tabernacle Hymns Number Four Chicago, Illinois: Tabernacle Publishing Company, 1953, # 20. Publication date from http://www.hymnary.org.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=105
+K:C
+V:1 clef=treble stem=up
+[M:4/4] E3/16 E/16 E3/16 F/16 G/4 E/4 | c3/16 c/16 B3/16 A/16 G/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
+F3/16 F/16 A3/16 G/16 F/4 D/4 | B3/16 A/16 G3/16 F/16 E/2 | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11
+c3/16 c/16 c3/16 c/16 c/4 G/4 | A3/16 c/16 B3/16 A/16 G/2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+e3/16 e/16 e3/16 d/16 c/4 A/4 | G3/16 c/16 B3/16 d/16 c/2 || \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11
+G3/4 E3/16 A/16 | G3/4 z/4 | \
+w:E1 E2 E3 E4
+B/2- B3/16 G/16 A3/16 B/16 | c3/4 \
+w:F1_ F2 F3 F4 F5
+z/4| c/2- c3/16 c/16 B3/16 A/16 | G/2 E/2 | \
+w:G1_ G2 G3 G4 G5 G6
+d/2- d3/16 c/16 B3/16 A/16 | G/2- G/4 z/4 | \
+w:H1_ H2 H3 H4 H5_
+G/2- G3/16 G/16 A3/16 G/16 | E/2 G/2 | \
+w:I1_ I2 I3 I4 I5 I6
+A/2- A3/16 c/16 B3/16 A/16 | e3/4 z/4 | \
+w:J1_ J2 J3 J4 J5
+G/2- G3/16 e/16 d3/16 c/16 | c/2 A/2 | \
+w:K1_ K2 K3 K4 K5 K6
+G/2- G3/16 c/16 B3/16 d/16 | c3/4 z/4 |]
+w:L1_ L2 L3 L4 L5
+V:2 clef=treble stem=down
+C3/16 C/16 C3/16 D/16 E/4 C/4 | E3/16 A/16 G3/16 F/16 E/2 | \
+D3/16 D/16 F3/16 E/16 D/4 x/4| F3/16 F/16 E3/16 D/16 C/2 | \
+E3/16 E/16 E3/16 E/16 E/4 E/4 | F3/16 A/16 G3/16 F/16 E/2 | \
+G3/16 G/16 G3/16 G/16 A/4 F/4 | E3/16 E/16 D3/16 F/16 E/2 || \
+E3/4 C3/16 F/16 | E3/4 x/4 | \
+F/2- F3/16 F/16 F3/16 F/16 | E3/16E/16F3/16F/16 E/4 x/4 | \
+A/2- A3/16 A/16 G3/16 F/16 | E/2 C/2 | \
+^F/2- F3/16 A/16 G3/16 F/16 | D3/16D/16E3/16E/16 F/4 x/4 | \
+E/2- E3/16 E/16 F3/16 E/16 | C/2 E/2 | \
+F/2- F3/16 A/16 G3/16 F/16 | G3/4 x/4 | \
+E/2- E3/16 G/16 G3/16 G/16 | A/2 F/2 | \
+E/2- E3/16 E/16 D3/16 F/16 | E3/16E/16F3/16F/16 E/4 x/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] G,3/16 G,/16 G,3/16 G,/16 C/4 G,/4 | G,3/16 C/16 C3/16 C/16 C/2 | \
+B,3/16 B,/16 B,3/16 B,/16 B,/4 B,/4 | B,3/16 B,/16 B,3/16 G,/16 G,/2 | \
+G,3/16 G,/16 G,3/16 G,/16 G,/4 C/4 | C3/16 C/16 C3/16 C/16 C/2 | \
+C3/16 C/16 C3/16 C/16 C/4 C/4 | C3/16 G,/16 G,3/16 G,/16 G,/2 || \
+C/4 C3/16C/16 C/4 z/4 | C/4 C3/16C/16 C/4 z/4 | \
+D3/16D/16D3/16D/16D/8 z/8 z/4 | G,3/16G,/16A,3/16A,/16 G,/4 z/4 | \
+C3/16C/16C3/16C/16C3/16 C/16 z/4 | C3/16C/16C3/16C/16 G,/4 G,/4 | \
+A,3/16A,/16A,3/16A,/16 A,/4 z/4 | B,3/16B,/16C3/16C/16 D/4 z/4 | \
+C3/16C/16C3/16C/16 C/4 C/4 | G,3/16G,/16G,3/16G,/16 C/4 C/4 | \
+C3/16C/16C3/16C/16 C/4 z/4 | C3/16C/16C3/16C/16 C/4 z/4 | \
+C/4 C/4 C/4 z/4 | C3/16C/16C3/16C/16 C/4 C/4 | \
+C/4 C/4 C/4 z/4 | G,3/16G,/16A,3/16A,/16 G,/4 z/4 |]
+V:4 clef=bass stem=down
+C,3/16 C,/16 C,3/16 C,/16 C,/4 C,/4 | C,3/16 C,/16 C,3/16 C,/16 C,/2 | \
+G,3/16 G,/16 G,3/16 G,/16 G,/4 G,/4 | G,,3/16 G,,/16 A,,3/16 B,,/16 C,/2 | \
+C,3/16 C,/16 C,3/16 C,/16 C,/4 C,/4 | F,3/16 F,/16 F,3/16 F,/16 C,/2 | \
+C,3/16 C,/16 C,3/16 E,/16 F,/4 F,/4 | G,3/16 x/16G,,3/16 G,,/16 C,/2 || \
+C,/4 C,3/16C,/16 C,/4 x/4| C,/4 C,3/16C,/16 C,/4 x/4 | \
+G,3/16G,/16G,3/16G,/16G,/8 x/8 x/4| C,3/16C,/16C,3/16C,/16 C,/4 x/4 | \
+F,3/16F,/16F,3/16F,/16F,3/16 F,/16 x/4| C,3/16C,/16C,3/16C,/16 C,/4 C,/4 | \
+D,3/16D,/16D,3/16D,/16 D,/4 x/4| G,3/16G,/16G,3/16G,/16 G,/4 x/4 | \
+C,3/16C,/16C,3/16C,/16 C,/4 C,/4 | C,3/16C,/16C,3/16C,/16 C,/4 C,/4 | \
+F,3/16F,/16F,3/16F,/16 F,/4 x/4| C,3/16C,/16C,3/16C,/16 C,/4 x/4 | \
+C,/4 C,/4 C,/4 x/4| F,3/16F,/16F,3/16F,/16 F,/4 F,/4 | \
+G,/4 G,/4 G,/4 x/4| C,3/16C,/16C,3/16C,/16 C,/4 x/4 |]
+

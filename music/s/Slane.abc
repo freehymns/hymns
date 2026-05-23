@@ -1,0 +1,39 @@
+X:1
+T:SLANE
+C:Unknown
+Z:Description:Traditional ancient Irish melody
+Z:Harmony: David Evans, 1927
+Z:Source:https://hymnary.org/hymn/CWP1939/386
+I:score (1 2 3) (4 5)
+L:1/4
+M:3/4
+K:Eb
+V:1
+E E F/E/ | C B, C | E E- [I:pos stem down]E[I:pos stem up] | [GE]3 | \
+w:A1 A2 A3_ A4 A5 A6 A7 A8 A9 A10
+[FB,] [FE=A,] [FDB,] | [FC] [GD] B | [Gc] [FB] [GE] | E D E | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10__
+[Ec] c/d/ e/d/ | (c B) [GD] | [FB] E D | (C2 B,) | \
+w:C1 C2_ C3_ C4_ C5 C6 C7 C8 C9_
+E [GE] [DB] | c/B/ G E/G/ | F E E | [EB,]3 |]
+w:D1 D2 D3 D4_ D5 D6_ D7 D8 D9 D10
+V:2
+x3 | x3 | C2 [I:pos stem up]F[I:pos stem down] | x3 | \
+x3 | x2 G/F/ | x3 | F2 x | \
+x A G | G2 x | x3 | x3 | \
+C2 x | E3 | C3 | x3 |]
+V:3 trebel stem=up
+x3 | x3 | x3 | x3 | \
+x3 | x3 | x3 | B3 | \
+x3 | x3 | x3 | x3 | \
+x3 | x3 | x3 | x3 |]
+V:4 bass
+[G,B,] [CA,] [G,B,] | [F,A,]/[G,E,]/ [F,D,] [G,E,] | G,2 [CA,,] | E,, B,, E, | \
+F,3-  | F, B, B, | [EC,] [D,B,] [E,B,] | B,3 | \
+A, C- C/F/ | (E D) x | B,2 [F,_A,] | [G,E,] [F,A,]/[G,E,]/ [F,D,] | \
+[E,C,]2 F, | [G,G,,] B,2 | A, [G,C,] [F,A,,] | [G,E,,]3 |]
+V:5 bass stem=down
+x3 | x3 | C, B,, x | [I:pos stem up]B,3\
+[I:pos stem down] | D, C, B,, | B,,/=A,,/G,,/ F,/E,/D,/ | x3 | B,, B, G, | \
+x F, C,/D,/ | E,/F,/ G,/=A,/ B,/G,/ | D, G, x | x3 | \
+x2 B,,/A,,/ | x E,, G,, | A,,/B,,/ x2 | x3 |]

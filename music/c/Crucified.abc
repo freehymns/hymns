@@ -1,0 +1,66 @@
+X:1
+T:Crucified!
+C:Charles Austin Miles, 1903
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-23 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Songs of Christian Service, edited by William J. Kirkpatrick & Henry L. Gilmour (Philadelphia, Pennsylvania: Hall-Mack, 1903), # 6.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=100
+K:Ab
+V:1 clef=treble stem=up
+[M:6/8] E/8 | c/4 c/8 (A/8B/8) c/8 | B/4 A/8 (F/8G/8) \
+w:A1 A2 A3 A4_ A5 A6 A7 A8_
+A/8 | G/4 G/8 G/4 F/8 | E3/8- E/4 \
+w:B1 B2 B3 B4 B5 B6_
+E/8 | c/4 c/8 (A/8B/8) c/8 | d/4 d/8 (F/8A/8) \
+w:C1 C2 C3 C4_ C5 C6 C7 C8_
+B/8 | c/4 c/8 c/4 B/8 | A3/4 || \
+w:D1 D2 D3 D4 D5 D6
+c/4 c/8 B3/8 | A/4 A/8 G/4 G/8 | \
+w:E1 E2 E3 E4 E5 E6_
+F/4 A/8 G/4 F/8 | E3/8- E/4 \
+w:F1 F2 F3 F4 F5 F6
+E/8 | A/4 A/8 B/4 B/8 | c/4 c/8 d/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+F/8 | E3/8- E/4 B/8 | A3/8- A/4 |]
+w:H1 H2_ H3 H4_
+V:2 clef=treble stem=down
+C/8 | E/4 E/8 (C/8D/8) E/8 | F/4 F/8 D/4 \
+D/8 | D/4 D/8 (D/8E/8) D/8 | C3/8- C/4 \
+C/8 | E/4 E/8 (C/8D/8) (E/16_G/16) | F/4 F/8 (D/8F/8) \
+_F/8 | E/4 E/8 E/4 D/8 | C3/4 || \
+E/4 E/8 =E3/8 | F/4 F/8 =E/4 E/8 | \
+D/4 F/8 E/4 D/8 | C3/8- C/4 \
+C/8 | E/4 E/8 =E/4 E/8 | F/4 _G/8 F/4 \
+=B,/8 | C/4 C/8 (B,/8C/8) D/8 | C/4 D/8 C/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] A,/8 | A,/4 A,/8 A,/4 A,/8 | A,/4 A,/8 (A,/8G,/8) \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9
+F,/8 | B,/4 B,/8 B,/4 G,/8 | A,3/8- A,/4 \
+w:b1 b2 b3 b4 b5 b6 b7
+A,/8 | A,/4 A,/8 A,/4 A,/8 | A,/4 A,/8 A,/4 \
+w:c1 c2 c3 c4 c5 c6 c7 c8
+A,/8 | A,/4 A,/8 G,/4 G,/8 | A,3/4 || \
+w:d1 d2 d3 d4 d5 d6
+A,/4 A,/8 C3/8 | C/4 C/8 C/4 B,/8 | \
+w:e1 e2 e3 e4 e5 e6 e7
+A,/4 D/8 D/4 A,/8 | A,3/8- A,/4 \
+w:f1 f2 f3 f4 f5 f6
+A,/8 | C/4 C/8 C/4 C/8 | A,/4 A,/8 A,/4 \
+w:g1 g2 g3 g4 g5 g6 g7 g8
+A,/8 | A,/4 A,/8 G,/4 G,/8 | A,/4 F,/8 E,/4 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8
+V:4 clef=bass stem=down
+A,,/8 | A,,/4 A,,/8 A,,/4 A,,/8 | D,/4 D,/8 D,/4 \
+D,/8 | E,/4 E,/8 E,/4 E,/8 | A,,3/8- A,,/4 \
+A,,/8 | A,,/4 A,,/8 A,,/4 A,,/8 | D,/4 D,/8 D,/4 \
+D,/8 | E,/4 E,/8 E,/4 E,/8 | A,,3/4 || \
+A,/4 A,/8 G,3/8 | F,/4 F,/8 C,/4 C,/8 | \
+D,/4 D,/8 D,/4 D,/8 | A,,3/8- A,,/4 \
+A,,/8 | A,/4 A,/8 G,/4 G,/8 | F,/4 E,/8 D,/4 \
+=D,/8 | E,/4 E,/8 E,/4 E,/8 | A,,3/8- A,,/4 |]
+

@@ -1,0 +1,44 @@
+X:1
+T:I Surrender All
+C:Winfield S. Weeden, 1896
+I:score (1) (2 3)
+L:1/4
+M:4/4
+K:Db
+V:1
+[FD]3/2 [FD]/ [GD] [FD] | [EC]3/2 [EC]/ [FC] [EC] | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+D3/2 D/ [GD] [FD] | [EC] [FC] D2 | \
+w:B1 B2 B3 B4 B5 B6 B7
+[FD]3/2 [FD]/ [GD] [FD] | [EC]3/2 [EC]/ [FC] [EC] | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+D3/2 D/ [GD] [FD] | [EC] [FC] D2 || \
+w:D1 D2 D3 D4 D5 D6 D7
+[Fd]3/2 [cA]/ [GB] [FA] | [GE]4 | \
+w:E1 E2 E3 E4 E5
+[cA]3/2 [GB]/ [FA] [GE] | [FD]4 | \
+w:F1 F2 F3 F4 F5
+[FD]3/2 [GE]/ [GB] [FA] | [Fd]3/2 [cA]/ [cA] [GB] | \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+[FA]3/2 [GE]/ [FD] [EC] | [D4A,4] |]
+w:H1 H2 H3 H4 H5
+V:2
+I:pos vocal above
+[D,A,]3/2 [D,A,]/ [D,B,] [D,A,] | [G,A,,]3/2 [G,A,,]/ [A,A,,] [G,A,,] | \
+w:a1 a2 a3 a4 a5 a6 a7 a8
+[F,D,]3/2 [F,D,]/ [D,B,] [D,A,] | [G,A,,] [A,A,,] [F,D,]2 | \
+w:b1 b2 b3 b4 b5 b6 b7
+[D,A,]3/2 [D,A,]/ [D,B,] [D,A,] | [G,A,,]3/2 [G,A,,]/ [A,A,,] [G,A,,] | \
+w:c1 c2 c3 c4 c5 c6 c7 c8
+[F,D,]3/2 [F,D,]/ [D,B,] [D,A,] | [G,A,,] [A,A,,] [F,D,]2 || \
+w:d1 d2 d3 d4 d5 d6 d7
+[D,A,]3/2 [D,A,]/ [DD,] [DD,] | [CA,,]/[CA,,]/[CC,]/[E,C]/[CA,,]2 | \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9
+[A,A,,]3/2 [A,A,,]/ [A,A,,] [A,A,,] | [D,A,]/[D,A,]/[F,A,]/A,/ [D,A,]2 | \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9
+[D,A,]3/2 [D,A,]/ [DD,] [DD,] | [D,A,]3/2 [F,D]/ [G,D] [G,D] | \
+w:g1 g2 g3 g4 g5 g6 g7 g8
+[DA,]3/2 A,/ [A,A,,] [G,A,,] | [F,D,]4 |]
+w:h1 h2 h3 h4 h5
+V:3
+x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x x/ A,/ x2 | x4 |] 

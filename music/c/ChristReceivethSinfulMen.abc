@@ -1,0 +1,67 @@
+X:1
+T:Christ Receiveth Sinful Men
+C:James McGranahan, 1883
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-22 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 113. Also in Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing, 1950), # 39.
+Z:Corrections:F7 (4th note)
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=97
+K:D
+V:1 clef=treble stem=up
+[M:3/4] F3/16 G/16 | A3/8 B/8 F3/16 B/16 | A/2 \
+w:A1 A2 A3 A4 A5 A6 A7
+A3/16 d/16 | c3/8 B/8 A3/16 G/16 | F/2 \
+w:B1 B2 B3 B4 B5 B6 B7
+F3/16 G/16 | A3/8 B/8 F3/16 B/16 | A/2 \
+w:C1 C2 C3 C4 C5 C6 C7
+A3/16 d/16 | c3/8 A/8 B3/16 c/16 | d/2 || \
+w:D1 D2 D3 D4 D5 D6 D7
+[Q:1/4=120] [M:12/8] (F/8G/8) A/8 | B3/4- B/4 d/8 (d/8c/8) B/8 | A3/4- A3/8 \
+w:E1_ E2 E3_ E4 E5_ E6 E7_
+(A/8B/8) F/8 | A3/4- A/4 A/8 (A/8B/8) F/8 | A3/4- A3/8 \
+w:F1_ F2 F3_ F4 F5_ F6 F7_
+(F/8G/8) A/8 | B3/4- (B/8d/8) d/8 | (d/8c/8) B/8 | A3/4- A3/8 \
+w:G1_ G2 G3__ G4 G5_ G6 G7_
+d/4 d/8 | e3/8- e/4 e/8 d3/8 c3/8 | d/2- d3/8 |]
+w:H1 H2 H3_ H4 H5 H6 H7_
+V:2 clef=treble stem=down
+D3/16 E/16 | F3/8 G/8 D3/16 G/16 | F/2 \
+F3/16 F/16 | E3/8 G/8 F3/16 E/16 | D/2 \
+D3/16 E/16 | F3/8 G/8 D3/16 G/16 | F/2 \
+F3/16 F/16 | E3/8 F/8 G3/16 G/16 | F/2 || \
+(D/8E/8) F/8 | G3/4- G/4 B/8 (B/8A/8) G/8 | F3/4- F3/8 \
+F/4 F/8 | G/4 G/8 G/4 G/8 F3/8 F/4 F/8| E/4 F/8 G/4 G/8 F3/8 \
+(D/8E/8) F/8 | G3/4- (G/8B/8) B/8 | (B/8A/8) G/8 | F3/4- F3/8 \
+A/4 A/8 | G3/8- G/4 G/8 F3/8 (E/4 G/8) | F/2- F3/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] A,3/16 A,/16 | D3/8 D/8 D3/16 D/16 | D/2 \
+w:a1 a2 a3 a4 a5 a6 a7
+D3/16 A,/16 | A,3/8 A,/8 A,3/16 A,/16 | A,/2 \
+w:b1 b2 b3 b4 b5 b6 b7
+A,3/16 A,/16 | D3/8 D/8 D3/16 D/16 | D/2 \
+w:c1 c2 c3 c4 c5 c6 c7
+D3/16 A,/16 | A,3/8 A,/8 A,3/16 A,/16 | A,/2 || \
+w:d1 d2 d3 d4 d5 d6 d7
+[M:12/8] z3/8 | D/4 D/8 D/4 D/8 D/4 z/8 z3/8 | D/4 D/8 D/4 D/8 D3/8 \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10
+D/4 D/8 | C/4 C/8 C/4 C/8 D3/8 D/4 D/8 | C/4 D/8 E/4 E/8 D3/8 \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 f13 f14
+z3/8 | D/4 D/8 D/4 D/8 D3/8 | z3/8 | D/4 D/8 D/4 D/8 D3/8 \
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10
+=C/4 C/8 | B,3/8 B,3/8 A,3/8 A,3/8 | A,/2- A,3/8 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8
+V:4 clef=bass stem=down
+D,3/16 D,/16 | D,3/8 D,/8 D,3/16 D,/16 | D,/2 \
+D,3/16 D,/16 | A,,3/8 A,,/8 A,,3/16 A,,/16 | D,/2 \
+D,3/16 D,/16 | D,3/8 D,/8 D,3/16 D,/16 | D,/2 \
+D,3/16 D,/16 | A,,3/8 A,,/8 A,,3/16 A,,/16 | D,/2 || \
+x3/8| G,/4 G,/8 G,/4 G,/8 G,/4 x/8 x3/8| D,/4 D,/8 D,/4 D,/8 D,3/8 \
+D,/4 D,/8 | E,/4 E,/8 A,,/4 A,,/8 D,3/8 D,/4 D,/8 | A,,/4 A,,/8 A,,/4 A,,/8 D,3/8 \
+x3/8| G,/4 G,/8 G,/4 G,/8 G,3/8 | x3/8| D,/4 D,/8 D,/4 D,/8 D,3/8 \
+F,/4 F,/8 | G,3/8 E,3/8 x3/8A,,3/8 | D,/2- D,3/8 |]
+
