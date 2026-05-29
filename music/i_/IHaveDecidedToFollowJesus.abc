@@ -1,0 +1,39 @@
+X:1
+T:I Have Decided to Follow Jesus
+Z:Description:Indian Folk Tune
+C:Unknown
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-26 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing Company, 1975), # 451.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=95
+K:C
+V:1 clef=treble stem=up
+[M:4/4] C/8 C/8 E/8 | G/4 G3/8 G/8 A/8 G/8 | E/4 C/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
+z/8 c/8 c/8 c/8 | c/4 c3/8 c/8 d/8 c/8 | A/4 G/4 \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
+z/8 C/8 C/8 E/8 | G/4 G3/8 G/8 A/8 G/8 | E/4 C/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+z/8 G/8 A/8 G/8 | E/2- E/8 C/8 D/8 D/8 | C/2- C/8 |]
+w:D1 D2 D3 D4_ D5 D6 D7 D8_
+V:2 clef=treble stem=down
+x/8 x/8 x/8| C | C/2 \
+x/8 x/8E/4 | F | F/4 E/4 \
+x/8 x/8 x/8 x/8| C/4 C3/4 | C/2 \
+x/8 x/8 x/8 x/8| C3/4 G,/4 | C/2- C/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] z/8 E,/8 G,/8 | E,3/4 F,/8 E,/8 | G,/4 E,/4 \
+z/4 _B,/4 | A,3/4 ^G,/8 A,/8 | C/4 C/4 \
+z/4 E,/8 G,/8 | E,/4 E,/2 ^D,/8 E,/8 | G,/4 E,/4 \
+z/8 E,/8 F,/8 E,/8 | (G,/2 ^F,/4) =F,/4 | E,/2- E,/8 |]
+V:4 clef=bass stem=down
+x/8C,/4 | C, | C,/2 \
+x/4C,/4 | F, | F,/4 C,/4 \
+x/4C,/4 | C,/4 C,3/4 | C,/2 \
+x/8 x/8 x/8 x/8| (G,,/2 A,,/4) B,,/4 | C,/2- C,/8 |]
+

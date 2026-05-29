@@ -1,0 +1,57 @@
+X:1
+T:I'll Be a Sunbeam
+C:Edwin Othello Excell, 1900
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-28 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Make His Praise Glorious, edited by Edwin O. Excell (Chicago, Illinois: E. O. Excell, 1900), # 157.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=100
+K:G
+V:1 clef=treble stem=up
+[M:6/8] D/8 E/8 F/8 G/8 E/8 G/8 | F3/8 d/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+E/8 | D/4 c/8 B/4 A/8 | B3/8- B3/8 | \
+w:B1 B2 B3 B4 B5 B6_
+D/8 E/8 F/8 G/8 E/8 G/8 | F3/8 d/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+E/8 | D/4 c/8 B/4 A/8 | G3/8- G/4 || \
+w:D1 D2 D3 D4 D5 D6_
+D/8 | G3/8 B/4 d/8 | d3/8 F3/8 | \
+w:E1 E2 E3 E4 E5 E6
+d/8 c/8 A/8 F/8 A/8 c/8 | e3/8 d/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+D/8 | G3/8 B/4 d/8 | d3/8 F3/8 | \
+w:G1 G2 G3 G4 G5 G6
+d/8 F/8 A/8 c/8 B/8 A/8 | G3/4 |]
+w:H1 H2 H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+B,/8 B,/8 B,/8 B,/8 B,/8 B,/8 | C3/8 F/4 \
+C/8 | C/4 E/8 D/4 C/8 | D3/8- D3/8 | \
+B,/8 B,/8 B,/8 B,/8 B,/8 B,/8 | C3/8 F/4 \
+C/8 | C/4 E/8 D/4 C/8 | B,3/8- B,/4 || \
+B,/8 | B,3/8 D/4 G/8 | F3/8 D3/8 | \
+F/8 E/8 C/8 D/8 F/8 F/8 | c3/8 B/4 \
+B,/8 | B,3/8 D/4 G/8 | F3/8 D3/8 | \
+F/8 D/8 F/8 E/8 D/8 C/8 | B,3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] G,,3/8 G,,3/8 | A,,3/8 D,3/8 | \
+D,3/8 D,3/8 | G,,3/8 x/8 x/8 x/8| \
+G,,3/8 G,,3/8 | A,,3/8 D,3/8 | \
+D,3/8 D,3/8 | (G,,3/8 G,/4) || \
+x/8| G,,3/8 G,,3/8 | A,,3/8 D,3/8 | \
+D,3/8 D,3/8 | G,,3/8 G,,/4 \
+x/8| G,,3/8 G,,3/8 | A,,3/8 D,3/8 | \
+D,3/8 D,3/8 | G,3/8- G,3/8 |]
+V:4 clef=bass stem=down
+G,,/8 [D,G,]/8 [D,G,]/8 G,,/8 [D,G,]/8 [D,G,]/8 | (A,,/8[D,A,]/8[D,A,]/8) (D,/8[F,A,]/8) \
+[F,A,]/8 | (D,/8[F,A,]/8) [F,A,]/8 (D,/8[F,A,]/8) [F,A,]/8 | (G,,/8D,/8G,/8B,/8G,/8D,/8) | \
+G,,/8 [D,G,]/8 [D,G,]/8 G,,/8 [D,G,]/8 [D,G,]/8 | (A,,/8[D,A,]/8[D,A,]/8) (D,/8[F,A,]/8) \
+[F,A,]/8 | (D,/8[F,A,]/8) [F,A,]/8 (D,/8[F,A,]/8) [F,A,]/8 | (G,,/8B,,/8D,/8 G,,/4) || \
+z/8 | (G,,/8[D,G,]/8[D,G,]/8) (G,,/8[D,G,B,]/8) [D,G,B,]/8 | (A,,/8[F,CD]/8[F,CD]/8) (D,/8[F,A,]/8[F,A,]/8) | \
+D,/8 [F,A,]/8 [F,A,]/8 D,/8 [F,A,]/8 [F,A,]/8 | (G,,/8[G,B,D]/8[G,B,D]/8) (G,,/8[G,B,D]/8) \
+z/8 | (G,,/8[D,G,]/8[D,G,]/8) (G,,/8[D,G,B,]/8) [D,G,B,]/8 | (A,,/8[D,CD]/8[D,CD]/8) (D,/8[F,A,C]/8[F,A,C]/8) | \
+D,/8 [F,A,C]/8 [F,A,C]/8 D,/8 F,/8 F,/8 | (G,,/8D,/8B,,/8 G,,3/8) |]

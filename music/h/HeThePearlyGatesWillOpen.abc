@@ -1,0 +1,59 @@
+X:1
+T:He the Pearly Gates Will Open
+C:Alfred O. Duhlin
+Z:Arrangement: Elsie Ahlwen, 1930
+Z:Terms:Courtesy of the Cyber Hymnal
+Z:Transcription:Converted on 2026-05-25 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Sing to the Lord (Kansas City, Missouri: Lillenas Publishing  ,1993), # 665.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=100
+K:G
+V:1 clef=treble stem=up
+[M:4/4] B3/8 B/8 A3/16 G/16 B3/16 A/16 | G/2 G/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+c3/8 c/8 B3/16 A/16 G3/16 B/16 | A | \
+w:B1 B2 B3 B4 B5 B6 B7
+B3/8 A/8 G3/16 G/16 D3/16 ^D/16 | E/2 G/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+F3/16 E/16 | D/4 B/4 B/4 A/4 | G || \
+w:D1 D2 D3 D4 D5 D6 D7
+A3/8 A/8 B3/16 A/16 G3/16 A/16 | B/2 G/2 | \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+c3/8 c/8 B3/16 A/16 G3/16 B/16 | A | \
+w:F1 F2 F3 F4 F5 F6 F7
+B3/8 A/8 G3/16 G/16 D3/16 ^D/16 | E/2 G/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+F/8 E/8 | D/4 B/4 c/4 F/4 | G |]
+w:H1 H2 H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+D3/8 D/8 D3/16 D/16 D3/16 C/16 | B,/2 B,/2 | \
+E3/8 E/8 D3/16 C/16 B,3/16 D/16 | D | \
+D3/8 C/8 B,3/16 B,/16 B,3/16 B,/16 | C/2 E/4 \
+C3/16 C/16 | B,/4 D/4 D/4 C/4 | B, || \
+C3/8 C/8 D3/16 C/16 C3/16 C/16 | D/2 D/2 | \
+E3/8 E/8 D3/16 D/16 D3/16 D/16 | C | \
+D3/8 C/8 B,3/16 B,/16 B,3/16 B,/16 | C/2 E/4 \
+C/8 ^A,/8 | B,/4 D/4 D/4 C/4 | B, |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] G,3/8 G,/8 F,3/16 G,/16 G,3/16 F,/16 | G,/2 G,/2 | \
+G,3/8 G,/8 G,3/16 G,/16 G,3/16 G,/16 | F, | \
+G,3/8 G,/8 G,3/16 G,/16 G,3/16 G,/16 | G,/2 C/4 \
+A,3/16 G,/16 | G,/4 G,/4 F,/4 F,/4 | G, || \
+F,3/8 F,/8 G,3/16 F,/16 E,3/16 F,/16 | G,/2 G,/2 | \
+G,3/8 G,/8 G,3/16 F,/16 G,3/16 G,/16 | F, | \
+G,3/8 G,/8 G,3/16 G,/16 G,3/16 G,/16 | G,/2 C/4 \
+A,/8 G,/8 | G,/4 G,/4 F,/4 A,/4 | G, |]
+V:4 clef=bass stem=down
+G,,3/8 G,,/8 A,,3/16 B,,/16 D,3/16 D,/16 | G,,/2 G,,/2 | \
+C,3/8 C,/8 G,,3/16 G,,/16 G,,3/16 G,,/16 | D, | \
+G,,3/8 G,,/8 G,,3/16 G,,/16 G,,3/16 G,,/16 | C,/2 C,/4 \
+C,3/16 C,/16 | G,,/4 G,,/4 D,/4 D,/4 | [G,,D,] || \
+D,3/8 D,/8 D,3/16 D,/16 D,3/16 D,/16 | G,,/2 B,,/2 | \
+C,3/8 C,/8 G,,3/16 A,,/16 B,,3/16 D,/16 | D, | \
+G,,3/8 G,,/8 G,,3/16 G,,/16 G,,3/16 G,,/16 | C,/2 C,/4 \
+C,/8 ^C,/8 | D,/4 G,,/4 D,/4 D,/4 | [G,,D,] |]
+

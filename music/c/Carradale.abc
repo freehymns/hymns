@@ -1,0 +1,39 @@
+X:1
+T:CARRADALE
+C:William James Kirkpatrick, 1885
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-26 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Joyful Songs for Use in Mission Services and Young People's Meetings (London: Holborn Publishing House, undated), # 93.
+Z:Corrections:d6
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=97
+K:E
+V:1 clef=treble stem=up
+[M:3/4] E/4 | G/8 G/8 G/4 B/4 | B/8 A/8 A/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+G/4 | F/8 F/8 F/4 c/4 | c/8 B/8 B/4 \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+A/4 | G/8 B/8 e/4 B/4 | d/8 c/8 c/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+(A/8F/8) | E/8 E/8 G/4 F/4 | F/4 E/4 |]
+w:D1_ D2 D3 D4 D5 D6 D7
+V:2 clef=treble stem=down
+E/4 | E/8 E/8 E/4 E/4 | D/8 D/8 D/4 \
+E/4 | D/8 D/8 D/4 D/4 | E/8 E/8 E/4 \
+E/4 | E/8 G/8 G/4 G/4 | B/8 A/8 A/4 \
+(F/8C/8) | B,/8 B,/8 E/4 D/4 | D/4 E/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] G,/4 | B,/8 B,/8 B,/4 B,/4 | B,/8 B,/8 B,/4 \
+B,/4 | B,/8 B,/8 B,/4 A,/4 | A,/8 G,/8 G,/4 \
+C/4 | B,/8 B,/8 B,/4 E/4 | E/8 E/8 E/4 \
+(C/8A,/8) | G,/8 G,/8 B,/4 A,/4 | A,/4 G,/4 |]
+V:4 clef=bass stem=down
+E,/4 | E,/8 E,/8 E,/4 G,/4 | F,/8 F,/8 F,/4 \
+E,/4 | B,,/8 B,,/8 B,,/4 B,,/4 | E,/8 E,/8 E,/4 \
+E,/4 | E,/8 E,/8 E,/4 E,/4 | A,/8 A,/8 A,/4 \
+A,,/4 | B,,/8 B,,/8 B,,/4 B,,/4 | B,,/4 E,/4 |]
+

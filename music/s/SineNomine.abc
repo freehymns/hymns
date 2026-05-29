@@ -1,0 +1,32 @@
+X:1
+T:SINE NOMINE
+C:R. Vaughn Villiams, 1906
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble stem=up
+z [GdDB] [GEB] [FCA] | [GEB,]3 [G,D] | [G,E] [GD] [ECA] D | [GDB]3 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
+[GDB] | [DA]3 [G^CA,] | [FDA,]2 [FDA,]2 |$ [GG,D] [DAA,] [FDB,] [G,E^C] | [F,DA,]3 \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
+[F,DA,] | [GG,]2 [GG,]2  | [GdDB]3 [GdB] | [GcC] [dA] c/B/ A/G/ | [FDA]2 ||\
+w:C1 C2 C3 C4 C5 C6 C7 C8_ C9_ C10
+$ [GD] [=FB] | (e d/c/) D E/F/ | G3 (A/B/ | [GEc]) [GDB] A2 | [GDB,]4 |]
+w:D1_ D2__ D3__ D4 D5__ D6 D7 D8
+V:2 treble stem=down
+x4 | x2 C x | x4 | x4 | \
+x4 | x4 |$ x4 | x4 | \
+D E D C | x4 | x2 [GD] D | x2 ||\
+$ d2 | [GE]2 [Gd]2 | G B, E [GD]  | x2 [GD] [FC] | x4 |]
+V:3 bass stem=down
+G,, B,, C, D, | E, D, C, B,, | C, B,, A,, [F,D,] | G, B, A, \
+G, | F, G, F, E, | D, E, D, ^C, |$ B,, F,, G,, A,, | (D, E, D,) \
+=C, | B,, C, B,, A,, | G,, A,, G,, F,, | E,, F,, G,, B,, | (D, C,) ||\
+$ B,, G,, | C, A,, B,, C,/ D,/ | E, D, C, B,, | A,, B,,/ C,/ D, D,, | G,,4 |]
+V:4 bass stem=up
+x4 | x4 | G,3 x | x4 | \
+x4 | x4 |$ x4 | x4 | !grace!\
+G,2 !grace!G,2 | !grace![DB,G,]3 !grace![G,DB,] | !grace![CG,] !grace![DA,] !grace![DG,] !grace![DG,] | A,2 ||\
+$ G,2 | G,2 G,2 | G,2 G,2 | x4 | x4 |]

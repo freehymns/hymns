@@ -1,0 +1,73 @@
+X:1
+T:Is Your All on the Altar?
+C:Elisha Albright Hoffman, 1905
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-28 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 525.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=120
+K:F
+V:1 clef=treble stem=up
+[M:3/4] F/8 G/8 | A3/8 A/8 A/4 | F/2 \
+w:A1 A2 A3 A4 A5 A6
+A/8 B/8 | c3/8 c/8 c/4 | A/2 \
+w:B1 B2 B3 B4 B5 B6
+F/8 F/8 | A3/8 G/8 C/4 | A3/8 G/8 C/4 | F3/4- | F/2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9_
+F/8 G/8 | A3/8 A/8 A/4 | F/2 \
+w:D1 D2 D3 D4 D5 D6
+A/8 B/8 | c3/8 c/8 c/4 | A/2 \
+w:E1 E2 E3 E4 E5 E6
+F/8 F/8 | A3/8 G/8 C/4 | A3/8 G/8 C/4 | F3/4- | F/2 || \
+w:F1 F2 F3 F4 F5 F6 F7 F8 F9_
+c/8 c/8 | d3/8 d/8 d/4 | d/4 e/4 d/4 | d/4 c/4 A/4 | c/2 \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11 G12
+c/4 | d3/8 d/8 d/4 | d/4 e/4 f/4 | e/2 (d/4 | c/2) \
+w:H1 H2 H3 H4 H5 H6 H7 H8__
+F/8 G/8 A3/8 A/8 A/4 | F/2 \
+w:I1 I2 I3 I4 I5 I6
+A/8 B/8 | c3/8 c/8 c/4 | A/2 \
+w:J1 J2 J3 J4 J5 J6
+F/8 F/8 | A3/8 G/8 C/4 | A3/8 G/8 C/4 | F3/4- | F/2 |]
+w:K1 K2 K3 K4 K5 K6 K7 K8 K9_
+V:2 clef=treble stem=down
+F/8 F/8 | F3/8 F/8 F/4 | F/2 \
+F/8 G/8 | A3/8 A/8 A/4 | F/2 \
+F/8 F/8 | E3/8 E/8 C/4 | E3/8 E/8 C/4 | C3/4- | C/2 \
+F/8 F/8 | F3/8 F/8 F/4 | F/2 \
+F/8 G/8 | A3/8 A/8 A/4 | F/2 \
+F/8 F/8 | E3/8 E/8 C/4 | E3/8 E/8 C/4 | C3/4- | C/2 || \
+F/8 F/8 | F3/8 F/8 F/4 | F/4 F/4 F/4 | F/4 F/4 F/4 | F/2 \
+F/4 | F3/8 F/8 F/4 | G/4 G/4 G/4 | (G/4 B/2 | B/2) \
+F/8 F/8 F3/8 F/8 F/4 | F/2 \
+F/8 G/8 | A3/8 A/8 A/4 | F/2 \
+F/8 F/8 | E3/8 E/8 C/4 | E3/8 E/8 C/4 | C3/4- | C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] A,/8 B,/8 | C3/8 C/8 C/4 | A,/2 \
+C/8 C/8 | F3/8 F/8 F/4 | C/2 \
+A,/8 A,/8 | C3/8 B,/8 C,/4 | C3/8 B,/8 B,/4 | A,3/4- | A,/2 \
+A,/8 B,/8 | C3/8 C/8 C/4 | A,/2 \
+C/8 C/8 | F3/8 F/8 F/4 | C/2 \
+A,/8 A,/8 | C3/8 B,/8 C,/4 | C3/8 B,/8 B,/4 | A,3/4- | A,/2 || \
+A,/8 A,/8 | B,3/8 B,/8 B,/4 | B,/4 C/4 B,/4 | B,/4 A,/4 C/4 | A,/2 \
+A,/4 | B,3/8 B,/8 B,/4 | =B,/4 B,/4 B,/4 | (C/2 D/4 | E/2) \
+A,/8 B,/8 C3/8 C/8 C/4 | A,/2 \
+C/8 C/8 | F3/8 F/8 F/4 | C/2 \
+A,/8 A,/8 | C3/8 B,/8 C,/4 | C3/8 B,/8 B,/4 | A,3/4- | A,/2 |]
+V:4 clef=bass stem=down
+F,/8 F,/8 | F,3/8 F,/8 F,/4 | F,/2 \
+F,/8 F,/8 | F,3/8 F,/8 F,/4 | F,/2 \
+F,/8 F,/8 | C,3/8 C,/8 C,/4 | C,3/8 C,/8 C,/4 | F,3/4- | F,/2 \
+F,/8 F,/8 | F,3/8 F,/8 F,/4 | F,/2 \
+F,/8 F,/8 | F,3/8 F,/8 F,/4 | F,/2 \
+F,/8 F,/8 | C,3/8 C,/8 C,/4 | C,3/8 C,/8 C,/4 | F,3/4- | F,/2 || \
+F,/8 F,/8 | B,,3/8 B,,/8 B,,/4 | B,,/4 B,,/4 B,,/4 | F,/4 F,/4 F,/4 | F,/2 \
+F,/4 | B,,3/8 B,,/8 B,,/4 | G,,/4 G,,/4 G,,/4 | C,3/4- | C,/2 \
+F,/8 F,/8 F,3/8 F,/8 F,/4 | F,/2 \
+F,/8 F,/8 | F,3/8 F,/8 F,/4 | F,/2 \
+F,/8 F,/8 | C,3/8 C,/8 C,/4 | C,3/8 C,/8 C,/4 | F,3/4- | F,/2 |]
+

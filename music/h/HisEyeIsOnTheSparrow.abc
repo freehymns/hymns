@@ -1,0 +1,102 @@
+X:1
+T:His Eye Is on the Sparrow
+C:Charles Hutchinson Gabriel (1856–1932)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-26 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing, 1950), # 84.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=100
+K:D
+V:1 clef=treble stem=up
+[M:6/8] A/8 B/8 A/8 F/4 D/8 | E/8 F/4- F3/8 | \
+w:A1 A2 A3 A4 A5 A6 A7_
+G/8 A/8 B/8 d/4 d/8 | A3/8- A/4 \
+w:B1 B2 B3 B4 B5 B6_
+z/8 | A/8 G/8 A/8 B/4 F/8 | A/8 G/4- G3/8 | \
+w:C1 C2 C3 C4 C5 C6 C7_
+G/8 F/8 E/8 A/4 A/8 | F3/8- F/4 \
+w:D1 D2 D3 D4 D5 D6_
+A/8 | d/4 c/8 (e/8d/8) F/8 | A/8 A/4- A/4 \
+w:E1 E2 E3 E4_ E5 E6 E7_
+A/8 | d/4 c/8 (e/8d/8) A/8 | B3/8- B/4 \
+w:F1 F2 F3 F4_ F5 F6_
+B/8 | c/4 c/8 (c/8B/8) c/8 | d/8 (A/4 A/4) \
+w:G1 G2 G3 G4 G5 G6 G7 G8_
+F/16 F/16 | A/4 B/8 A/4 B/8 | A3/8- A/4 \
+w:H1 H2 H3 H4 H5 H6 H7_
+A/8 | d/4 d/8 d/4 d/8 | d/8 D/4- D/4 \
+w:I1 I2 I3 I4 I5 I6 I7_
+D/16 D/16 | A/4 F/8 F/8 E/4 | D3/8- D/4 || \
+w:J1 J2 J3 J4 J5 J6 J7_
+A/8 | A/4 c/8 e/4 A/8 | A/8 d/4- d/4 \
+w:K1 K2 K3 K4 K5 K6 K7_
+A/8 | A/4 c/8 e/4 A/8 | f3/8- f/4 \
+w:L1 L2 L3 L4 L5 L6_
+d/16 d/16 | d/4 d/8 d/4 d/8 | d/8 (D/4 D/4) \
+w:M1 M2 M3 M4 M5 M6 M7 M8_
+D/16 D/16 | A/4 F/8 F/8 E/4 | D3/4 |]
+w:N1 N2 N3 N4 N5 N6 N7
+V:2 clef=treble stem=down
+D3/8- D3/8 | C/8D/8D/8 D3/8 | \
+D3/8- D3/8 | D/4 E/8 F/4 \
+x/8| F/8E/8^D/8 F3/8 | F/8E/8E/8 E3/8 | \
+E3/8 C3/8 | D/4 D/8 D/4 \
+F/8 | F/4 E/8 G/8F/8D/8 | F/4 F/8 G/8G/8\
+G/8 | F/4 F/8 G/8F/8F/8 | ([DG]/4 [^DA]/8) [EG]3/8 | \
+E/4 x/8E/4 E/8 | D3/8 F/4 \
+D/8 | G3/8- G3/8 | A/8D/8E/8 F/4 \
+F/8 | F3/8- F3/8 | D3/8- D3/8- | \
+D3/8 C3/8 | D/4B,/8 A,/4 || \
+F/8 | G/4 G/8 G/4 G/8 | F/8 F/8 G/8 F/16 F3/16 \
+F/8 | G/4 G/8 G/4 x/8| A/4 A/8 A/4 \
+F/16 F/16 | F/4 F/8 F/4 F/8 | D/8 x/4 x/4 \
+x/16 x/16| D/4 D/8 C/8 C/4 | A,3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] F,/8G,/8F,/8 A,/4 F,/8 | G,/8A,/8A,/8 (A,/4 =C/8) | \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10
+B,/8A,/8G,/8 B,/4 G,/8 | F,/4 G,/8 A,/4 \
+w:b1 b2 b3 b4 b5 b6 b7 b8
+z/8 | B,3/8 B,3/8 | B,/4 B,/8 (B,/4 B,/8) | \
+w:c1 c2 c3 c4 c5 c6
+A,3/8 (E,/4 A,/8) | A,/4 A,/8 A,/4 \
+w:d1 d2 d3 d4 d5 d6
+D/8 | A,3/8- A,3/8 | A,/4 =C/8 ^C/8C/8\
+w:e1 e2 e3 e4 e5 e6 e7
+C/8 | A,3/8 A,3/8 | G,/4 F,/8 E,3/8 | \
+w:f1 f2 f3 f4 f5 f6
+A,3/8 A,3/8 | A,/4 D/8 =C3/8 | \
+w:g1 g2 g3 g4 g5
+C3/8 C3/8 | D/8F,/8G,/8 A,/4 \
+w:h1 h2 h3 h4 h5 h6
+D/8 | A,3/8- A,3/8 | G,3/8 G,3/8 | \
+w:i1 i2 i3 i4 i5
+F,/4 A,/8 A,/8 G,/4 | F,/4 G,/8 F,/4 || \
+w:j1 j2 j3 j4 j5 j6 j7
+D/8 | C/4 E/8 C/4 C/8 | D/8 A,/8 B,/8 A,/16 A,3/16 \
+w:k1 k2 k3 k4 k5 k6 k7 k8 k9 k10
+D/8 | C/4 E/8 C/4 C/8 | D/4 D/8 D/4 \
+w:l1 l2 l3 l4 l5 l6 l7 l8
+A,/16 A,/16 | A,/4 A,/8 A,/4 A,/8 | G,/8 G,/4 G,/4 \
+w:m1 m2 m3 m4 m5 m6 m7 m8 m9
+G,/16 G,/16 | F,/4 A,/8 A,/8 G,/4 | F,3/4 |]
+w:n1 n2 n3 n4 n5 n6 n7
+V:4 clef=bass stem=down
+D,3/8- D,3/8 | A,,/8D,/8D,/8 D,3/8 | \
+G,3/8 G,/4 B,,/8 | D,3/8- D,/4 \
+x/8| B,,3/8 ^D,3/8 | E,/4 E,/8 D,3/8 | \
+C,3/8 A,,3/8 | D,/4 D,/8 D,/4 \
+D,/8 | D,3/8- D,3/8 | D,/4 ^D,/8 E,/8E,/8\
+A,/8 | D,3/8 D,3/8 | x/4 x/8 x3/8| \
+A,,3/8 G,3/8 | F,3/8 ^D,3/8 | \
+E,3/8 A,,3/8 | D,3/8- D,/4 \
+D,/8 | =C,3/8- C,3/8 | B,,3/8 ^A,,3/8 | \
+A,,3/8- A,,3/8 | D,3/8- D,/4 || \
+D,/8 | A,/4 A,/8 A,/4 A,/8 | D,/8 D,/8 D,/8 D,/16 D,3/16 \
+D,/8 | E,/4 A,/8 A,,/4 A,/8 | D,/4 D,/8 D,/4 \
+D,/16 D,/16 | =C,/4 C,/8 C,/4 C,/8 | B,,/8 B,,/4 ^A,,/4 \
+A,,/16 A,,/16 | A,,/4 A,,/8 A,,/8 A,,/4 | D,3/4 |]
+

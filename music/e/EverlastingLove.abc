@@ -1,0 +1,61 @@
+X:1
+T:EVERLASTING LOVE
+C:James Mountain, 1876
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-26 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 409. Also in Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 605.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/2
+Q:1/4=160
+K:D
+V:1 clef=treble stem=up
+[M:3/2] D/4 E/4 | F3/4 F/4 G/4 G/4 | F \
+w:A1 A2 A3 A4 A5 A6 A7
+F/4 G/4 | A3/4 A/4 G/4 F/4 | E | \
+w:B1 B2 B3 B4 B5 B6 B7
+D/4 E/4 | F3/4 F/4 G/4 G/4 | F \
+w:C1 C2 C3 C4 C5 C6 C7
+A/4 A/4 | A3/4 ^G/4 F/4 G/4 | A \
+w:D1 D2 D3 D4 D5 D6 D7
+A/4 G/4 | F3/4 F/4 G/4 F/4 | B \
+w:E1 E2 E3 E4 E5 E6 E7
+B/4 B/4 | A3/4 A/4 G/4 F/4 | E |: \
+w:F1 F2 F3 F4 F5 F6 F7
+F/4 G/4 | A3/4 A/4 B/4 c/4 | d \
+w:G1 G2 G3 G4 G5 G6 G7
+c/4 B/4 | A3/4 A/4 G/4 E/4 | [1 F :| [2 D |]
+w:H1 H2 H3 H4 H5 H6 H7 H8
+V:2 clef=treble stem=down
+%%repbra 0
+D/4 D/4 | D3/4 D/4 D/4 D/4 | D \
+D/4 C/4 | D3/4 F/4 E/4 D/4 | C | \
+D/4 D/4 | D3/4 D/4 D/4 D/4 | D \
+E/4 E/4 | D3/4 D/4 D/4 D/4 | C \
+D/4 E/4 | D3/4 D/4 D/4 D/4 | D \
+C/4 C/4 | D3/4 F/4 E/4 D/4 | C |: \
+D/4 C/4 | D3/4 D/4 D/4 E/4 | D \
+D/4 D/4 | D3/4 ^D/4 E/4 C/4 | [1 D :| [2 D |]
+V:3 clef=bass stem=up
+%%repbra 0
+I:pos vocal above
+[M:3/2] F,/4 G,/4 | A,3/4 A,/4 B,/4 _B,/4 | A, \
+A,/4 A,/4 | A,3/4 A,/4 A,/4 A,/4 | A, | \
+F,/4 G,/4 | A,3/4 A,/4 B,/4 _B,/4 | A, \
+A,/4 A,/4 | A,3/4 B,/4 A,/4 B,/4 | A, \
+A,/4 A,/4 | A,3/4 A,/4 B,/4 A,/4 | G, \
+A,/4 A,/4 | A,3/4 A,/4 A,/4 A,/4 | A, |: \
+A,/4 A,/4 | A,3/4 D/4 B,/4 _B,/4 | A, \
+G,/4 G,/4 | A,3/4 B,/4 B,/4 A,/4 | [1 A, :| [2 F, |]
+V:4 clef=bass stem=down
+%%repbra 0
+D,/4 D,/4 | D,3/4 D,/4 D,/4 D,/4 | D, \
+D,/4 E,/4 | F,3/4 D,/4 C,/4 D,/4 | A,, | \
+D,/4 D,/4 | D,3/4 D,/4 D,/4 D,/4 | D, \
+C,/4 C,/4 | B,,3/4 B,,/4 E,/4 E,/4 | A,, \
+B,,/4 C,/4 | D,3/4 D,/4 D,/4 D,/4 | G, \
+G,/4 G,/4 | F,3/4 D,/4 C,/4 D,/4 | A,, |: \
+D,/4 E,/4 | F,3/4 F,/4 G,/4 G,/4 | F, \
+x/4 x/4| F,3/4 F,/4 E,/4 A,,/4 | [1 D, :| [2 D, |]
+

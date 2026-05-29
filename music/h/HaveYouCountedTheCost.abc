@@ -1,0 +1,91 @@
+X:1
+T:Have You Counted the Cost?
+C:Arthur J. Hodge, 1923
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-25 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Rodeheaver's Gospel Solos and Duets, compiled by Yumbert P. Rodeheaver (Chicago, Illinois: Rodeheaver Company, 1925), p. 126.
+I:score (1 2 3) (4 5)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=110
+K:G
+V:1 clef=treble stem=up
+[M:3/4] B/8 A/8 | B3/8 A/8 B/4 | G/2 A/8 B/8 | c/4 G/4 A/4 | B/2 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12
+B/8 c/8 | d3/8 d/8 d/4 | e/4 d/4 B/4 | (A3/4-  | A/2) \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9_
+B/8 c/8 | d3/8 ^c/8 d/4 | B/2 A/8 B/8 | c/4 G/4 A/4 | B/2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12
+D/8 D/8 | E/4 c/4 E/8 E/8 | D/4 B3/8 A/8 | G3/4- | G/2 || \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10_
+B/8 c/8 | d3/8 ^c/8 d/4 | B/2 \
+w:E1 E2 E3 E4 E5 E6
+A/8 B/8 | c/4 G/4 A/4 | B/2 \
+w:F1 F2 F3 F4 F5 F6
+B/8 c/8 | d3/8 d/8 d/4 | e/4 \
+w:G1 G2 G3 G4 G5 G6
+d/4 B/4 | A3/4-  | A/2 \
+w:H1 H2 H3_
+B/8 c/8 | d3/8 ^c/8 d/4 | B/2 \
+w:I1 I2 I3 I4 I5 I6
+A/8 B/8 | c/4 G/4 A/4 | B/2 \
+w:J1 J2 J3 J4 J5 J6
+D/8 D/8 | E/4 c/4 \
+w:K1 K2 K3 K4
+E/8 E/8 | D/4 B3/8 A/8 | G3/4- | G/2 |]
+w:L1 L2 L3 L4 L5 L6_
+V:2 clef=treble stem=down
+B,/8 C/8 | D3/8 C/8 D/4 | B,/2 C/8 D/8 | E/4 E/4 _E/4 | D/2 \
+G/8 A/8 | B3/8 B/8 B/4 | c/4 B/4 G/4 | F3/4-  | F/2 \
+G/8 A/8 | B3/8 ^A/8 B/4 | G/2 F/8 =F/8 | E/4 E/4 _E/4 | D/2 \
+B,/8 B,/8 | C/4 E/4 C/8 C/8 | B,/4 D3/8 C/8 | B,3/4- | B,/2 || \
+G/8 A/8 | B3/8 ^A/8 B/4 | G/2 \
+F/8 =F/8 | E/4 E/4 _E/4 | D/2 \
+G/8 A/8 | B3/8 B/8 B/4 | c/4 \
+B/4 G/4 | F3/4- | F/2 \
+G/8 A/8 | B3/8 ^A/8 B/4 | G/2 \
+F/8 =F/8 | E/4 E/4 _E/4 | D/2 \
+B,/8 B,/8 | C/4 E/4 \
+C/8 C/8 | B,/4 D3/8 C/8 | B,3/4- | B,/2 |]
+V:3 clef=treble
+x/4 | x3/4 | x3/4 | x3/4 | x3/4 | \
+x3/4 | x3/4 | x/2 !grace!c/8!grace!B/8 | !grace!A/4 x/2 | \
+x3/4 | x3/4 | x3/4 | x3/4| \
+x3/4 | x3/4 | x3/4 | x3/4 | \
+x3/4 | x3/4 | \
+x3/4 | x3/4 | \
+x3/4 | x3/4 | \
+x/2 !grace!c/8!grace!B/8 | !grace!A/4 x/2 | \
+x3/4 | x3/4 | \
+x3/4 | x3/4 | \
+x3/4 | \
+x3/4 | x3/4 | x/2 |]
+V:4 clef=bass stem=up
+I:pos vocal above
+[M:3/4] z/4 | G,/2 z/4 | G,/2 z/4 | C,/2 z/4 | G,/2 \
+z/4 | D/2 z/4 | D/2 D/4 | A,3/4- | A,/2 \
+z/4 | G,/2 z/4 | G,/2 z/4 | C,/2 z/4 | G,/2 \
+z/4 | C,/2 z/4 | D,/2 z/4 | G,3/4- | G,/2 || \
+z/4 | G,/2 z/4 | G,/2 \
+z/4 | C,/2 z/4 | G,/2 \
+z/4 | D/2 z/4 | D/2 \
+z/4 | A,3/4- | A,/2 \
+z/4 | G,/2 z/4 | G,/2 \
+z/4 | C,/2 z/4 | G,/2 \
+z/4 | C,/2 \
+z/4 | D,/2 z/4 | G,3/4- | G,/2 |]
+V:5 clef=bass stem=down
+x/4| G,,/2 x/4| G,,/2 x/4| C,,/2 x/4| G,,/2 \
+x/4| [G,B,]/2 x/4| [G,B,]/2 [G,B,]/4 | [D,-F,-]3/4 | [D,F,]/2 \
+x/4| G,,/2 x/4| G,,/2 x/4| C,,/2 x/4| G,,/2 \
+x/4| C,,/2 x/4| D,,/2 x/4| G,,3/4- | G,,/2 || \
+x/4| G,,/2 x/4| G,,/2 \
+x/4| C,,/2 x/4| G,,/2 \
+x/4| [G,B,]/2 x/4| [G,B,]/2 \
+x/4| [D,-F,-]3/4 | [D,F,]/2 \
+x/4| G,,/2 x/4| G,,/2 \
+x/4| C,,/2 x/4| G,,/2 \
+x/4| C,,/2 \
+x/4| D,,/2 x/4| G,,3/4- | G,,/2 |]
+

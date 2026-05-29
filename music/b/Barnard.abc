@@ -1,0 +1,30 @@
+X:1
+T:BARNARD
+C:Charlotte Alington Pye Barnard, 1864
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-24 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Sing to the Lord (Kansas City, Missouri: Lillenas Publishing, 1993), # 540. Also in Tabernacle Hymns Number Four (Chicago, Ilinois: Tabernacle Publishing, 1953), # 191.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=180
+K:F
+V:1 clef=treble stem=up
+[M:3/4] A/4 A/4 A/4 | B/4 A/4 G/4 | c3/4 | c3/4 | C/4 F/4 G/4 | A/4 B/4 A/4 | G3/4- | G3/4 | A/4 A/4 A/4 | B/4 A/4 G/4 | c3/4 | c3/4 | c/4 B/4 D/4 | E/4 A3/8 G/8 | F3/4- | F3/4 !fine!| A/4 f/4 e/4 | d/4 c/4 B/4 | (A/2 c/8B/8) | A3/4 | G/4 E/4 F/4 | G/4 F/4 E/4 | (D/2 F/8E/8 | D3/4) | A/4 f/4 e/4 | d/4 c/4 B/4 | A/2 (c/8B/8) | A3/4 | G/4 _G/4 =G/4 | =B/4 e3/8 d/8 | (c/2 =B/4 | B3/4) !D.C.!|]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4 B5 B6 B7_
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3 D4 D5 D6 D7_
++:E1 E2 E3 E4 E5 E6 E7__ E8
++:F1 F2 F3 F4 F5 F6 F7___
++:G1 G2 G3 G4 G5 G6 G7 G8__
++:H1 H2 H3 H4 H5 H6 H7__
+V:2 clef=treble stem=down
+F/4 F/4 F/4 | E/4 E/4 E/4 | F3/4 | E3/4 | C/4 C/4 C/4 | F/4 F/4 F/4 | F3/4 | E3/4 | F/4 F/4 F/4 | E/4 E/4 E/4 | F3/4 | _G3/4 | G/4 G/4 D/4 | C/4 E3/8 E/8 | C3/4- | C3/4 | F/4 A/4 G/4 | F/4 A/4 G/4 | (F/2 A/8G/8) | F3/4 | E/4 E/4 D/4 | E/4 D/4 _D/4 | x/2 x/8 x/8| x3/4| F/4 A/4 G/4 | B/4 A/4 G/4 | F/2 (A/8G/8) | F3/4 | E/4 _E/4 =E/4 | G/4 G3/8 F/8 | (E/2 F/4 | G3/4) |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] C/4 C/4 C/4 | C/4 C/4 C/4 | C3/4 | B,3/4 | A,/4 A,/4 B,/4 | C/4 D/4 C/4 | (=B,3/4 | C3/4) | C/4 C/4 C/4 | C/4 C/4 C/4 | C3/4 | _E3/4 | D/4 D/4 B,/4 | B,/4 C3/8 B,/8 | A,3/4- | A,3/4 | D/4 D/4 A,/4 | A,/4 D/4 D/4 | D3/4 | D3/4 | _D/4 D/4 =D/4 | _D/4 A,/4 G,/4 | (F,/2 A,/8G,/8 | F,3/4) | D/4 D/4 D/4 | D/4 D/4 D/4 | D3/4 | D3/4 | C/4 C/4 C/4 | D/4 C3/8 =B,/8 | (C/2 G,/4 | C3/4) |]
+V:4 clef=bass stem=down
+F,/4 F,/4 F,/4 | G,/4 C/4 B,/4 | A,3/4 | G,3/4 | F,/4 F,/4 F,/4 | F,/4 F,/4 F,/4 | (G,3/4 | C,3/4) | F,/4 F,/4 F,/4 | G,/4 C/4 B,/4 | A,3/4 | A,3/4 | B,/4 B,/4 B,,/4 | C,/4 C,3/8 C,/8 | F,3/4- | F,3/4 | D,/4 D,/4 D,/4 | D,/4 D,/4 D,/4 | D,3/4 | D,3/4 | A,/4 A,/4 A,/4 | A,,/4 A,,/4 A,,/4 | D,/2 x/4 | D,3/4 | D,/4 D,/4 D,/4 | G,/4 G,/4 G,/4 | D,3/4 | D,3/4 | G,/4 G,/4 G,/4 | G,/4 G,3/8 G,/8 | (C,/2 D,/4 | E,3/4) |]
+

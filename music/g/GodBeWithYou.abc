@@ -1,0 +1,66 @@
+X:1
+T:GOD BE WITH YOU
+C:William Gould Tomer, 1880
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-24 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 78.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=105
+K:C
+V:1 clef=treble stem=up
+[M:4/4] E3/8 E/8 E/8E/8 E/8E/8 | G/4 D/4 E/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9
+A3/8 A/8 A/8A/8 A/8A/8 | A/2 G/2 | \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+G3/8 G/8 G/8G/8 G/8G/8 | G/2 E/2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+E3/8 E/8 A/8G/8 C/8D/8 | E/4 D/4 C/4 | \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9
+E3/16 F/16 | (G/4 c/4 e/4) d3/16c/16 | (A/4 c/2) \
+w:E1 E2 E3__ E4 E5 E6_
+B3/16 A/16 | G3/8 A/8 (G/8E/8) (C/8E/8) | D3/4 \
+w:F1 F2 F3 F4 F5_ F6_ F7
+E3/16 F/16 | (G/4 c/4 e/4) d3/16c/16 | (A/4 c/2) \
+w:G1 G2 G3__ G4 G5 G6_
+c3/16A/16 | G/8E/8 C/8D/8 E/4 D/4 | C3/4 |]
+w:H1 H2 H3 H4 H5 H6 H7 H8 H9
+V:2 clef=treble stem=down
+C3/8 C/8 C/8C/8 C/8C/8 | C/4 B,/4 C/2 | \
+C3/8 F/8 F/8F/8 F/8F/8 | F/2 E/2 | \
+D3/8 D/8 D/8D/8 F/8F/8 | E/2 C/2 | \
+C3/8 C/8 F/8E/8 x/8C/8 | C/4 B,/4 x/4| \
+C3/16 D/16 | E/2 G/4 G3/16G/16 | (F/4 A/2) \
+G3/16 F/16 | E3/8 F/8 E/8C/8 x/8 x/8| B,3/4 \
+C3/16 D/16 | E/2 G/4 G3/16G/16 | (F/4 A/2) \
+F3/16F/16 | E/8C/8 x/8C/8 C/4 B,/4 | C3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] G,3/8 G,/8 G,/8G,/8 G,/8G,/8 | G,/4 G,/4 G,/2 | \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9
+F,3/8 C/8 C/8C/8 C/8C/8 | C/2 C/2 | \
+w:b1 b2 b3 b4 b5 b6 b7 b8
+B,3/8 B,/8 B,/8B,/8 D/8D/8 | C/2 G,/2 | \
+w:c1 c2 c3 c4 c5 c6 c7 c8
+G,3/8 G,/8 C/8C/8 G,/8A,/8 | G,/4 F,/4 E,/4 | \
+w:d1 d2 d3 d4 d5 d6 d7 d8 d9
+z/4 | z/4 G,/8G,/8 C/4 C3/16 C/16 | C/4 C/4 C/4 \
+w:e1 e2 e3 e4 e5 e6 e7 e8
+C3/16 C/16 | C3/8 C/8 C/8G,/8 E,/8G,/8 | G,/4 G,/8 G,/8 G,/4 \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12
+z/4 | z/4 G,/8 G,/8 C/4 C3/16C/16 | C/4 C/4 C/4 \
+w:g1 g2 g3 g4 g5 g6 g7 g8
+A,3/16C/16 | C/8G,/8 G,/8A,/8 G,/4 F,/4 | E,3/4 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8 h9
+V:4 clef=bass stem=down
+C,3/8 C,/8 C,/8C,/8 C,/8C,/8 | E,/4 x/4C,/2 | \
+F,3/8 F,/8 F,/8F,/8 F,/8F,/8 | C,/2 C,/2 | \
+G,3/8 G,/8 G,/8G,/8 G,,/8G,,/8 | C,/2 C,/2 | \
+C,3/8 C,/8 C,/8C,/8 E,/8F,/8 | G,/4 G,,/4 C,/4 | \
+x/4| x/4C,/8C,/8 C,/4 E,3/16 E,/16 | F,/4 F,/4 F,/4 \
+F,3/16 F,/16 | C,3/8 C,/8 C,/4 C,/4 | G,,/4 G,,/8 G,,/8 G,,/4 \
+x/4| x/4C,/8 C,/8 C,/4 E,3/16E,/16 | F,/4 F,/4 F,/4 \
+F,3/16F,/16 | C,/8C,/8 E,/8F,/8 x/4G,,/4 | C,3/4 |]
+

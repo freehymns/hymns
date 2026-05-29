@@ -1,0 +1,66 @@
+X:1
+T:No Night There
+C:Hart Pease Danks (1834–1903)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-28 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing Company, 1950), # 162.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=95
+K:Eb
+V:1 clef=treble stem=up
+[M:3/4] E/8 F/8 | G3/8 G/8 A/8 F/8 | B/2 \
+w:A1 A2 A3 A4 A5 A6 A7
+E/8 F/8 | G/8 E3/8 F/4 | E/2 \
+w:B1 B2 B3 B4 B5 B6
+E/8 F/8 | G3/8 B/8 d/8 c/8 | B/2 \
+w:C1 C2 C3 C4 C5 C6 C7
+E/8 F/8 | G/8 E/8 F/2 | E/2 || \
+w:D1 D2 D3 D4 D5 D6
+B/8 B/8 | B3/8 G/8 c/8 B/8 | A/2 \
+w:E1 E2 E3 E4 E5 E6 E7
+A/8 A/8 | A3/8 F/8 B/8 A/8 | G/2 \
+w:F1 F2 F3 F4 F5 F6 F7
+B/8 B/8 | e3/8 d/8 c/8 B/8 | (B/4 A/4) \
+w:G1 G2 G3 G4 G5 G6 G7_
+G/8 F/8 | E3/8 E/8 F/4 | E/2 |]
+w:H1 H2 H3 H4 H5 H6
+V:2 clef=treble stem=down
+E/8 E/8 | E3/8 E/8 D/8 D/8 | E/2 \
+E/8 E/8 | E/8 B,3/8 D/4 | E/2 \
+E/8 E/8 | E3/8 G/8 ^F/8 F/8 | G/2 \
+E/8 E/8 | E/8 B,/8 D/2 | B,/2 || \
+B/8 B/8 | (E/8G/8 G/8) E/8 C/4 | (C/8C/8 C/4) \
+A/8 A/8 | (D/8D/8 D/4) G/8 F/8 | (E/8E/8 E/4) \
+G/8 G/8 | (G/8G/8 G/4) G/4 | (G/8G/8 F/4) \
+C/8 C/8 | (B,/8B,/8 B,/4) D/4 | B,/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] G,/8 A,/8 | B,3/8 B,/8 B,/8 B,/8 | B,/2 \
+w:a1 a2 a3 a4 a5 a6 a7
+=A,/8 A,/8 | B,/8 G,3/8 A,/4 | G,/2 \
+w:b1 b2 b3 b4 b5 b6
+G,/8 A,/8 | B,3/8 B,/8 =A,/8 A,/8 | B,/2 \
+w:c1 c2 c3 c4 c5 c6 c7
+=A,/8 A,/8 | B,/8 F,/8 A,/2 | G,/2 || \
+w:d1 d2 d3 d4 d5 d6
+z/4 | G,/8 B,/8 (E/8B,/8) G,/4 | A,/8 A,/8 A,/4 \
+w:e1 e2 e3_ e4 e5 e6 e7
+z/4 | F,/8 F,/8 (F,/8B,/8) B,/4 | B,/8 B,/8 B,/4 \
+w:f1 f2 f3_ f4 f5 f6 f7
+B,/8 B,/8 | B,/8 B,/8 | (B,/8=B,/8) (C/8_D/8) | C/8 C/8 C/4 \
+w:g1 g2 g3 g4 g5_ g6_ g7 g8 g9
+B,/8 A,/8 | G,/8 G,/8 (G,/4 A,/4) | G,/2 |]
+w:h1 h2 h3 h4 h5_ h6
+V:4 clef=bass stem=down
+E,/8 E,/8 | E,3/8 E,/8 F,/8 A,/8 | G,/2 \
+C,/8 _C,/8 | B,,/8 B,,3/8 B,,/4 | E,/2 \
+E,/8 E,/8 | E,3/8 E,/8 E,/8 E,/8 | E,/2 \
+C,/8 _C,/8 | B,,/8 B,,/8 B,,/2 | E,/2 || \
+x/4| E,/8 E,/8 E,/4 =E,/4 | F,/8 F,/8 F,/4 \
+x/4| B,,/8 B,,/8 B,,/4 B,,/4 | E,/8 E,/8 E,/4 \
+E,/8 E,/8 | E,/8 E,/8 | E,/4 (E,/8=E,/8) | F,/8 F,/8 F,/4 \
+A,,/8 A,,/8 | B,,/8 B,,/8 B,,/2 | E,/2 |]
+
