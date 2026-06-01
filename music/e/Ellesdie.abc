@@ -1,0 +1,31 @@
+X:1
+T:ELLESDIE
+C:Wolfgang Amadeus Mozart (1756–1791)
+Z:Arrangement:Hubert Platt Main, 1872
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-29 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 20.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=115
+K:Ab
+V:1 clef=treble stem=up
+[M:4/4] A3/8 A/8 A/4 A/4 | c3/8 B/8 (B/8A/8) A/4 | B3/8 B/8 B/4 B/4 | d3/8 c/8 (c/4 B/4) | A3/8 A/8 A/4 A/4 | c3/8 B/8 (B/8A/8) A/4 | B/4 B/4 (B/8_d/8) (c/8B/8) | A/4 G/4 A/2 | B3/8 B/8 B/4 B/4 | B3/8 A/8 (A/8G/8) G/4 | c3/8 c/8 c/4 c/4 | d3/8 c/8 (c/4 B/4) | A3/8 A/8 A/4 A/4 | c3/8 B/8 (B/8A/8) A/4 | B/4 B/4 (B/8_d/8) (c/8B/8) | A/4 G/4 A/2 |]
+w:A1 A2 A3 A4 A5 A6 A7_ A8
++:B1 B2 B3 B4 B5 B6 B7_
++:C1 C2 C3 C4 C5 C6 C7_ C8
++:D1 D2 D3_ D4_ D5 D6 D7
++:E1 E2 E3 E4 E5 E6 E7_ E8
++:F1 F2 F3 F4 F5 F6 F7_
++:G1 G2 G3 G4 G5 G6 G7_ G8
++:H1 H2 H3_ H4_ H5 H6 H7
+V:2 clef=treble stem=down
+C3/8 D/8 C/4 E/4 | E3/8 E/8 E/4 E/4 | E3/8 E/8 E/4 E/4 | E3/8 E/8 E/2 | C3/8 D/8 C/4 E/4 | E3/8 E/8 E/4 E/4 | E/4 =D/4 x/8 x/8(E/8F/8) | E/4 D/4 C/2 | E3/8 E/8 D/4 D/4 | C3/8 C/8 D/4 D/4 | C3/8 E/8 E/4 E/4 | E3/8 E/8 E/2 | C3/8 D/8 C/4 E/4 | E3/8 E/8 E/4 E/4 | E/4 =D/4 E/4 (E/8F/8) | E/4 D/4 C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] E,3/8 F,/8 E,/4 A,/4 | A,3/8 D/8 (D/8C/8) C/4 | G,3/8 G,/8 G,/4 G,/4 | B,3/8 A,/8 (A,/4 G,/4) | A,3/8 F,/8 E,/4 A,/4 | A,3/8 D/8 (D/8C/8) C/4 | G,/4 A,/4 B,/4 (A,/8D/8) | C/4 B,/4 A,/2 | G,3/8 G,/8 G,/4 G,/4 | A,3/8 A,/8 B,/4 B,/4 | A,3/8 A,/8 A,/4 A,/4 | B,3/8 A,/8 (A,/4 G,/4) | A,3/8 F,/8 E,/4 A,/4 | A,3/8 D/8 (D/8C/8) C/4 | G,/4 A,/4 B,/4 (A,/8D/8) | C/4 B,/4 A,/2 |]
+V:4 clef=bass stem=down
+A,,3/8 A,,/8 A,,/4 C,/4 | E,3/8 E,/8 A,,/4 A,,/4 | E,3/8 E,/8 E,/4 E,/4 | G,3/8 A,/8 E,/2 | A,,3/8 A,,/8 A,,/4 C,/4 | E,3/8 E,/8 A,,/4 A,,/4 | E,/4 F,/4 G,/4 x/8D,/8 | E,/4 E,/4 A,,/2 | E,3/8 E,/8 E,/4 E,/4 | E,3/8 E,/8 E,/4 E,/4 | A,3/8 A,/8 A,/4 A,/4 | G,3/8 A,/8 E,/2 | A,,3/8 A,,/8 A,,/4 C,/4 | E,3/8 E,/8 A,,/4 A,,/4 | E,/4 F,/4 G,/4 x/8D,/8 | E,/4 E,/4 A,,/2 |]
+

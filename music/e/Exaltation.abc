@@ -1,0 +1,52 @@
+X:1
+T:EXALTATION
+C:C. H. Forrest (1846–1925
+Z:Source: https://hymnary.org/hymn/WASH1957/348
+I:score (1 2) (3 4)
+L:1/4
+M:4/4
+K:Eb
+V:1 treble
+[GE]2 [DA]3/2 [FD]/ | [EB]3 E | [FE] [FE] [DA]3/2 [DA]/ | [FA]2 [GE]2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
+[GE]2 [E=A]3/2 [FC]/ | [BB,]3 [Fd] | [Gc] [GE] [EB] [E=A] | [DB]4 | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
+[GE]2 [DA]3/2 [FD]/ | [EB]3 [EB] | [Ge] [G_d] [Gc] [G=B] | [G=B]2 [cA]2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+[=Ec]2 [EB]3/2 [GE]/ | [FA]3 [G=E] | F [FA] D [FD] | [EE]4 | \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10
+[GE] [GE]3/4 [GE]/4 [GE] [EB]3/4 [EB]/4 | [EB] [EA] [EA]2 | \
+w:E1 E2 E3 E4 E5 E6 E7 E8 E9
+[E=A] [EA]3/4 [EA]/4 [EA] [Ec] | [DB]4 | \
+w:F1 F2 F3 F4 F5 F6
+[F=B] [FB]3/4 [FB]/4 [FB] [Fd] | [Fd] [Ec] [FE] \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+[GE] | [EA]3/2 [EA]/ D [FD] | [EE]4 |]
+w:H1 H2 H3 H4 H5 H6
+V:2 treble
+x4 | x3 E | x4 | x4 | \
+x4 | x4 | x4 | x4 | \
+x4 | x4 | x4 | x4 | \
+x4 | x4 | F x D x | x4 | \
+x4 | x4 | \
+x4 | x4 | \
+x4 | x4 | \
+x2 D x | x4 |]
+V:3 bass
+[E,B,]2 [F,B,]3/2 [F,B,A,]/ | [G,B,]3 [G,B,] | [CA,] [CA,] B,3/2 B,/ | [E,B,]2 [E,B,]2 | \
+[E,B,]2 [F,C,]3/2 [F,E,]/ | [F,D,]3 | [D,B,] | [G,E,] [CC,] [F,C] [F,C] | [B,B,,]4 | \
+[E,B,]2 [F,B,]3/2 A,/ | [G,B,]3 [G,B,] | [E,B,] [E,B,] [EE,] [E,_D] | [_DA,]2 [CA,]2 | \
+[G,C]2 [CC,]3/2 [CC,]/ | [F,C]3 [G,B,] | [CA,] [F,C] B, [B,,A,] | [E,G,]4 |\
+[E,B,] [E,B,]3/4 [E,B,]/4 [E,B,] [E,_D]3/4 [E,D]/4 | [_DA,] [CA,] [CA,]2 | \
+[F,C] [F,C]3/4 [F,C]/4 [F,C] [F,=A,] | [B,B,,]4 | \
+[G,D] [G,D]3/4 [G,D]/4 [G,D] [G,=B,] | [G,=B,] [CA,] [CA,] \
+[G,C] | [F,C]3/2 [F,C]/ B, [B,,A,] | [G,E,]4 |]
+V:4 bass
+x4 | x4 | x2 B,3/2 B,/ | x4 | \
+x4 | x4 | x4 | x4 | \
+x4 | x4 | x4 | x4 | \
+x4 | x4 | x2 B, x | x4 | \
+x4 | x4 | \
+x4 | x4 | \
+x4 | x4 | \
+x2 B, x | x4 |]

@@ -1,0 +1,68 @@
+X:1
+T:O Happy Day
+C:Edward Rimbault, 1854
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-31 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm)
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/2
+Q:1/4=160
+K:F
+V:1 clef=treble stem=up
+[M:3/2] C/4 F/4 G/4 | A3/4 C/4 F/4 G/4 | A3/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+A/4 B/4 A/4 G3/4 F/4 A/4 G/4 | F3/4 \
+w:B1 B2 B3 B4 B5 B6 B7 B8
+C/4 F/4 G/4 | A3/4 C/4 F/4 G/4 | A3/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+A/4 B/4 A/4 | G3/4 F/4 A/4 G/4 | F3/4 \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+z/4 A3/8 B/8 | c F3/8 G/8 | A3/4 \
+w:E1 E2 E3 E4 E5 E6
+A/4 B/4 A/4 | G3/4 F/4 A/4 G/4 | F3/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+c/4 c/4 c/4 | c3/4 c/4 d/4 c/4 | A3/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+c/4 c/4 c/4 | c3/4 c/4 d/4 c/4 | A3/4 \
+w:H1 H2 H3 H4 H5 H6 H7 H8
+z/4 A3/8 B/8 | c F3/8 G/8 | A3/4 \
+w:I1 I2 I3 I4 I5 I6
+A/4 B/4 A/4 | G3/4 F/4 A/4 G/4 | F |]
+w:J1 J2 J3 J4 J5 J6 J7 J8
+V:2 clef=treble stem=down
+C/4 C/4 E/4 | F3/4 x/4C/4 E/4 | F3/4 \
+F/4 F/4 F/4 E3/4 x/4F/4 E/4 | x3/4 \
+x/4C/4 E/4 | F3/4 x/4C/4 E/4 | F3/4 \
+F/4 F/4 F/4 | E3/4 x/4F/4 E/4 | x3/4 \
+x/4F3/8 F/8 | F x3/8E/8 | F3/4 \
+F/4 F/4 F/4 | E3/4 x/4F/4 E/4 | x3/4\
+F/4 F/4 F/4 | F3/4 F/4 F/4 F/4 | F3/4 \
+F/4 F/4 F/4 | F3/4 F/4 F/4 F/4 | F3/4 \
+x/4F3/8 F/8 | F x3/8E/8 | F3/4 \
+F/4 F/4 F/4 | E3/4 x/4F/4 E/4 | F |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/2] A,/4 A,/4 C/4 | C3/4 A,/4 A,/4 C/4 | C3/4 \
+C/4 D/4 C/4 B,3/4 A,/4 C/4 B,/4 | A,3/4 \
+C/4 C/4 C/4 | C3/4 C/4 C/4 C/4 | C3/4 \
+C/4 D/4 C/4 | B,3/4 A,/4 C/4 B,/4 | A,3/4 \
+z/4 C3/8 C/8 | C C3/8 C/8 | C3/4 \
+C/4 D/4 C/4 | B,3/4 A,/4 C/4 B,/4 | A,3/4 \
+A,/4 A,/4 A,/4 | A,3/4 A,/4 B,/4 A,/4 | C3/4 \
+A,/4 A,/4 A,/4 | A,3/4 A,/4 B,/4 A,/4 | C3/4 \
+z/4 C3/8 C/8 | C C3/8 C/8 | C3/4 \
+C/4 D/4 C/4 | B,3/4 A,/4 C/4 B,/4 | A, |]
+V:4 clef=bass stem=down
+F,/4 F,/4 C,/4 | F,3/4 F,/4 F,/4 C,/4 | F,3/4 \
+F,/4 F,/4 F,/4 C,3/4 D,/4 C,/4 C,/4 | F,3/4 \
+C,/4 A,,/4 C,/4 | F,3/4 C,/4 A,,/4 C,/4 | F,3/4 \
+F,/4 F,/4 F,/4 | C,3/4 D,/4 C,/4 C,/4 | F,3/4 \
+x/4F,3/8 G,/8 | A, A,,3/8 C,/8 | F,3/4 \
+F,/4 F,/4 F,/4 | C,3/4 D,/4 C,/4 C,/4 | F,3/4 \
+F,/4 F,/4 F,/4 | F,3/4 F,/4 F,/4 F,/4 | F,3/4 \
+F,/4 F,/4 F,/4 | F,3/4 F,/4 F,/4 F,/4 | F,3/4 \
+x/4F,3/8 G,/8 | A, A,,3/8 C,/8 | F,3/4 \
+F,/4 F,/4 F,/4 | C,3/4 D,/4 C,/4 C,/4 | F, |]
+

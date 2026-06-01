@@ -1,0 +1,38 @@
+X:1
+T:Jesus Bids Us Shine
+C:Edwin Othello Excell (1851–1921)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-29 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Trinity Hymnal (Philadelphia, Pennsylvania: Orthodox Presbyterian Church, 1961), # 653. Also in Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 256.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:8/4
+Q:1/4=155
+K:G
+V:1 clef=treble stem=up
+[M:8/4] G/4 D/4 D/4 D/4 D/2 G/4 A/4 | G/2 F/2 F | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
+A/4 D/4 D/4 D/4 D/2 A/2 | A/4 G/4 G/4 A/4 B | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11
+B/4 c/4 B/4 A/4 G/2 B,/2 | (E/4 G/4) F/4 E/4 D | \
+w:C1 C2 C3 C4 C5 C6 C7_ C8 C9 C10
+D/4 D/4 G/4 A/4 B/4 d/2 c/4 | B/2 A/2 G |]
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10
+V:2 clef=treble stem=down
+B,/4 B,/4 B,/4 B,/4 B,/2 B,/4 C/4 | B,/2 C/2 C | \
+C/4 C/4 C/4 C/4 C/2 C/2 | C/4 B,/4 B,/4 C/4 D | \
+D/4 E/4 D/4 C/4 B,/2 G,/2 | (C/4 E/4) D/4 C/4 B, | \
+B,/4 B,/4 B,/4 C/4 D/4 =F/2 E/4 | D/2 C/2 B, |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:8/4] G,/4 G,/4 G,/4 G,/4 G,/2 G,/4 G,/4 | G,/2 A,/2 A, | \
+F,/4 F,/4 F,/4 F,/4 F,/2 F,/2 | G,/4 G,/4 G,/4 G,/4 G, | \
+G,/4 G,/4 G,/4 G,/4 G,/2 G,/2 | G,/2 G,/4 G,/4 G, | \
+G,/4 G,/4 G,/4 G,/4 G,/4 G,/2 G,/4 | G,/2 F,/2 G, |]
+V:4 clef=bass stem=down
+G,,/4 G,,/4 G,,/4 G,,/4 G,,/2 G,,/4 G,,/4 | D,/2 D,/2 D, | \
+D,/4 D,/4 D,/4 D,/4 D,/2 D,/2 | G,,/4 G,,/4 G,,/4 G,,/4 G,, | \
+G,,/4 G,,/4 G,,/4 G,,/4 G,,/2 G,,/2 | C,/2 C,/4 C,/4 G,, | \
+G,,/4 G,,/4 G,,/4 G,,/4 G,,/4 B,,/2 C,/4 | D,/2 D,/2 G,, |]
+

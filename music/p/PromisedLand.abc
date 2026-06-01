@@ -1,0 +1,53 @@
+X:1
+T:PROMISED LAND
+C:Matilda T. Durham (1815-1901)
+Z:Arrangemnet:Rigdon McIntosh (1836-1899)
+I:score (1 2) (3 4)
+L:1/4
+M:3/4
+I:linebreak $
+K:Eb
+V:1
+E/F/ | [GE] [GE] [GE]/[FA]/ [GB] | [FA] [FA] [FA]/[GE]/ \
+w:A1_ A2 A3 A4_ A5 A6 A7 A8_
+[FD] | [GE] [GE] G/A/ [EB] | [FD]3 \
+w:B1 B2 B3 B4_ B5 B6
+$ G/F/ | E E/F/ [GE] [FA] | [GB] [Ge] [GB] \
+w:C1_ C2 C3_ C4 C5 C6 C7 C8
+B/A/ | [GE] G/E/ [FD] [FD] | [EB,]3 ||\
+w:D1_ D2 D3_ D4 D5 D6
+$ E/ F/ | [GE] [GE]3/4 [GE]/4 [GE]/[FA]/ [GB] | ([FA]3/2 [GB]/ [FA]/[GE]/) \
+w:E1 E2 E3 E4 E5 E6_ E7 E8___
+[FD]/[FD]/ | [GE] [GE]3/4 [GE]/4 G/A/ [EB] | [FD]3 \
+w:F1 F2 F3 F4 F5 F6_ F7 F8
+$ G/F/ | E E/F/ [GE] [FA] | [GB] [Ge] [GB] \
+w:G1_ G2 G3_ G4 G5 G6 G7 G8
+B/A/ | [GE] [GE]/E/ [FD] [FD] | [EB,]3 |]
+w:H1 H2 H3 H4 H5 H6 H7 H8
+V:2
+E | x4 | x4 | \
+x2 E x | x3 \
+$ D | E x3 | x3 \
+G | x E x2 | x3 ||\
+$ E/ E/ | x4 | x4 | \
+x2 E x | x3 \
+$ D | x4 | x2 G\
+E/E/ | x4 | x3 |]
+V:3
+G,/A,/ | [E,B,] [E,B,] [E,B,] [E,B,] | [B,B,,] [B,B,,] [B,B,,] \
+[B,B,,] | [E,B,] [E,B,] [E,B,] [G,,B,] | [B,B,,]3 \
+$ B,/A,/ | [G,E,] G,/A,/ [E,B,] [E,B,] | [E,B,] [E,B,] [E,B,] \
+[G,,B,]/[CA,,]/ | [B,B,,] B,/G,/ [B,B,,] [B,,A,] | [G,E,]3 ||\
+$ [G,E,]/ [E,A,]/ | [E,B,] [E,B,]3/4 [E,B,]/4 [E,B,]/[E,B,]/ [E,B,] | [B,B,,]3 \
+[B,B,,]/[B,B,,]/ | [E,B,] [E,B,]3/4 [E,B,]/4 [E,B,] [G,,B,] | [B,B,,]3 \
+$ B,/A,/ | [G,E,] G,/A,/ [E,B,] [E,B,] | [EE,] [E,B,] [E,B,] \
+[G,,B,]/[CA,,]/ | [B,B,,] [B,B,,]/[G,B,,]/ [B,B,,] [B,,A,] | [G,E,]3 |]
+V:4
+E, | x4 | x4 | \
+x4 | x3 \
+$ B,, | x E, x2 | x4 | \
+x B,, x2 | x3 ||\
+$ x | x4 | x4 | \
+x4 | x3 \
+$ B,, | x E, x2 | x4 | \
+x4 | x3 |]

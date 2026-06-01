@@ -1,0 +1,98 @@
+X:1
+T:Mighty Army of the Young
+C:Augustus  Franklin Myers (1850–1902)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-30 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Tabernacle Hymns Number Four Chicago, Illinois: Tabernacle Publishing, 1953, # 110.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=90
+K:Ab
+V:1 clef=treble stem=up
+[M:4/4] E/8 c/8 B/8 A/8 A/8 G/8 G/4 | \
+w:A1 A2 A3 A4 A5 A6 A7
+E/8 d/8 c/8 B/8 B/8 A/8 A/4 | \
+w:B1 B2 B3 B4 B5 B6 B7
+E/8 c/8 B/8 A/8 A/8 G/8 G/4 | \
+w:C1 C2 C3 C4 C5 C6 C7
+F/4 G/4 A/2 | \
+w:D1 D2 D3
+G/8 G/8 G/8 F/8 F/8 E/8 E/4 | \
+w:E1 E2 E3 E4 E5 E6 E7
+F/8 F/8 G/8 G/8 A/8 A/8 B/4 | \
+w:F1 F2 F3 F4 F5 F6 F7
+c/8 c/8 B/8 B/8 A/8 A/8 E/4 | \
+w:G1 G2 G3 G4 G5 G6 G7
+F/4 G/4 A/2 || \
+w:H1 H2 H3
+c/8 c/8 c/8 c/8 c/8 c/8 c/8 c/8 | \
+w:I1 I2 I3 I4 I5 I6 I7 I8
+c/8 c/8 c/8 c/8 d/2 | \
+w:J1 J2 J3 J4 J5
+d/8 d/8 d/8 d/8 d/8 d/8 d/8 d/8 | \
+w:K1 K2 K3 K4 K5 K6 K7 K8
+d/8 d/8 e/8 d/8 c/2 | \
+w:L1 L2 L3 L4 L5
+c/8 B/8 A/8 E/8 F/8 A/8 E/4 | \
+w:M1 M2 M3 M4 M5 M6 M7
+c/8 B/8 A/8 E/8 F/8 A/8 E/4 | \
+w:N1 N2 N3 N4 N5 N6 N7
+A/8 A/8 B/8 B/8 c/8 c/8 d/4 | \
+w:O1 O2 O3 O4 O5 O6 O7
+F/4 G/4 A7/8 |]
+w:P1 P2 P3
+V:2 clef=treble stem=down
+C/8 E/8 D/8 C/8 D/8 D/8 D/4 | \
+E/8 E/8 E/8 D/8 D/8 C/8 C/4 | \
+C/8 E/8 E/8 E/8 D/8 D/8 D/4 | \
+D/4 D/4 C/2 | \
+E/8 E/8 E/8 D/8 D/8 C/8 C/4 | \
+D/8 D/8 D/8 D/8 C/8 C/8 E/4 | \
+E/8 E/8 D/8 D/8 C/8 C/8 E/4 | \
+D/4 D/4 C/2 || \
+E/8 E/8 E/8 E/8 E/8 E/8 E/8 E/8 | \
+E/8 E/8 E/8 E/8 E/2 | \
+E/8 E/8 E/8 E/8 G/8 G/8 G/8 G/8 | \
+G/8 G/8 E/8 E/8 E/2 | \
+E/8 D/8 C/8 E/8 D/8 D/8 C/4 | \
+E/8 D/8 C/8 E/8 D/8 D/8 C/4 | \
+E/8 E/8 E/8 E/8 E/8 _G/8 F/4 | \
+D/4 D/4 C7/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,/8 A,/8 E,/8 E,/8 E,/8 E,/8 B,/4 | \
+G,/8 B,/8 A,/8 G,/8 A,/8 A,/8 A,/4 | \
+A,/8 A,/8 G,/8 A,/8 B,/8 B,/8 B,/4 | \
+B,/4 E,/4 E,/2 | \
+E,/8 G,/8 B,/8 G,/8 A,/8 A,/8 A,/4 | \
+A,/8 A,/8 E,/8 B,/8 A,/8 A,/8 G,/4 | \
+A,/8 A,/8 G,/8 G,/8 A,/8 A,/8 A,/4 | \
+A,/4 E,/4 E,/2 || \
+A,/2 A,/2 | \
+A,/8 A,/8 A,/8 A,/8 G,/2 | \
+B,/2 B,/4 E,/4 | \
+B,/8 B,/8 G,/8 B,/8 A,/2 | \
+A,/8 A,/8 A,/8 A,/8 A,/8 A,/8 A,/4 | \
+A,/8 A,/8 A,/8 A,/8 A,/8 A,/8 A,/4 | \
+A,/8 A,/8 G,/8 G,/8 A,/8 A,/8 A,/4 | \
+A,/4 E,/4 E,7/8 |]
+V:4 clef=bass stem=down
+A,,/8 A,,/8 A,,/8 A,,/8 B,,/8 B,,/8 E,/4 | \
+E,/8 E,/8 E,/8 E,/8 A,/8 A,/8 A,/4 | \
+A,,/8 A,,/8 B,,/8 C,/8 E,/8 E,/8 E,/4 | \
+E,/4 E,/4 A,,/2 | \
+E,/8 E,/8 E,/8 E,/8 A,,/8 A,,/8 A,,/4 | \
+D,/8 D,/8 E,/8 E,/8 F,/8 F,/8 E,/4 | \
+A,/8 A,/8 E,/8 E,/8 F,/8 F,/8 C,/4 | \
+D,/4 E,/4 A,,/2 || \
+A,,/4 C,/4 E,/4 A,/4 | \
+A,/8 A,/8 A,/8 A,/8 E,/2 | \
+E,/4 G,/4 B,/2 | \
+E,/8 E,/8 E,/8 G,/8 A,/2 | \
+A,,/8 A,,/8 A,,/8 C,/8 D,/8 F,/8 A,/4 | \
+A,,/8 A,,/8 A,,/8 C,/8 D,/8 F,/8 A,/4 | \
+C,/8 C,/8 E,/8 E,/8 A,/8 A,/8 D,/4 | \
+D,/4 E,/4 A,,7/8 |]
+

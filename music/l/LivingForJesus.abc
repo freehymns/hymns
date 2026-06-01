@@ -1,0 +1,78 @@
+X:1
+T:Living for Jesus
+C:Carl Harold Lowden, 1915
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-29 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Tabernacle Hymns Number Five (Chicago, Illinois: Tabernacle Publishing, 1955), # 63.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=128
+K:F
+V:1 clef=treble stem=up
+[M:4/4] A/4 B/2 A/4 | c/4 G/2 A/4 | B/4 F/2 G/4 | A | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
+A/4 G/2 A/4 | G/4 F/2 E/4 | D/4 A/2 G/4 | G | \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
+A/4 B/2 A/4 | c/4 G/2 A/4 | B/4 F/2 G/4 | A | \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+G/4 e/2 d/4 | c/4 F/2 G/4 | A/4 A/2 G/4 | F3/4 || \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10
+c/4 | c/4 a/4 a/4 g/4 | g/4 f/2 \
+w:E1 E2 E3 E4 E5 E6 E7
+d/4 | d/4 b/4 b/4 a/4 | g3/4 \
+w:F1 F2 F3 F4 F5 F6
+f/4 | e/4 c'/4 c'/4 b/4 | b/4 a/2 \
+w:G1 G2 G3 G4 G5 G6 G7
+a/4 | a/4 g/4 d/4 a/4 | g3/4 \
+w:H1 H2 H3 H4 H5 H6
+c/4 | c/4 a/4 a/4 g/4 | g/4 f/2 \
+w:I1 I2 I3 I4 I5 I6 I7
+f/4 | f/4 d'/4 d'/4 c'/4 | b3/4 \
+w:J1 J2 J3 J4 J5 J6
+d/4 | f/4 e/4 f/4 g/4 | a/4 a/4 !fermata! b/4 x/4 \
+w:K1 K2 K3 K4 K5 K6 K7 K8
+a/4 | a/4 g/4 d/4 e/4 | f3/4 |]
+w:L1 L2 L3 L4 L5 L6
+V:2 clef=treble stem=down
+F/4 F/2 F/4 | E/4 E/2 _E/4 | D/4 D/2 _D/4 | C | \
+E/4 E/2 E/4 | C/4 C/2 C/4 | =B,/4 F/2 F/4 | E | \
+F/4 F/2 F/4 | E/4 E/2 _E/4 | D/4 D/2 E/4 | E | \
+x/4^G/2 G/4 | A/4 x/2F/4 | F/4 E/2 E/4 | F3/4 || \
+[CA]/4 | [CA]/4 [Ac]/4 [Ac]/4 [GB]/4 | [GB]/4 [FA]/2 \
+[DB]/4 | [DB]/4 [Bd]/4 [Bd]/4 [Ac]/4 | [GB]3/4 \
+[Fd]/4 | [Ec]/4 [ce]/4 [ce]/4 [Bd]/4 | [Bd]/4 [Ac]/2 \
+[Ac]/4 | [AB]/4 [GB]/4 [DB]/4 [AB]/4 | [GB]3/4 \
+[CB]/4 | [CA]/4 [Ac]/4 [Ac]/4 [GB]/4 | [GB]/4 [FA]/2 \
+[FA]/4 | [FA]/4 [df]/4 [df]/4 [c_e]/4 | [Bd]3/4 \
+[DB]/4 | [Fd]/4 [Ed]/4 [Fd]/4 [G_d]/4 | [Ac]/4 [Ac]/4 [Bd]/4 x/4  \
+[Ac]/4 | [A=B]/4 [GB]/4 [D_B]/4 [EB]/4 | [FA]3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] C/4 D/2 C/4 | C/4 C/2 C/4 | B,/4 B,/2 F,/4 | F, | \
+C/4 B,/2 C/4 | B,/4 A,/2 A,/4 | G,/4 =B,/2 B,/4 | C | \
+C/4 D/2 C/4 | C/4 C/2 C/4 | B,/4 B,/2 D/4 | ^C | \
+D/4 F/2 F/4 | F/4 C/2 D/4 | C/4 C/2 B,/4 | A,3/4 || \
+z/4 | (F,,/4 F/4 E/2) | (F,,/4 C/4 F/4) \
+z/4 | (G,,/4 G/4 ^F/2) | (G,,/4 D/4 G/4) \
+z/4 | C,,/4 C/4 E/2 | F,,/4 C/4 F/2 | \
+G,,/4 =B,/4 B,/2 | (C,,/4 C/4 E/4) \
+z/4 | (F,,/4 F/4 E/2) | F,,/4 (C/4 F/4) \
+z/4 | F,,/4 _E/4 F/2 | (B,,/4 D/4 F/4) \
+z/4 | B,,/4 D/4 B,,/4 _D/4 | C,/4 F/4 !fermata! ^F/4 x/4 \
+z/4 | G,,/4 F/4 C,,/4 C/4 | (F,,/4 C/4 C/4) |]
+V:4 clef=bass stem=down
+F,/4 F,/2 C,/4 | C,/4 C,/2 F,/4 | B,,/4 B,,/2 B,,/4 | F, | \
+C,/4 C,/2 C,/4 | F,/4 F,/2 F,/4 | x/4G,/2 G,/4 | C, | \
+F,/4 F,/2 F,/4 | C,/4 C,/2 F,/4 | B,,/4 x/2B,/4 | A, | \
+B,/4 =B,/2 B,/4 | C/4 A,/2 B,/4 | x/4C,/2 C,/4 | F,3/4 || \
+x/4| x/4([A,C]/4 [B,C]/2) | x/4([F,A,]/4 [A,C]/4) \
+x/4| x/4([B,D]/4 [CD]/2) | x/4([G,B,]/4 [B,D]/4) \
+x/4| x/4[G,B,]/4 [B,C]/2 | x/4[F,A,]/4 [A,C]/2 | \
+x/4[F,G,]/4 G,/2 | x/4([E,B,]/4 [G,B,C]/4) \
+x/4| x/4([A,C]/4 [B,C]/2) | x/4([F,A,]/4 [A,C]/4) \
+x/4| x/4[F,A,]/4 [A,E]/2 | x/4([F,B,]/4 [B,D]/4) \
+x/4| x/4[F,B,]/4 x/4[F,B,]/4 | x/4[A,C]/4 [D,CD]/4 x/4 \
+x/4| x/4[G,=B,]/4 x/4[G,_B,]/4 | x/4([F,A,]/4 [F,A,]/4) |]
+

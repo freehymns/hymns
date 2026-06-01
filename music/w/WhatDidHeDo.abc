@@ -1,0 +1,66 @@
+X:1
+T:What Did He Do?
+C:William Owen, 1852
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-31 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Church Service Hymns (Winona Lake, Indiana: Rodeheaver Hall-Mack, 1948), # 37. Also in In The Voice of Thanksgiving, by Daniel B. Towner (New York; Chicago, Illinois; Toronto, Canda; London & Edinburgh, Scotland: Flemming H. Revel. 1913),  # 127.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:2/2
+Q:1/4=150
+K:Db
+V:1 clef=treble stem=up
+[M:2/2] d/2 A/4 B/4 | A/4 d/4 c/4 B/4 | A/2 A/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9
+F/4 A/4 B/4 e/4 | d/2 c/2 | d | \
+w:B1 B2 B3 B4 B5 B6 B7
+d/2 A/4 B/4 | A/4 d/4 c/4 B/4 | A/2 A/2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9
+F/4 A/4 B/4 e/4 | d/2 c/2 | d || \
+w:D1 D2 D3 D4 D5 D6 D7
+z/2 A/2 | F/4 A/4 A/4 B/4 | A/4 G/4 F/2 | \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+z | z/2 d/2 | d/4 c/4 B/2 | \
+w:F1 F2 F3 F4
+z/2 e/2 | e/4 d/4 c/2 | \
+w:G1 G2 G3 G4
+z/2 f/2 | f/4 e/4 d/4 e/4 | (d/2 c/2) | d |]
+w:H1 H2 H3 H4 H5 H6_ H7
+V:2 clef=treble stem=down
+F/2 F/4 F/4 | F/4 F/4 =G/4 G/4 | A/2 F/2 | \
+D/4 F/4 G/4 G/4 | F/2 E/2 | F | \
+F/2 F/4 F/4 | F/4 F/4 =G/4 G/4 | A/2 F/2 | \
+D/4 F/4 G/4 G/4 | F/2 E/2 | F || \
+x/2F/2 | D/4 F/4 F/4 G/4 | F/4 E/4 D/2 | \
+x| x/2F/2 | F/4 E/4 D/2 | \
+x/2G/2 | G/4 F/4 E/2 | \
+x/2A/2 | A/4 (A/8G/8) F/4 G/4 | (F/2 E/2) | F |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:2/2] A,/2 D/4 D/4 | D/4 D/4 D/4 D/4 | C/2 D/2 | \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9
+A,/4 D/4 D/4 B,/4 | A,/2 A,/2 | A, | \
+w:b1 b2 b3 b4 b5 b6 b7
+A,/2 D/4 D/4 | D/4 D/4 D/4 D/4 | C/2 D/2 | \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9
+A,/4 D/4 D/4 B,/4 | A,/2 A,/2 | A, || \
+w:d1 d2 d3 d4 d5 d6 d7
+z | z | z/2 A,/2 | \
+w:e1
+F,/4 A,/4 A,/4 B,/4 | A,/4 G,/4 F,/2 | z/2 B,/2 | \
+w:f1 f2 f3 f4 f5 f6 f7 f8
+B,/4 A,/4 G,/2 | z/2 C/2 | \
+w:g1 g2 g3 g4
+C/4 B,/4 A,/4 D/4 | D/4 C/4 D/4 B,/4 | (A,/2 A,,/2) | A, |]
+w:h1 h2 h3 h4 h5 h6 h7 h8 h9_ h10
+V:4 clef=bass stem=down
+D,/2 D,/4 D,/4 | D,/4 D,/4 E,/4 E,/4 | A,/2 D,/2 | \
+D,/4 D,/4 G,/4 G,/4 | A,/2 A,,/2 | D, | \
+D,/2 D,/4 D,/4 | D,/4 D,/4 E,/4 E,/4 | A,/2 D,/2 | \
+D,/4 D,/4 G,/4 G,/4 | A,/2 A,,/2 | D, || \
+x| x| x/2F,/2 | \
+D,/4 F,/4 F,/4 G,/4 | F,/4 E,/4 D,/2 | x/2G,/2 | \
+G,/4 F,/4 E,/2 | x/2A,/2 | \
+A,/4 G,/4 F,/4 A,/4 | D/4 A,/4 B,/4 G,/4 | A, | D, |]
+

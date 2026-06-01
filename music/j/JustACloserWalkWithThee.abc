@@ -1,0 +1,39 @@
+X:1
+T:Just a Closer Walk with Thee
+C:Unknown
+Z:Description:Traditional Folk Song
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-29 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns for the Family of God (Nashville, Tennessee: Paragon Associates, 1976), # 591.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=100
+K:Bb
+V:1 clef=treble stem=up
+[M:4/4] F3/8 ^F/8 G/8 D/8 =F/8 =E/8 | E | \
+w:A1 A2 A3 A4 A5 A6 A7
+c3/8 B/8 A/8 F/8 G/8 B/8 | (G/8F/8-  F3/4) | \
+w:B1 B2 B3 B4 B5 B6 B7__
+d3/8 d/8 d/8 B/8 c/8 d/8 | (c/8 B3/8- B/4) \
+w:C1 C2 C3 C4 C5 C6 C7__
+B/8 G/8 | (F/4 F/8) F/8 F/4 G/8 A/8 | B |]
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9
+V:2 clef=treble stem=down
+D3/8 D/8 D/8 B,/8 B,/8 B,/8 | (B,/2 C/2) | \
+E3/8 E/8 E/8 E/8 E/8 E/8 | D | \
+F3/8 F/8 F/8 D/8 E/8 F/8 | E/2 ^C/4 \
+C/8 C/8 | (D/4 D/8) D/8 E/4 E/8 E/8 | D |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,3/8 B,/8 B,/8 F,/8 F,/8 G,/8 | (G,/2 A,/2) | \
+A,3/8 A,/8 C/8 A,/8 A,/8 G,/8 | B, | \
+B,3/8 A,/8 _A,/8 A,/8 A,/8 A,/8 | G,3/4 \
+G,/8 B,/8 | (B,/4 B,/8) B,/8 A,/4 G,/8 F,/8 | F, |]
+V:4 clef=bass stem=down
+B,,3/8 B,,/8 B,,/8 B,,/8 D,/8 _D,/8 | (C,/2 F,/2) | \
+F,3/8 F,/8 F,/8 F,/8 F,/8 F,/8 | B,, | \
+B,,3/8 B,,/8 B,,/8 B,,/8 B,,/8 B,,/8 | E,/2 [=E,=E,]/4 \
+E,/8 E,/8 | (F,/4 F,/8) F,/8 F,/4 F,/8 F,/8 | B,, |]
+

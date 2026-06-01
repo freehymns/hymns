@@ -1,0 +1,17 @@
+X:1
+T:T C O Kane
+I:score (1 2) (3 4)
+L:1/4
+M:none
+I:linebreak $
+K:F
+V:1
+ F/ A/ | [Fc]3/2 [Fd]/ [Fc] [FA] | [FD] [GD] [FD] F | [GE] [GE] [GE] [cA]/ [GB]/ | [FA]3 F/ A/ | [Fc]3/2 [Fd]/ [Fc] [FA] | [FD] [GD] [FD] F |$ [GE] [EB] A/ G/ F/ E/ | [FC]3 [FC]/ [GC]/ | [FA] [FA]3/4 [FA]/4 [FA]/ [GE]/ [FA]/ [EB]/ | F F3/4 C/4 z/ [Fc]3/4 [Fc]/4 | [Fd] [Fd]3/4 [Fd]/4 [Fc]/ [Fc]/ [FA] |$ E/ E/ [GB] [FA] [FC]3/4 [GC]/4 | [FA] [FA] [FA]3/4 [GE]/4 [FA]/ [EB]/ | [Fc] [Fc]3/4 [CB]/4 [CA] [FA] | [GD] [DB] [EA]3/4 [GE]/4 [FC]/ [EC]/ | [FC]3 | %17
+V:2
+ C | x4 | x4 | x4 | x3 C | x4 | x4 |$ x2 E C | x4 | x4 | c3 x/ | x4 |$ G x3 | x4 | x4 | x4 | x3 | %17
+V:3
+ x | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x2 C x/ | x4 |$ x4 | x4 | x4 | x4 | x3 | %17
+V:4
+ [F,A,] | [F,A,]3/2 [F,B,]/ [F,A,] [F,C] | [B,B,,] [B,B,,] [B,B,,] [D,A,] | [CC,] [CC,] [CC,] [CC,] | [F,C]3 [F,A,] | [F,A,]3/2 [F,B,]/ [F,A,] [F,C] | [B,B,,] [B,B,,] [B,B,,] [D,A,] |$ [C,B,] [G,C,] C/ B,/ A,/ G,/ | [F,,A,]3 [F,A,]/ [F,B,]/ | [F,C] [F,C]3/4 [F,C]/4 [F,C]/ [CC,]/ [F,C]/ [G,C]/ | [CA,] [CA,]3/4 [G,B,]/4 [F,A,] x/4 [F,A,]/4 | B,,/ C,/ [D,B,]3/4 [E,B,]/4 [F,A,]/ [F,A,]/ [F,C] |$ C,/ C,/ C, F, [F,A,]3/4 [F,B,]/4 | [F,C] [F,C] [F,C]3/4 [CC,]/4 [F,C]/ [G,C]/ | A, A,3/4 G,/4 [F,C] [F,C] | [B,B,,] [G,B,,] [CC,]3/4 [C,B,]/4 [C,A,]/ [G,C,]/ | [F,,A,]3 | %17
+V:5
+ x | x4 | x4 | x4 | x4 | x4 | x4 |$ x2 C, C, | x4 | x4 | x5/2 [F,A,]3/4 x/4 | B, x3 |$ C3 x | x4 | C2 x2 | x4 | x3 | %17

@@ -1,0 +1,59 @@
+X:1
+T:JEWETT
+C:Carl Maria von Weber, 1821
+Z:Arrangement: Hubert P. Main (1839–1925)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-05-30 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Hymnbook (Richmond, Virginia: Presbyterian Church in the United States, 1955), # 367.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=108
+K:Eb
+V:1 clef=treble stem=up
+[M:4/4] B/2 G/4 (E/8G/8) | F3/8 (A/16G/16) A/2 | \
+w:A1 A2 A3_ A4 A5_ A6
+G/2 E/4 (G/8B/8) | B3/8 A/8 G/2 | \
+w:B1 B2 B3_ B4 B5 B6
+e/2 c/4 (A/8c/8) | B3/8 B/8 G/4 \
+w:C1 C2 C3_ C4 C5 C6
+(E/8G/8) | (B/8A/8) F/4 (A/8G/8) E/4 | (F/2 B/2) | \
+w:D1_ D2_ D3 D4_ D5 D6_
+B/2 G/4 (E/8G/8) | F3/8 (A/16G/16) F/2 | \
+w:E1 E2 E3_ E4 E5_ E6
+G/2 E/4 (G/8B/8) | B3/8 =B/8 c/2 | \
+w:F1 F2 F3_ F4 F5 F6
+e/2 c/4 (A/8c/8) | B3/8 B/8 G/4 \
+w:G1 G2 G3_ G4 G5 G6
+(E/8G/8) | B3/8 E/8 G/4 F/4 | E |]
+w:H1_ H2 H3 H4 H5 H6
+V:2 clef=treble stem=down
+G/2 E/4 E/4 | D3/8 D/8 F/2 | \
+E/2 x/4(E/8G/8) | G3/8 F/8 E/2 | \
+A/2 (A/8E/8) (E/8A/8) | G3/8 G/8 E/4 \
+E/4 | (G/8F/8) D/4 (F/8E/8) x/4| D | \
+G/2 E/4 E/4 | D3/8 D/8 D/2 | \
+E/2 (B,/8E/8) (E/8G/8) | G3/8 G/8 A/2 | \
+E/2 (A/8E/8) (E/8A/8) | G3/8 G/8 E/4 \
+E/4 | G3/8 E/8 E/4 D/4 | E |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,/2 (E/8B,/8) (G,/8B,/8) | B,3/8 B,/8 B,/2 | \
+B,/2 G,/4 B,/4 | B,3/8 D/8 E/2 | \
+C/2 (E/8A,/8) (C/8E/8) | E3/8 E/8 B,/4 \
+(G,/8B,/8) | B,/4 B,/4 B,/4 (G,/8=A,/8) | B, | \
+B,/2 (E/8B,/8) (G,/8B,/8) | B,3/8 B,/8 B,/2 | \
+B,/2 (G,/8B,/8) (B,/8_D/8) | _D3/8 D/8 C/2 | \
+C/2 (E/8A,/8) (C/8E/8) | E3/8 E/8 B,/4 \
+(G,/8B,/8) | E3/8 G,/8 B,/4 A,/4 | G, |]
+V:4 clef=bass stem=down
+E,/2 E,/4 E,/4 | B,,3/8 B,,/8 B,,/2 | \
+E,/2 E,/4 E,/4 | B,,3/8 B,,/8 E,/2 | \
+E,/2 E,/4 E,/4 | E,3/8 E,/8 E,/4 \
+E,/4 | B,,/4 B,,/4 E,/4 (E,/8C,/8) | B,, | \
+E,/2 E,/4 E,/4 | B,,3/8 B,,/8 B,,/2 | \
+E,/2 E,/4 E,/4 | E,3/8 E,/8 A,/2 | \
+A,/2 A,,/4 A,,/4 | E,3/8 E,/8 E,/4 \
+E,/4 | B,,3/8 B,,/8 B,,/4 B,,/4 | E, |]
+
