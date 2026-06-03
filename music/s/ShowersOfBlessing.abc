@@ -1,0 +1,62 @@
+X:1
+T:There Shall Be Showers of Blessing
+C:James McGranahan (1840-1907)
+Z:Public Domain
+I:score (1 2) (3 4)
+L:1/4
+M:6/8
+I:linebreak $
+K:Bb
+V:1
+[DF]/ [DF]/ [DF]/ [EF]/ [EG]/ [EA]/ | [DB]3/2 [DF]3/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+[FA]/ [FA]/ [FA]/ [EA]/ [EB]/ [Ec]/ | [DB]3 | \
+w:B1 B2 B3 B4 B5 B6 B7
+[EG]/ [EG]/ [EG]/ [GB]/ [FA]/ [EG]/ | [DF]3/2 [FB]3/2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+[GB]/ [GB]/ [GB]/ [GB]/ [^FA]/ [GB]/ | [Ac]3 || \
+w:D1 D2 D3 D4 D5 D6 D7
+d3/2- [Fd]/ [=E^c]/ [_Fd]/ | [DB]3/2 [DF]3/2 | \
+w:E1_ E2 E3 E4 E5
+[Fd]/ [Ec]/ [DB]/ [FB]/ [EA]/ [DB]/ | [Fc]3 | \
+w:F1 F2 F3 F4 F5 F6 F7
+[Fd]/ [Fd]/ [Fd]/ [Ec]/ [EB]/ [EG]/ | [DF]3/2 B3/2 | \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+[EA]/ [EA]/ [EA]/ [EA]/ [EB]/ [Ec]/ | [DB]3 |] %16
+w:H1 H2 H3 H4 H5 H6 H7
+V:2
+x3 | x3 | \
+x3 | x3 | \
+x3 | x3 | \
+x3 | x3 || \
+B/ F/ F/ x3/2 | x3 | \
+x3 | x3 | \
+x3 | x3/2 (D F/) | \
+x3 | x3 |] %16
+V:3
+I:pos vocal above
+[B,,B,]/ [B,,B,]/ [B,,B,]/ [F,A,]/ [F,B,]/ [F,C]/ | [B,,B,]3/2 (B, D/) | \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9
+[F,C]/ [F,C]/ [F,C]/ [F,C]/ [F,G,]/ [F,A,]/ | [B,,B,]3 | \
+w:b1 b2 b3 b4 b5 b6 b7
+[E,B,]/ [E,B,]/ [E,B,]/ [E,B,]/ [E,B,]/ [E,B,]/ | [B,,B,]3/2 [D,B,]3/2 | \
+w:c1 c2 c3 c4 c5 c6 c7 c8
+[G,D]/ [G,D]/ [G,D]/ [D,D]/ [D,D]/ [G,D]/ | [F,E]3 || \
+w:d1 d2 d3 d4 d5 d6 d7
+D/B,/ [B,,B,]/ [B,,B,]/ [B,,B,]/ [B,,B,]/ | [B,,F,]3/2 [B,,B,]3/2 | \
+w:e1_ e2 e3 e4 e5 e6 e7
+[B,,B,]/ [B,,F,]/ [B,,F,]/ [D,F,]/ [C,F,]/ [B,,F,]/ | [F,A,]3 | \
+w:f1 f2 f3 f4 f5 f6 f7
+[B,,_A,]/ [B,,A,]/ [B,,A,]/ [E,G,]/ [E,G,]/ [E,B,]/ | [B,,B,]3/2 (F,/ B,/ D/) | \
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10
+[F,C]/ [F,C]/ [F,C]/ [F,C]/ [F,G,]/ [F,A,]/ | [B,,F,B,]3 |] %16
+w:h1 h2 h3 h4 h5 h6 h7
+V:4
+x3 | x3/2 B,,3/2 | \
+x3 | x3 | \
+x3 | x3 | \
+x3 | x3 || \
+B,, x2 | x3 | \
+x3 | x3 | \
+x3 | x3/2 B,,3/2 | \
+x3 | x3 |] %16

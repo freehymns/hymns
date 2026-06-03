@@ -1,0 +1,35 @@
+X:1
+T:Safe in the Arms of Jesus
+C:William Howard Doane (1832–1915)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-02 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Gospel Hymns Nos. 1 to 6 Complete, by Ira D. Sankey et al. (Chicago, Illinois: Biglow & Main, 1894), # 6. Also in Songs of Devotion, edited by W. Howard Doane (New York and Chicago, Illinois: Biglow & Main, 1870), # 559, and in Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 246.
+Z:Corrections:E2, H6 (timing)
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:G
+V:1 clef=treble stem=up
+[M:4/4] B/4 A3/16 G/16 D/4 G/4 | (B3/8 c/8) B/2 | d/4 e3/16 d/16 B/4 G/4 | A | B/4 A3/16 G/16 D/4 G/4 | (B3/8 c/8) d/2 | (d/8c/8) B/8 A/8 G/4 F/4 | G | A/4 A3/16 B/16 A/4 A/4 | A/2 d/2 | ^c/4 c3/16 c/16 B/4 A/4 | (A/2 d/2) | A/4 A3/16 B/16 A/4 d/4 | d/2 B/2 | A/4 ^c3/16 d/16 e/4 c/4 | d/2 c/2 || B/4 A3/16 G/16 D/4 G/4 | (B3/8 c/8) B/2 | d/4 e3/16 d/16 B/4 G/4 | A | B/4 A3/16 G/16 D/4 G/4 | (B3/8 c/8) d/2 | (d/8c/8) B/8 A/8 G/4 F/4 | G |]
+w:A1 A2 A3 A4 A5 A6_ A7
++:B1 B2 B3 B4 B5 B6
++:C1 C2 C3 C4 C5 C6_ C7
++:D1_ D2 D3 D4 D5 D6
++:E1 E2 E3 E4 E5 E6 E7
++:F1 F2 F3 F4 F5 F6_
++:G1 G2 G3 G4 G5 G6 G7
++:H1 H2 H3 H4 H5 H6_
++:I1 I2 I3 I4 I5 I6_ I7
++:J1 J2 J3 J4 J5 J6
++:K1 K2 K3 K4 K5 K6_ K7
++:L1_ L2 L3 L4 L5 L6
+V:2 clef=treble stem=down
+D/4 D3/16 D/16 D/4 D/4 | G/2 G/2 | G/4 G3/16 G/16 G/4 G/4 | F | D/4 D3/16 D/16 D/4 D/4 | G/2 =F/2 | E/4 E/8 E/8 D/4 D/4 | D | F/4 F3/16 G/16 F/4 F/4 | F/2 F/2 | E/4 G3/16 G/16 G/4 G/4 | F | F/4 F3/16 G/16 F/4 F/4 | G/2 G/2 | F/4 E3/16 F/16 G/4 E/4 | (F/4 G/4 A/2) || D/4 D3/16 D/16 D/4D/4 | G/2 G/2 | G/4 G3/16 G/16 G/4 G/4 | F | D/4 D3/16 D/16 D/4 D/4 | G/2 =F/2 | E/4 E/8 E/8 D/4 D/4 | D |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] D/4 C3/16 B,/16 B,/4 B,/4 | (D3/8 E/8) D/2 | B,/4 C3/16 B,/16 D/4 D/4 | D | D/4 C3/16 B,/16 B,/4 B,/4 | D/2 G,/2 | (G,/8A,/8) D/8 C/8 B,/4 (A,/8C/8) | B, | D/4 D3/16 D/16 D/4 D/4 | D/2 A,/2 | A,/4 E3/16 E/16 D/4 ^C/4 | (D/2 A,/2) | D/4 D3/16 D/16 D/4 C/4 | B,/2 D/2 | D/4 A,3/16 A,/16 A,/4 A,/4 | A,/2 D/2 || D/4 C3/16 B,/16 B,/4 B,/4 | (D3/8 E/8) D/2 | B,/4 C3/16 B,/16 D/4 D/4 | D | D/4 C3/16 B,/16 B,/4 B,/4 | D/2 G,/2 | (G,/8A,/8) D/8 C/8 B,/4 (A,/8C/8) | B, |]
+V:4 clef=bass stem=down
+G,/4 G,3/16 G,/16 G,/4 G,/4 | G,/2 G,/2 | G,/4 G,3/16 G,/16 G,/4 B,,/4 | D, | G,/4 G,3/16 G,/16 G,/4 G,/4 | G,/2 B,,/2 | C,/4 C,/8 C,/8 D,/4 D,/4 | G,, | D,/4 D,3/16 D,/16 D,/4 D,/4 | D,/2 D,/2 | A,/4 A,3/16 A,/16 A,/4 A,/4 | D, | D,/4 D,3/16 D,/16 D,/4 D,/4 | G,/2 G,/2 | A,/4 A,3/16 A,/16 A,,/4 A,,/4 | (D,/4 E,/4 F,/2) || G,/4 G,3/16 G,/16 G,/4 G,/4 | G,/2 G,/2 | G,/4 G,3/16 G,/16 G,/4 B,,/4 | D, | G,/4 G,3/16 G,/16 G,/4 G,/4 | G,/2 B,,/2 | C,/4 C,/8 C,/8 D,/4 D,/4 | [G,,G,] |]
+

@@ -1,0 +1,58 @@
+X:1
+T:Shall We Gather at the River?
+C:Robert Lowry, 1864
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-02 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Baptist Hymnal, edited by Walter H. Sims (Nashville, Tennessee: Convention Press, 1956), # 496. Also in The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 434.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:D
+V:1 clef=treble stem=up
+[M:4/4] F/4 F/4 F3/16 E/16 F3/16 G/16 | A/2 F/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+G/4 G/4 G3/16 A/16 G3/16 F/16 | (E/2 A/2) | \
+w:B1 B2 B3 B4 B5 B6 B7_
+F/4 F/4 F3/16 E/16 F3/16 G/16 | A/2 F/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+F/8 G/8 | E/4 (E/8F/8) G/4 (F/8E/8) | D || \
+w:D1 D2 D3 D4_ D5 D6_ D7
+B/4 B/4 d3/16 c/16 d3/16 B/16 | A/2 F3/8 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+F/8 | G3/16 F/16 G3/16 F/16 G3/16 F/16 (G/8E/8) | F/2 A/2 | \
+w:F1 F2 F3 F4 F5 F6 F7 F8_ F9 F10
+B3/16 B/16 B3/16 B/16 | (d3/16c/16) d3/16 B/16 | A/2 F/4 \
+w:G1 G2 G3 G4 G5_ G6 G7 G8 G9
+F/4 | E/4 E3/16 F/16 G/4 (F/8E/8) | D |]
+w:H1 H2 H3 H4 H5 H6_ H7
+V:2 clef=treble stem=down
+D/4 D/4 D3/16 D/16 D3/16 E/16 | F/2 D/2 | \
+E/4 E/4 E3/16 F/16 E3/16 D/16 | C | \
+D/4 D/4 D3/16 D/16 D3/16 E/16 | F/2 D/4 \
+D/8 E/8 | C/4 (C/8D/8) E/4 (D/8C/8) | D || \
+G/4 G/4 G3/16 G/16 G3/16 G/16 | F/2 D3/8 \
+D/8 | E3/16 ^D/16 E3/16 D/16 E3/16 D/16 (E/8C/8) | D/2 F/2 | \
+G3/16 G/16 G3/16 G/16 | G/4 G3/16 G/16 | F/2 D/4 \
+D/4 | C/4 C3/16 D/16 E/4 (D/8C/8) | D |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,/4 A,/4 A,3/16 A,/16 A,3/16 A,/16 | D/2 A,/2 | \
+A,/4 A,/4 A,3/16 A,/16 A,3/16 A,/16 | A, | \
+A,/4 A,/4 A,3/16 A,/16 A,3/16 A,/16 | D/2 A,/4 \
+A,/8 A,/8 | A,/4 A,/4 A,/4 (A,/8G,/8) | F, || \
+D/4 D/4 B,3/16 ^A,/16 B,3/16 D/16 | D/2 A,3/8 \
+A,/8 | A,3/16 A,/16 A,3/16 A,/16 A,3/16 A,/16 A,/4 | A,/2 D/2 | \
+D3/16 D/16 D3/16 D/16 | (B,3/16^A,/16) B,3/16 D/16 | D/2 A,/4 \
+A,/4 | A,/4 A,3/16 A,/16 A,/4 (A,/8G,/8) | F, |]
+V:4 clef=bass stem=down
+D,/4 D,/4 D,3/16 D,/16 D,3/16 D,/16 | D,/2 D,/2 | \
+A,,/4 A,,/4 A,,3/16 A,,/16 A,,3/16 A,,/16 | A,, | \
+D,/4 D,/4 D,3/16 D,/16 D,3/16 D,/16 | D,/2 D,/4 \
+D,/8 D,/8 | A,,/4 A,,/4 A,,/4 A,,/4 | D, || \
+G,/4 G,/4 G,3/16 G,/16 G,3/16 G,/16 | D,/2 D,3/8 \
+D,/8 | A,,3/16 A,,/16 A,,3/16 A,,/16 A,,3/16 A,,/16 A,,/4 | D,/2 D,/2 | \
+G,3/16 G,/16 G,3/16 G,/16 | G,/4 G,3/16 G,/16 | D,/2 D,/4 \
+D,/4 | A,,/4 A,,3/16 A,,/16 A,,/4 A,,/4 | D, |]
+

@@ -1,0 +1,73 @@
+X:1
+T:Since I Have Been Redeemed
+C:Edwin Othello Excell (1851–1921)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-02 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 108. Also in Tabernacle Hymns Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 218.
+Z:Corrections:b6 (third note), G5, G6, H2 (fourth note)
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=105
+K:G
+V:1 clef=treble stem=up
+[M:4/4] D/4 | G3/8 A/8 (B/8c/8) (d/8e/8) | d/4 c/4 B/4 \
+w:A1 A2 A3 A4_ A5_ A6 A7 A8
+G/4 | B3/8 B/8 A/4 G/4 | d3/4 \
+w:B1 B2 B3 B4 B5 B6
+D/4 | G3/8 A/8 (B/8c/8) (d/8e/8) | d/4 c/4 B/4 \
+w:C1 C2 C3 C4_ C5_ C6 C7 C8
+A/4 | G3/8 G/8 A/4 F/4 | G3/4 || \
+w:D1 D2 D3 D4 D5 D6
+(B/8c/8) | d/2- d/8 d/8 B/8 G/8 | d3/4 \
+w:E1_ E2_ E3 E4 E5 E6
+(A/8B/8) | c/8 c/8 c/8 c/8 c/4 \
+w:F1_ F2 F3 F4 F5 F6
+E/8 F/8 | G/8 G/8 A/8 A/8 B/4 \
+w:G1 G2 G3 G4 G5 G6 G7
+(B/8c/8) | d/2- d/8 d/8 B/8 G/8 | d3/4 \
+w:H1_ H2_ H3 H4 H5 H6
+A/8 B/8 | d/8 c/8 B/8 A/8 G/4 F/4 | G3/4 |]
+w:I1 I2 I3 I4 I5 I6 I7 I8 I9
+V:2 clef=treble stem=down
+D/4 | D3/8 D/8 (G/8A/8) (B/8c/8) | B/4 A/4 G/4 \
+G/4 | G3/8 G/8 D/4 D/4 | (F/4 G/4 A/4) \
+x/4| D3/8 D/8 (G/8A/8) (B/8c/8) | B/4 A/4 G/4 \
+E/4 | D3/8 D/8 D/4 D/4 | D3/4 || \
+(G/8A/8) | (B/8B/8G/8A/8 B/4) G/4 | (F/8F/8A/8G/8 F/4) \
+(F/8G/8) | A/8 G/8 F/8 E/8 D/4 \
+x/8D/8 | D/8 D/8 D/8 D/8 G/4 \
+(G/8A/8) | (B/8B/8G/8A/8 B/4) G/4 | (F/8F/8A/8G/8 F/4) \
+F/8 G/8 | F/8 E/8 D/8 D/8 D/4 D/4 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] B,/4 | B,3/8 C/8 D/4 D/4 | D/4 D/4 D/4 \
+w:a1 a2 a3 a4 a5 a6 a7 a8
+B,/4 | D3/8 D/8 C/4 B,/4 | (A,/4 B,/4 C/4) \
+w:b1 b2 b3 b4 b5 b6 b7 b8
+C/4 | B,3/8 C/8 D/4 D/4 | D/4 D/4 D/4 \
+w:c1 c2 c3 c4 c5 c6 c7 c8
+C/4 | B,3/8 B,/8 C/4 C/4 | B,3/4 || \
+w:d1 d2 d3 d4 d5 d6
+D/4 | D/8 D/8 B,/8 C/8 D/4 (D/8B,/8) | A,/8 A,/8 C/8 B,/8 A,/4 \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12 e13
+D/4 | D/8 D/8 D/8 D/8 D/4 \
+w:f1 f2 f3 f4 f5 f6
+C/8 C/8 | B,/8 B,/8 C/8 C/8 D/4 \
+w:g1 g2 g3 g4 g5 g6 g7
+D/4 | D/8 D/8 B,/8 C/8 D/4 (D/8B,/8) | A,/8 A,/8 C/8 B,/8 A,/4 \
+w:h1 h2 h3 h4 h5 h6 h7 h8 h9 h10 h11 h12 h13
+D/8 D/8 | D/8 D/8 D/8 C/8 B,/4 (A,/8C/8) | B,3/4 |]
+w:i1 i2 i3 i4 i5 i6 i7 i8 i9 i10
+V:4 clef=bass stem=down
+G,/4 | G,3/8 G,/8 G,/4 G,/4 | G,/4 D,/4 D,/4 \
+G,/4 | G,3/8 G,/8 G,/4 G,/4 | D,3/4 \
+D,/4 | G,3/8 G,/8 G,/4 G,/4 | D,/4 D,/4 G,/4 \
+C,/4 | D,3/8 D,/8 D,/4 D,/4 | G,3/4 || \
+G,/4 | G,/8 G,/8 G,/8 G,/8 G,/4 G,/4 | D,/8 D,/8 D,/8 D,/8 D,/4 \
+D,/4 | D,/8 D,/8 D,/8 D,/8 D,/4 \
+D,/8 D,/8 | G,/8 G,/8 G,/8 G,/8 G,/4 \
+G,/4 | G,/8 G,/8 G,/8 G,/8 G,/4 G,/4 | D,/8 D,/8 D,/8 D,/8 D,/4 \
+D,/8 D,/8 | D,/8 D,/8 D,/8 D,/8 D,/4 D,/4 | [G,,G,]3/4 |]
+

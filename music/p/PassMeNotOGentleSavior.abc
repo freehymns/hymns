@@ -1,0 +1,58 @@
+X:1
+T:Pass Me Not, O Gentle Savior
+C:William Howard Doane, 1870
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-01 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The United Methodist Hymnal (Nashville, Tennessee: United Methodist Publishing House, 1989), # 350.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=107
+K:Ab
+V:1 clef=treble stem=up
+[M:4/4] c3/8 B/8 A3/16 G/16 A3/16 F/16 | E/2 A/2 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+B3/8 B/8 A/4 B/4 | c | \
+w:B1 B2 B3 B4 B5
+c3/8 B/8 A3/16 G/16 A3/16 F/16 | E/2 A/2 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+B3/8 A/8 c/4 B/4 | A || \
+w:D1 D2 D3 D4 D5
+e/2 c/2 | (B3/8 A/8) \
+w:E1 E2 E3 E4
+F/2 | E/4 A/4 c/4 A/4 | \
+w:F1 F2 F3 F4 F5
+B | c3/8 B/8 A3/16 G/16 A3/16 F/16 | E/2 \
+w:G1 G2 G3 G4 G5 G6 G7 G8
+A/2 | B3/8 A/8 c/4 B/4 | A |]
+w:H1 H2 H3 H4 H5
+V:2 clef=treble stem=down
+E3/8 E/8 F3/16 =E/16 F3/16 D/16 | C/2 E/2 | \
+E3/8 E/8 E/4 E/4 | E | \
+E3/8 E/8 F3/16 =E/16 F3/16 D/16 | C/2 E/2 | \
+E3/8 E/8 E/4 D/4 | C || \
+A/2 A/2 | F/2 \
+D/2 | C/4 C/4 E/4 E/4 | \
+E | E3/8 E/8 F3/16 =E/16 F3/16 D/16 | C/2 \
+E/2 | E3/8 E/8 E/4 D/4 | C |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,3/8 A,/8 A,3/16 A,/16 D3/16 A,/16 | A,/2 C/2 | \
+D3/8 D/8 C/4 G,/4 | A, | \
+A,3/8 A,/8 A,3/16 A,/16 D3/16 A,/16 | A,/2 C/2 | \
+D3/8 C/8 A,/4 G,/4 | A, || \
+C/2 E/2 | D/2 \
+A,/2 | A,/4 A,/4 A,/4 A,/4 | \
+G, | A,3/8 A,/8 A,3/16 A,/16 D3/16 A,/16 | A,/2 \
+C/2 | D3/8 C/8 A,/4 G,/4 | A, |]
+V:4 clef=bass stem=down
+A,,3/8 C,/8 D,3/16 D,/16 D,3/16 D,/16 | A,,/2 A,,/2 | \
+E,3/8 E,/8 E,/4 E,/4 | A,, | \
+A,,3/8 C,/8 D,3/16 D,/16 D,3/16 D,/16 | A,,/2 A,,/2 | \
+E,3/8 E,/8 E,/4 E,/4 | A,, || \
+A,/2 A,/2 | D,/2 \
+D,/2 | A,,/4 A,,/4 A,,/4 C,/4 | \
+E, | A,,3/8 C,/8 D,3/16 D,/16 D,3/16 D,/16 | A,,/2 \
+A,,/2 | E,3/8 E,/8 E,/4 E,/4 | A,, |]
+

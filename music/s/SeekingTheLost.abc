@@ -1,0 +1,42 @@
+X:1
+T:Seeking the Lost Ogden
+C:William Augustine Ogden, 1886
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-02 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Victorious Service Songs, by Homer A. Rodeheaver & Charles H. Gabriel Chicago, Illinois: Rodeheaver Company, 1925, # 29.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:9/8
+Q:1/4=115
+K:Bb
+V:1 clef=treble stem=up
+[M:9/8] F/8 =E/8 F/8 | B3/8 B3/8 d/8 c/8 B/8 | G3/8 G3/8 B/8 A/8 G/8 | F3/8 F3/8 B/8 c/8 d/8 | c3/4 c/8 =B/8 c/8 | e3/8 e3/8 d/8 ^c/8 d/8 | f3/8 d3/8 B/8 A/8 G/8 | F3/8 d3/8 c/8 B/8 c/8 | B3/4 || [M:12/8] z3/8 | z3/8 G/8 G/8 G/8 G/4 z/8 z3/8 | z/4 F/8 F/4 F/8 F/4 F/8 z3/8 | z3/8 F/8 F/8 F/8 F/4 F/8 F/4 F/8 | F3/8 F/4 F/8 F3/8 z3/8 | z3/8 G/8 G/8 G/8 G/4 z/8 z3/8 | z/4 F/8 F/4 F/8 F/4 F/8 z3/8 | z3/8 F/8 F/8 F/8 F/4 F/8 F/4 F/8 | D/4 D/8 E/4 E/8 D3/8 |]
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
++:B1 B2 B3 B4 B5 B6 B7 B8 B9
++:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
++:D1 D2 D3 D4 D5 D6 D7 D8 D9
++:E1 E2 E3 E4
++:F1 F2 F3 F4 F5
++:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11
++:H1 H2 H3 H4
++:I1 I2 I3 I4 I5
++:J1 J2 J3 J4 J5 J6 J7 J8 J9 J10 J11 J12
+V:2 clef=treble stem=down
+D/8 ^C/8 D/8 | D3/8 D3/8 F/8 F/8 F/8 | E3/8 E3/8 G/8 F/8 E/8 | D3/8 D3/8 F/8 F/8 F/8 | F3/4 F/8 F/8 F/8 | F3/8 F3/8 F/8 =E/8 F/8 | F3/8 F3/8 G/8 F/8 E/8 | D3/8 F3/8 E/8 D/8 E/8 | D3/4 || x3/8| x3/8E/8 E/8 E/8 E/4 x/8 x3/8| x/4D/8 D/4 D/8 D/4 D/8 x3/8| x3/8E/8 E/8 E/8 E/4 E/8 C/8B,/8 A,/8 | B,3/8 B,/4 B,/8 B,3/8 x3/8| x3/8E/8 E/8 E/8 E/4 x/8 x3/8| x/4D/8 D/4 D/8 D/4 D/8 x3/8| x3/8E/8 E/8 E/8 E/4 E/8 C/8B,/8 A,/8 | B,/4 B,/8 B,/4 B,/8 B,3/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:9/8] B,/8 B,/8 B,/8 | F,3/8 F,3/8 B,/8 A,/8 B,/8 | B,3/8 B,3/8 B,/8 B,/8 B,/8 | B,3/8 B,3/8 B,/8 A,/8 B,/8 | A,3/4 A,/8 ^G,/8 A,/8 | C3/8 C3/8 B,/8 B,/8 B,/8 | D3/8 B,3/8 B,/8 B,/8 B,/8 | B,3/8 F,3/8 F,/8 F,/8 F,/8 | F,3/4 || [M:12/8] B,,/8 C,/8 D,/8 | [I:pos stem down] E,3/4- E,/4 [I:pos stem up] E,/8 E,/8F,/8 G,/8 | B,3/8 B,/4 B,/8 B,/4 B,/8 D,/8 C,/8 B,,/8 | [I:pos stem down]F,3/4- F,/8 G,/8 [I:pos stem up] A,/8 F,/4 F,/8 | F,3/8 F,/4 F,/8 F,3/8 B,,/8 C,/8 D,/8 | [I:pos stem down] E,3/4- E,/4 [I:pos stem up] E,/8 E,/8F,/8 G,/8 | B,3/8 B,/4 B,/8 B,/4 B,/8 D,/8 C,/8 B,,/8 | [I:pos stem down]F,3/4- F,/8 G,/8 [I:pos stem up] A,/8 F,/4 F,/8 | F,/4 F,/8 G,/4 G,/8 F,3/8 |]
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10
++:b1 b2 b3 b4 b5 b6 b7 b8 b9
++:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10
++:d1 d2 d3 d4 d5 d6 d7 d8 d9
++:e1 e2 e3 e4_
++:f1 f2_ f3 f4 f5 f6 f7 f8
++:g1 g2 g3 g4_ g5 g6 g7 g8 g9 g10 g11 g12
++:h1 h2 h3 h4_
++:i1 i2_ i3 i4 i5 i6 i7 i8
++:j1 j2 j3 j4__ j5 j6 j7 j8 j9 j10 j11 j12
+V:4 clef=bass stem=down
+B,,/8 B,,/8 B,,/8 | B,,3/8 B,,3/8 B,,/8 C,/8 D,/8 | E,3/8 E,3/8 E,/8 E,/8 E,/8 | B,,3/8 B,,3/8 D,/8 C,/8 B,,/8 | F,3/4 F,/8 F,/8 F,/8 | F,3/8 F,3/8 B,,/8 B,,/8 B,,/8 | B,,3/8 B,,3/8 E,/8 E,/8 E,/8 | F,3/8 F,3/8 F,/8 F,/8 F,/8 | B,,3/4 || x/8 x/8 x/8| x3/8 B,/8B,/8B,/8 [I:pos stem up]B,/4[I:pos stem down] x/8 x/8 x/8 x/8| x/4 B,/8 B,,3/8- B,,/4 x/8 x/8 x/8 x/8| x3/8 [I:pos stem up] A,/8A,/8A,/8 A,/4 [I:pos stem down] F,/8 E,/8D,/8 C,/8 | D,3/4- D,3/8 x/8 x/8 x/8| x3/8 B,/8B,/8B,/8 [I:pos stem up]B,/4[I:pos stem down] x/8 x/8 x/8 x/8| x/4 B,/8 B,,3/8- B,,/4 x/8 x/8 x/8 x/8| x3/8 [I:pos stem up] A,/8A,/8A,/8 A,/4 [I:pos stem down] F,/8 E,/8D,/8 C,/8 | B,,3/4- B,,3/8 |]
+

@@ -1,0 +1,66 @@
+X:1
+T:Still Sweeter Every Day
+C:Charles Austin Miles (1868–1946)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-03 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing, 1950), # 30.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=95
+K:Bb
+V:1 clef=treble stem=up
+[M:4/4] F/8 | d3/16 d/16 d3/16 c/16 B3/16 B/16 A3/16 B/16 | c3/16 B/16 G3/16 B/16 F3/8 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12 A13 A14
+F/8 | d3/16 d/16 d3/16 c/16 B3/16 B/16 A3/16 B/16 | c3/16 c/16 c3/16 d/16 c3/8 \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12 B13 B14
+F/8 | d3/16 d/16 d3/16 c/16 B3/16 B/16 A3/16 B/16 | c3/16 B/16 G3/16 B/16 F3/8 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12 C13 C14
+F/8 | G3/16 G/16 A3/16 A/16 B3/16 B/16 c3/16 c/16 | [M:2/4] d3/16 c/16 B3/16 A/16 | [M:4/4] B3/4 || \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14
+F/4 | d/2- d3/16 F/16 B3/16 A/16 | G/4 G/2 \
+w:E1 E2_ E3 E4 E5 E6 E7
+G/4 | c/2- c3/16 G/16 c3/16 B/16 | A3/4 \
+w:F1 F2_ F3 F4 F5 F6
+F/4 | d/2- | d3/16 c/16 B3/16 A/16 | c/4 B/4 \
+w:G1 G2_ G3 G4 G5 G6 G7
+A/4 G/4 | F/8 B3/8 B/4 A/4 | B3/4 z/8 |]
+w:H1 H2 H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+F/8 | F3/16 F/16 F3/16 E/16 D3/16 D/16 D3/16 D/16 | E3/16 E/16 E3/16 E/16 D3/8 \
+D/8 | F3/16 F/16 F3/16 E/16 D3/16 D/16 D3/16 D/16 | F3/16 F/16 =E3/16 E/16 F3/8 \
+x/8| F3/16 F/16 F3/16 E/16 D3/16 D/16 D3/16 D/16 | E3/16 E/16 E3/16 E/16 D3/8 \
+D/8 | E3/16 E/16 E3/16 E/16 F3/16 F/16 G3/16 G/16 | F3/16 E/16 D3/16 C/16 | D3/4 || \
+F/4 | (D3/16D/16D3/16D/16D3/16) D/16 D3/16 D/16 | (E3/16E/16) (E3/16E/16 E/4) \
+E/4 | (=E3/16E/16E3/16E/16E3/16) E/16 E3/16 E/16 | (F3/16F/16F3/16F/16 F/4) \
+x/4| (F3/16F/16F3/16F/16 | F3/16) E/16 D3/16 D/16 | (E3/16E/16) (E3/16E/16) \
+F/4 (E/8E/8) | D/8 F3/8 E/4 E/4 | D3/4 x/8|]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] F,/8 | B,3/16 B,/16 B,3/16 B,/16 F,3/16 F,/16 F,3/16 F,/16 | G,3/16 G,/16 B,3/16 G,/16 B,3/8 \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13 a14
+B,/8 | B,3/16 B,/16 B,3/16 B,/16 F,3/16 F,/16 F,3/16 F,/16 | A,3/16 A,/16 G,3/16 B,/16 A,3/8 \
+w:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12 b13 b14
+A,/8 | B,3/16 B,/16 B,3/16 B,/16 F,3/16 F,/16 F,3/16 F,/16 | G,3/16 G,/16 B,3/16 G,/16 B,3/8 \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 c12 c13 c14
+B,/8 | B,3/16 B,/16 F,3/16 F,/16 B,3/16 B,/16 B,3/16 B,/16 | [M:2/4] B,3/16 A,/16 F,3/16 F,/16 | [M:4/4] F,3/4 || \
+w:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14
+F,/4 | F,3/16 F,/16 F,3/16 F,/16 F,3/16 B,/16 B,3/16 B,/16 | B,3/16 B,/16 B,3/16 B,/16 B,/4 \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12 e13 e14
+B,/4 | C3/16 G,/16 G,3/16 G,/16 G,3/16 C/16 C3/16 C/16 | C3/16 C/16 C3/16 C/16 C/4 \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 f13 f14
+A,/4 | B,3/16 B,/16 B,3/16 B,/16 | B,3/16 B,/16 F,3/16 F,/16 | G,3/16 G,/16 G,3/16 G,/16 \
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10 g11 g12 g13
+A,/4 B,/8 B,/8 | B,/8 D3/8 C/4 F,/4 | F,3/4 z/8 |]
+w:h1 h2 h3 h4 h5 h6 h7 h8
+V:4 clef=bass stem=down
+F,/8 | B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 | E,3/16 E,/16 E,3/16 E,/16 B,,3/8 \
+B,,/8 | B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 | F,3/16 F,/16 C,3/16 C,/16 F,3/8 \
+F,/8 | B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 | E,3/16 E,/16 E,3/16 E,/16 B,,3/8 \
+B,,/8 | E,3/16 E,/16 C,3/16 C,/16 D,3/16 D,/16 E,3/16 E,/16 | F,3/16 F,/16 x3/16 x/16| B,,3/4 || \
+F,/4 | B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 B,,3/16 B,,/16 | E,3/16 E,/16 E,3/16 E,/16 E,/4 \
+E,/4 | C,3/16 C,/16 C,3/16 C,/16 C,3/16 C,/16 C,3/16 C,/16 | F,3/16 F,/16 F,3/16 F,/16 F,/4 \
+F,/4 | B,,3/16 B,,/16 B,,3/16 B,,/16 | B,,3/16 B,,/16 B,,3/16 B,,/16 | E,3/16 E,/16 E,3/16 E,/16 \
+E,/4 E,/8 E,/8 | F,/8 F,3/8 F,/4 F,/4 | B,,3/4 x/8|]
+

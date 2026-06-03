@@ -1,0 +1,54 @@
+X:1
+T:Revive Us Again
+C:John Jenkins Husband, 1815
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-01 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Crusade Songs, edited by W. Hines Sims (Nashville, Tennessee: Broadman Press, 1954), # 82. Also in Tabernacle Hymms Number Four (Chicago, Illinois: Tabernacle Publishing, 1953), # 267.
+Z:Corrections:Timing on C5-C10, e1-2, and G3-G4
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=115
+K:G
+V:1 clef=treble stem=up
+[M:3/4] D/4 | G/4 G/4 G/4 | G/2 \
+w:A1 A2 A3 A4 A5
+G/8 A/8 | B/4 B/4 B/4 | B/2 \
+w:B1 B2 B3 B4 B5 B6
+(G/8B/8) | d/4 d/4 d/4 | e/4 d/4 B/4 | B/4 A/4 A/4 | A/2 || \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12
+d3/16 d/16 | e/4 d/4 B3/16 A/16 | G/4 G/4 \
+w:D1 D2 D3 D4 D5 D6 D7 D8
+(d/8 d/8) | e/4 d/4 B/4 | A/2 \
+w:E1 E2 E3 E4 E5 E6
+d3/16 d/16 | e/4 d/4 B3/16 A/16 | G/4 G/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+B/4 | c/4 B/4 A/4 | G/2 |]
+w:G1 G2 G3 G4 G5
+V:2 clef=treble stem=down
+D/4 | D/4 D/4 D/4 | D/2 \
+D/8 D/8 | D/4 D/4 D/4 | D/2 \
+(D/8D/8) | G/4 G/4 G/4 | G/4 G/4 D/4 | G/4 F/4 F/4 | F/2 || \
+G3/16 G/16 | G/4 G/4 G3/16 D/16 | D/4 D/4 \
+(G/8 G/8) | G/4 G/4 G/4 | F/2 \
+G3/16 G/16 | G/4 G/4 G3/16 D/16 | D/4 D/4 \
+G/4 | G/4 G/4 F/4 | D/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] B,/4 | B,/4 B,/4 B,/4 | B,/2 \
+D/8 C/8 | B,/4 G,/4 G,/4 | G,/2 \
+(B,/8B,/8) | B,/4 B,/4 B,/4 | C/4 B,/4 G,/4 | D/4 D/4 D/4 | D/2 || \
+B,3/16 B,/16 | C/4 B,/4 D3/16 C/16 | B,/4 B,/4 \
+(B,/8 B,/8) | C/4 B,/4 D/4 | D/2 \
+B,3/16 B,/16 | C/4 B,/4 D3/16 C/16 | B,/4 B,/4 \
+D/4 | E/4 D/4 C/4 | B,/2 |]
+V:4 clef=bass stem=down
+G,/4 | G,/4 D,/4 B,,/4 | G,,/2 \
+B,/8 A,/8 | G,/4 D,/4 B,,/4 | G,,/2 \
+(G,/8G,/8) | G,/4 G,/4 G,/4 | G,/4 G,/4 G,/4 | D,/4 D,/4 D,/4 | D,/2 || \
+G,3/16 G,/16 | C,/4 G,/4 G,3/16 G,/16 | G,/4 G,/4 \
+(G,/8 G,/8) | C,/4 G,/4 G,/4 | D,/2 \
+G,3/16 G,/16 | C,/4 G,/4 G,3/16 G,/16 | G,/4 G,/4 \
+G,/4 | C,/4 D,/4 D,/4 | [G,,G,]/2 |]
+
