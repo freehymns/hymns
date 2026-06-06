@@ -1,0 +1,99 @@
+X:1
+T:Yesterday, Today, Forever
+C:James H. Burke (1855–1901)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-05 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Soul Stirring Songs & Hymns, by John R. Rice & Joy Rice Martin (Murfreesboro, Tennessee: Sword of the Lord Publishers, 1972), # 130.
+Z:Corrections:O1,O3
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=110
+K:Bb
+V:1 clef=treble stem=up
+[M:6/8] F/4 F/8 (F/8D/8) E/8 | B/4 c/8 d/4 B/8 | \
+w:A1 A2 A3_ A4 A5 A6 A7 A8
+G/4 B/8 A/4 G/8 | F3/4 | \
+w:B1 B2 B3 B4 B5
+F/4 F/8 (F/8D/8) F/8 | B/4 c/8 d/4 B/8 | \
+w:C1 C2 C3_ C4 C5 C6 C7 C8
+c/4 c/8 (c/8d/8) c/8 | c3/4 | \
+w:D1 D2 D3_ D4 D5
+e/4 e/8 (e/8d/8) c/8 | d/4 d/8 (d/8c/8) B/8 | \
+w:E1 E2 E3_ E4 E5 E6 E7_ E8
+G/4 B/8 A/4 G/8 | F3/4 | \
+w:F1 F2 F3 F4 F5
+F/4 F/8 (F/8D/8) F/8 | B/4 c/8 d/4 B/8 | \
+w:G1 G2 G3_ G4 G5 G6 G7 G8
+c/4 c/8 B/4 A/8 | B3/4 || \
+w:H1 H2 H3 H4 H5
+d/4 d/8 (d/8c/8) B/8 | B/4 B/8 (c/8B/8) G/8 | \
+w:I1 I2 I3_ I4 I5 I6 I7_ I8
+F/4 B/8 (B/8c/8) d/8 | c3/4 | \
+w:J1 J2 J3_ J4 J5
+d/4 d/8 (d/8c/8) B/8 | B/4 B/8 (c/8B/8) G/8 | \
+w:K1 K2 K3_ K4 K5 K6 K7_ K8
+F/4 e/8 d/4 c/8 | B3/4 | \
+w:L1 L2 L3 L4 L5
+B/4 F/8 G/4 A/8 | B3/4 | \
+w:M1 M2 M3 M4 M5
+d/4 d/8 (d/8e/8) d/8 | c3/4 | \
+w:N1 N2 N3_ N4 N5
+f/4 d/8 (d/8c/8) B/8 | B/4 B/8 B/8 e/4 | \
+w:O1 O2 O3_ O4 O5 O6 O7 O8
+d/4 B/8 c/4 A/8 | B3/4 |]
+w:P1 P2 P3 P4 P5
+V:2 clef=treble stem=down
+D/4 D/8 (D/8B,/8) C/8 | D/4 E/8 F/4 D/8 | \
+E/4 G/8 F/4 E/8 | D3/4 | \
+D/4 D/8 (D/8B,/8) D/8 | D/4 E/8 F/4 F/8 | \
+F/4 F/8 F/4 F/8 | F3/4 | \
+F/4 F/8 F/4 F/8 | F/4 F/8 (F/8E/8) D/8 | \
+E/4 G/8 F/4 =E/8 | F3/4 | \
+D/4 D/8 (D/8B,/8) D/8 | D/4 E/8 F/4 F/8 | \
+G/4 G/8 F/4 E/8 | D3/4 || \
+F/4 F/8 (F/8E/8) D/8 | G/4 G/8 G/4 E/8 | \
+D/4 D/8 (D/8E/8) F/8 | F3/4 | \
+F/4 F/8 (F/8E/8) D/8 | G/4 G/8 G/4 E/8 | \
+D/4 F/8 F/4 E/8 | D3/4 | \
+D/4 D/8 E/4 E/8 | D3/4 | \
+F/4 F/8 (F/8G/8) F/8 | F3/4 | \
+F/4 F/8 F/4 F/8 | G/4 G/8 G/8 G/4 | \
+F/4 D/8 E/4 E/8 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] F,/4 F,/8 F,/8 F,/4 | F,/4 F,/8 B,/4 B,/8 | \
+B,/4 B,/8 B,/4 B,/8 | B,3/4 | \
+B,/4 B,/8 B,/4 B,/8 | B,/4 B,/8 B,/4 B,/8 | \
+A,/4 A,/8 (A,/8B,/8) A,/8 | A,3/4 | \
+A,/4 A,/8 (A,/8B,/8) A,/8 | B,/4 B,/8 B,/4 B,/8 | \
+B,/4 B,/8 C/4 B,/8 | A,3/4 | \
+B,/4 B,/8 B,/4 B,/8 | B,/4 B,/8 B,/4 B,/8 | \
+B,/4 E/8 D/4 C/8 | B,3/4 || \
+B,/4 B,/8 B,/4 B,/8 | B,/4 B,/8 B,/4 B,/8 | \
+B,/4 B,/8 B,/4 B,/8 | A,3/4 | \
+B,/4 B,/8 B,/4 B,/8 | B,/4 B,/8 B,/4 B,/8 | \
+B,/4 A,/8 B,/4 F,/8 | F,3/4 | \
+F,/4 B,/8 B,/4 F,/8 | F,3/4 | \
+F,/4 F,/8 B,/4 B,/8 | A,3/4 | \
+B,/4 B,/8 (B,/8A,/8) B,/8 | B,/4 B,/8 B,/8 B,/4 | \
+B,/4 B,/8 A,/4 C/8 | B,3/4 |]
+V:4 clef=bass stem=down
+B,,/4 B,,/8 B,,/8 B,,/4 | B,,/4 B,,/8 B,,/4 B,,/8 | \
+E,/4 E,/8 E,/4 E,/8 | B,,3/4 | \
+B,,/4 B,,/8 B,,/4 B,,/8 | B,,/4 B,,/8 B,,/4 D,/8 | \
+F,/4 F,/8 F,/4 F,/8 | F,3/4 | \
+F,/4 F,/8 F,/4 F,/8 | B,,/4 B,,/8 B,,/4 B,,/8 | \
+E,/4 E,/8 C,/4 C,/8 | F,3/4 | \
+B,,/4 B,,/8 B,,/4 B,,/8 | B,,/4 B,,/8 B,,/4 D,/8 | \
+E,/4 E,/8 F,/4 F,/8 | B,,3/4 || \
+B,,/4 B,,/8 B,,/4 B,,/8 | E,/4 E,/8 E,/4 E,/8 | \
+B,,/4 B,,/8 B,,/4 B,,/8 | F,3/4 | \
+B,,/4 B,,/8 B,,/4 B,,/8 | E,/4 E,/8 E,/4 E,/8 | \
+F,/4 F,/8 F,/4 x/8| B,,3/4 | \
+B,,/4 B,,/8 E,/4 C,/8 | B,,3/4 | \
+B,,/4 B,,/8 B,,/4 B,,/8 | F,3/4 | \
+D,/4 B,,/8 (B,,/8C,/8) D,/8 | E,/4 E,/8 E,/8 C,/4 | \
+F,/4 F,/8 F,/4 F,/8 | B,,3/4 |]
+

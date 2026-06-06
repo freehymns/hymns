@@ -1,0 +1,31 @@
+X:1
+T:CAMPMEETING
+C:Unknown
+Z:American Camp Meeting Tune
+Z:Variant:CampMeeting
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-03 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The United Methodist Hymnal (Nashville, Tennesse: United Methodist Publishing House, 1989), # 492. Harmony by Robert G. McCutchan, 1935.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/2
+Q:1/4=165
+K:F
+V:1 clef=treble stem=up
+[M:3/2] F/2 | E/4 G/4 G/2 G/2 | F/4 A/4 A/2 A/2 | G/4 A/4 B/2 d/2 | c A/2 | c/4 B/4 B/2 G/2 | B/4 A/4 A/2 F/2 | A/4 G/4 F/2 E/2 | F |]
+w:A1 A2 A3 A4 A5 A6 A7 A8
++:B1 B2 B3 B4 B5 B6
++:C1 C2 C3 C4 C5 C6 C7 C8
++:D1 D2 D3 D4 D5 D6
+V:2 clef=treble stem=down
+C/2 | C/4 E/4 E/2 C/2 | C/4 F/4 F/2 ^F/2 | G/4 ^F/4 G/2 G/2 | G F/2 | ^F/4 G/4 G/2 E/2 | G/4 F/4 F/2 _E/2 | D/4 D/4 C/2 C/2 | C |]
+V:3 clef=bass stem=up
+[M:3/2] A,/2 | G,/4 C/4 C/2 C/2 | A,/4 C/4 C/2 D/2 | D/4 D/4 D/2 B,/2 | C C/2 | D/4 D/4 D/2 C/2 | C/4 C/4 C/2 F,/2 | F,/4 G,/4 A,/2 G,/2 | A, |]
+w:a1 a2 a3 a4 a5 a6 a7 a8
++:b1 b2 b3 b4 b5 b6
++:c1 c2 c3 c4 c5 c6 c7 c8
++:d1 d2 d3 d4 d5 d6
+V:4 clef=bass stem=down
+F,/2 | C,/4 C,/4 C,/2 E,/2 | F,/4 F,/4 F,/2 D,/2 | B,/4 A,/4 G,/2 F,/2 | E, F,/2 | D,/4 G,/4 G,/2 C,/2 | F,/4 F,/4 F,/2 A,,/2 | B,,/4 B,,/4 C,/2 C,/2 | F, |]
+

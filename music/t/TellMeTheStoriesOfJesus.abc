@@ -1,0 +1,58 @@
+X:1
+T:Tell Me the Stories of Jesus
+C:Frederic Arthur Challinor, 1903
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-03 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Baptist Hymnal, edited by Walter Hines Sims (Nashville, Tennessee: Convention Press, 1956), # 505.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=90
+K:C
+V:1 clef=treble stem=up
+[M:6/8] G/8 E/8 F/8 G/8 B/8 A/8 | G3/8 E3/8 | \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+F3/8 G/4 D/8 | E3/4 | \
+w:B1 B2 B3 B4
+G/8 E/8 F/8 G/8 B/8 A/8 | G3/8 A3/8 | \
+w:C1 C2 C3 C4 C5 C6 C7 C8
+B3/8 A/4 D/8 | G3/4 | \
+w:D1 D2 D3 D4
+d3/8 B/4 G/8 | A3/8 G3/8 | \
+w:E1 E2 E3 E4 E5
+d3/8 c/4 _B/8 | (A3/8 A3/8) | \
+w:F1 F2 F3 F4_
+e3/8 d/4 B/8 | c3/8 ^F3/8 | \
+w:G1 G2 G3 G4 G5
+G3/8 d/4 G/8 | c3/4 |]
+w:H1 H2 H3 H4
+V:2 clef=treble stem=down
+E/8 C/8 D/8 E/8 G/8 F/8 | E3/8 C3/8 | \
+B,3/8 B,/4 B,/8 | C3/4 | \
+E/8 C/8 D/8 E/8 G/8 F/8 | E3/8 E3/8 | \
+D3/8 C/4 C/8 | B,3/4 | \
+F3/8 F/4 F/8 | E3/8 E3/8 | \
+E3/8 E/4 E/8 | (E3/8 F3/8) | \
+F3/8 F/4 F/8 | E3/8 ^D3/8 | \
+E3/8 F/4 F/8 | E3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] G,3/4- | G,3/4 | \
+G,3/4- | G,3/4 | \
+G,3/4- | G,3/4 | \
+G,3/8 ^F,3/8 | G,3/4 | \
+B,3/8 D/4 B,/8 | C3/4 | \
+_B,3/8 A,/4 G,/8 | (G,3/8 F,/8G,/8A,/8) | \
+B,3/8 B,/4 D/8 | C3/8 C3/8 | \
+C3/8 B,/4 B,/8 | C3/4 |]
+V:4 clef=bass stem=down
+C,3/8 G,,3/8 | C,3/8 G,,3/8 | \
+D,3/8 G,,3/8 | C,3/4 | \
+C,3/8 G,,3/8 | C,3/8 ^C,3/8 | \
+D,3/8 D,3/8 | G,,3/4 | \
+G,3/8 G,3/8 | C,3/4 | \
+C,3/8 C,3/8 | (^C,3/8 D,3/8) | \
+G,3/8 G,/4 G,/8 | A,3/8 A,3/8 | \
+G,3/8 G,/4 G,/8 | C,3/4 |]
+

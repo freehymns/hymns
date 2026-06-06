@@ -1,0 +1,61 @@
+X:1
+T:TERRA BEATA
+C:Unknown
+Z:Description:Traditional English melody
+Z:Arrangement:Franklin Sheppard (1852–1930)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-03 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm)
+Z:Corrections:h6
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:Eb
+V:1 clef=treble stem=up
+[M:4/4] (E/8F/8) | G/4 B/4 G/4 F/4 | E3/4 \
+w:A1_ A2 A3 A4 A5 A6
+(F/8G/8) | A/4 c/4 B/4 G/4 | F3/4 \
+w:B1_ B2 B3 B4 B5 B6
+c/4 | B/4 G/4 G/4 (F/8E/8) | G/4 F/4 E/4 \
+w:C1 C2 C3 C4 C5_ C6 C7 C8
+B,/4 | (E/8F/8) G/4 B/4 (F/8G/8) | E3/4 \
+w:D1 D2_ D3 D4 D5_ D6
+B/4 | e/4 B/4 c/4 d/4 | e3/4 \
+w:E1 E2 E3 E4 E5 E6
+(e/8d/8) | c/4 e/4 d/4 c/4 | B3/4 \
+w:F1_ F2 F3 F4 F5 F6
+(c/8c/8) B/4 G/4 G/4 (F/8E/8) | G/4 F/4 E/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10
+B,/4 | (E/8F/8) G/4 B/4 (F/8G/8) | E3/4 |]
+w:H1 H2_ H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+E/4 | E/4 E/4 D/4 D/4 | E3/4 \
+E/4 | E/4 E/4 E/4 E/4 | D3/4 \
+D/4 | E/4 E/4 D/4 (D/8E/8) | D/4 D/4 E/4 \
+B,/4 | x/8 x/8E/4 D/4 D/4 | E3/4 \
+D/4 | E/4 G/4 A/4 A/4 | G3/4 \
+E/4 | E/4 E/4 E/4 E/4 | E3/4 \
+(D/8D/8) E/4 E/4 D/4 (D/8E/8) | D/4 D/4 E/4 \
+B,/4 | x/8 x/8 E/4 D/4 (D/8D/8) | E3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] (G,/8A,/8) | B,/4 G,/4 B,/4 A,/4 | G,3/4 \
+(A,/8B,/8) | C/4 A,/4 G,/4 B,/4 | B,3/4 \
+A,/4 | G,/4 B,/4 B,/4 (A,/8G,/8) | B,/4 B,/4 G,/4 \
+G,/4 | (G,/8A,/8) B,/4 B,/4 A,/4 | G,3/4 \
+(B,/8A,/8) | G,/4 B,/4 A,/4 B,/4 | B,3/4 \
+B,/4 | A,/4 C/4 B,/4 A,/4 | G,3/4 \
+(A,/8A,/8) G,/4 B,/4 B,/4 (A,/8G,/8) | B,/4 A,/4 G,/4 \
+B,/4 | (G,/8A,/8) B,/4 B,/4 (A,/8B,/8) | G,3/4 |]
+V:4 clef=bass stem=down
+E,/4 | E,/4 E,/4 B,,/4 B,,/4 | E,3/4 \
+E,/4 | E,/4 E,/4 E,/4 E,/4 | B,,3/4 \
+B,,/4 | E,/4 E,/4 B,,/4 B,,/4 | B,,/4 B,,/4 E,/4 \
+E,/4 | E,/4 E,/4 B,,/4 B,,/4 | E,3/4 \
+F,/4 | E,/4 E,/4 x/4F,/4 | E,3/4 \
+G,/4 | A,/4 A,/4 A,/4 A,/4 | E,3/4 \
+(B,,/8B,,/8) E,/4 E,/4 B,,/4 (B,,/8B,,/8) | B,,/4 B,,/4 E,/4 \
+B,,/4 | E,/4 E,/4 B,,/4 (B,,/8B,,/8) | E,3/4 |]
+

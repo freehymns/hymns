@@ -1,0 +1,58 @@
+X:1
+T:I'll Be a Friend to Jesus
+C:John Wesley Dennis, 1918
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-03 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Songs of the Cross, edited by Rufus H. Cornelius Fort Worth, Texas: R. H. Cornelius, Ft. Worth, Tex., 1924, # 307.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=100
+K:F
+V:1 clef=treble
+[I:pos stem up] F/8 A/8 G/8 | !hid!!silent!F/8 [I:pos stem down] C/8C/8C/8 D/4 [I:pos stem up] [EG]/4 | [FA]/8 [CF]/2 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
+F/8 F/8 G/8 | !hid!!silent!A/8 [I:pos stem down] F/8F/8G/8 F/4 [I:pos stem up] [FG]/4 | [E-G-]/2 [EG]/8 \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10_
+G/8 A/8 G/8 | !hid!!silent!F/8 [I:pos stem down] C/8C/8C/8 F/4 [I:pos stem up] [EG]/4 | [FA]/8 [FA]/2 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11
+F/8 A/8 A/8 | !hid!!silent!A/8 [I:pos stem down] F/8F/8F/8 F/4 [I:pos stem up] [CG]/4 | [C-F-]/2 [CF]/8 \
+w:D1 D2 D3 D4 D5 D6 D7 D8 D9 D10_
+c/8 d/8 e/8 | !hid!!silent!f/8 [I:pos stem down] A/8A/8A/8 A/4 [I:pos stem up] [Fc]/4 | [dF]/8 [Fc]/2 \
+w:E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11
+F/8 F/8 G/8 | !hid!!silent!A/8 [I:pos stem down] F/8F/8G/8 F/4 [I:pos stem up] [F=B]/4 | [E-c-]/2- [Ec]/8 | \
+w:F1 F2 F3 F4 F5 F6 F7 F8 F9 F10_
+c/8 d/8 e/8 | !hid!!silent!f/8 [I:pos stem down] A/8A/8A/8 A/4 [I:pos stem up] [Fc]/4 | [Fd]/8 [Fc]/2 \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11
+F/8 F/8 G/8 | !hid!!silent!A/8 [I:pos stem down] F/8F/8F/8 F/4 [I:pos stem up] [CG]/4 | [C-F-]/2- [CF]/8 |]
+w:H1 H2 H3 H4 H5 H6 H7 H8 H9 H10_
+V:2 clef=treble stem=up
+[M:4/4] x/8 x/8 x/8 | F3/4 x/4 | x/8 x/2 \
+x/8 x/8 x/8 | A3/4 x/4 | x/2 x/8 \
+x/8 x/8 x/8 | F3/4 x/4 | x/8 x/2 \
+x/8 x/8 x/8 | A3/4 x/4 | x/2 x/8 \
+x/8 x/8 x/8 | f3/4 x/4 | x/8 x/2 \
+x/8 x/8 x/8 | A3/4 x/4 | x/2 x/8 | \
+x/8 x/8 x/8 | f3/4 x/4 | x/8 x/2 \
+x/8 x/8 x/8 | A3/4 x/4 | x/2 x/8 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] z3/8 | z/8 A,/8A,/8A,/8 A,/4 C/4 | C/8 A,/2 \
+z3/8 | z/8 C/8C/8^C/8 D/4 =B,/4 | C/2- C/8 \
+z3/8 | z/8 A,/8A,/8A,/8 C/4 C/4 | C/8 C/2 \
+z3/8 | z/8 C/8C/8C/8 C/4 B,/4 | A,/2- A,/8 \
+z3/8 | z/8 C/8C/8C/8 C/4 A,/4 | B,/8 A,/2 \
+z3/8 | z/8 C/8C/8^C/8 D/4 D/4 | C/2- C/8 | \
+z3/8 | z/8 C/8C/8C/8 C/4 A,/4 | B,/8 A,/2 \
+z3/8 | z/8 C/8C/8C/8 C/4 B,/4 | A,/2- A,/8 |]
+V:4 clef=bass stem=down
+x3/8| x/8F,/8F,/8F,/8 D,/4 C,/4 | F,/8 F,/2 \
+x3/8| x/8F,/8F,/8E,/8 D,/4 G,/4 | C,/2- C,/8 \
+x3/8| x/8F,/8F,/8F,/8 A,,/4 C,/4 | F,/8 F,/2 \
+x3/8| x/8F,/8F,/8F,/8 C,/4 C,/4 | F,/2- F,/8 \
+x3/8| x/8F,/8F,/8F,/8 F,/4 F,/4 | F,/8 F,/2 \
+x3/8| x/8F,/8F,/8E,/8 D,/4 G,/4 | C,/2- C,/8 | \
+x3/8| x/8F,/8F,/8F,/8 F,/4 F,/4 | F,/8 F,/2 \
+x3/8| x/8F,/8F,/8F,/8 C,/4 C,/4 | F,/2- F,/8 |]
+

@@ -1,0 +1,74 @@
+X:1
+T:ARMAGEDDON
+C:C. Luise Reichardt (1779–1826)
+Z:Arrangement:John Goss, 1871
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-04 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Broadman Hymnal (Nashville, Tennessee: Broadman Press, 1940), # 63. Also in Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1975), # 460.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=140
+K:C
+V:1 clef=treble stem=up
+[M:4/4] G/4 G/4 e/4 d/4 | c/2 G/2 | \
+w:A1 A2 A3 A4 A5 A6
+A/4 A/4 c/4 c/4 | G | \
+w:B1 B2 B3 B4 B5
+^G/4 G/4 A/4 c/4 | e/2 d/2 | \
+w:C1 C2 C3 C4 C5 C6
+c/4 A/4 G/4 ^F/4 | G | \
+w:D1 D2 D3 D4 D5
+G/4 G/4 A/4 E/4 | G/2 F/2 | \
+w:E1 E2 E3 E4 E5 E6
+B/4 G/4 c/4 E/4 | D | \
+w:F1 F2 F3 F4 F5
+E/4 C/4 F/4 D/4 | G/4 E/4 A/4 F/4 | E/2 D/2 | C | \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11
+c/4 G/4 E/4 C/4 | A/2 G/2 | \
+w:H1 H2 H3 H4 H5 H6
+C/4 D/4 E/4 F/4 | G | \
+w:I1 I2 I3 I4 I5
+c3/8 c/8 c/4 c/4 | e/2 c/2 | \
+w:J1 J2 J3 J4 J5 J6
+G/4 c/4 d3/8 c/8 | c |]
+w:K1 K2 K3 K4 K5
+V:2 clef=treble stem=down
+E/4 E/4 G/4 G/4 | G/2 E/2 | \
+F/4 F/4 F/4 F/4 | E | \
+E/4 E/4 E/4 E/4 | E/2 ^G/2 | \
+A/4 E/4 D/4 D/4 | D | \
+E/4 E/4 ^C/4 C/4 | E/2 D/2 | \
+F/4 F/4 E/4 C/4 | B, | \
+C/4 x/4B,/4 B,/4 | C/4 C/4 C/4 C/4 | C/2 B,/2 | C | \
+C/4 G/4 E/4 C/4 | F/2 E/2 | \
+C/4 D/4 E/4 F/4 | G | \
+E3/8 E/8 A/4 A/4 | G/2 G/2 | \
+E/4 E/4 F3/8 F/8 | E |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] C/4 C/4 C/4 B,/4 | C/2 C/2 | \
+C/4 C/4 C/4 C/4 | C | \
+D/4 D/4 C/4 C/4 | B,/2 E/2 | \
+E/4 C/4 B,/4 A,/4 | B, | \
+G,/4 G,/4 G,/4 G,/4 | G,/2 G,/2 | \
+D/4 D/4 C/4 C/4 | G, | \
+G,/4 G,/4 G,/4 G,/4 | G,/4 G,/4 A,/4 C/4 | G,/2 (G,/4 F,/4) | E, | \
+C/4 G,/4 E,/4 C,/4 | C/2 C/2 | \
+C,/4 D,/4 E,/4 F,/4 | G, | \
+C3/8 C/8 C/4 C/4 | C/2 C/2 | \
+C/4 C/4 B,3/8 G,/8 | G, |]
+V:4 clef=bass stem=down
+C,/4 C,/4 C/4 G,/4 | E,/2 C,/2 | \
+F,/4 F,/4 A,/4 A,/4 | C | \
+B,/4 B,/4 A,/4 A,/4 | ^G,/2 E,/2 | \
+A,/4 C,/4 D,/4 D,/4 | G,, | \
+G,/4 G,/4 G,/4 G,/4 | (G,/4 A,/4) (G,/4 C/4) | \
+G,/4 G,/4 G,/4 G,/4 | (G,/4 F,/4 E,/4 D,/4) | \
+C,/4 E,/4 D,/4 F,/4 | E,/4 G,/4 F,/4 A,/4 | G,/2 G,,/2 | C, | \
+C,/4 G,/4 E,/4 C,/4 | F,/2 C,/2 | \
+C,/4 D,/4 E,/4 F,/4 | G, | \
+A,3/8 A,/8 F,/4 F,/4 | x/2(E,/4 F,/4) | \
+G,/4 G,/4 G,,3/8 G,,/8 | C, |]
+

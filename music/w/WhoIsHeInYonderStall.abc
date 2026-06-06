@@ -1,0 +1,59 @@
+X:1
+T:Who Is He in Yonder Stall?
+C:Benjamin Russell Hanby, 1866
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-04 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Hymns for the Living Church, edited by Donald P. Hustad (Carol Stream, Illinois: Hope Publishing, 1974), # 127.
+Z:Corrections:f7
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=105
+K:Ab
+V:1 clef=treble stem=up
+[M:3/4] E/8 E/8 | E3/8 E/8 E/8 E/8 | F/2 \
+w:A1 A2 A3 A4 A5 A6 A7
+F/8 F/8 | E3/8 E/8 A/8 A/8 | B/2 \
+w:B1 B2 B3 B4 B5 B6 B7
+E/8 E/8 | E3/8 E/8 E/8 E/8 | F/2 \
+w:C1 C2 C3 C4 C5 C6 C7
+F/8 F/8 | E3/8 E/8 A/8 A/8 | B/2 || \
+w:D1 D2 D3 D4 D5 D6 D7
+A/8 B/8 | c3/8 c/8 d/8 c/8 | c/4 B/4 \
+w:E1 E2 E3 E4 E5 E6 E7 E8
+G/8 A/8 | B3/8 B/8 c/8 B/8 | B/4 A/4 \
+w:F1 F2 F3 F4 F5 F6 F7 F8
+A/8 A/8 | A3/8 A/8 A/8 E/8 | F/2 \
+w:G1 G2 G3 G4 G5 G6 G7
+A/8 B/8 | c3/8 c/8 B/8 B/8 | A/2 |]
+w:H1 H2 H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+C/8 C/8 | C3/8 C/8 E/8 C/8 | D/2 \
+D/8 D/8 | C3/8 C/8 =D/8 D/8 | E/2 \
+C/8 C/8 | C3/8 C/8 E/8 C/8 | D/2 \
+D/8 D/8 | C3/8 C/8 =D/8 D/8 | (E/4 D/4) || \
+C/8 E/8 | E3/8 E/8 F/8 E/8 | E/4 E/4 \
+E/8 E/8 | E3/8 E/8 E/8 E/8 | D/4 C/4 \
+C/8 C/8 | E3/8 C/8 E/8 E/8 | D/2 \
+F/8 F/8 | E3/8 E/8 E/8 D/8 | C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] A,/8 A,/8 | A,3/8 A,/8 A,/8 A,/8 | A,/2 \
+A,/8 A,/8 | A,3/8 A,/8 A,/8 A,/8 | G,/2 \
+A,/8 A,/8 | A,3/8 A,/8 A,/8 A,/8 | A,/2 \
+A,/8 A,/8 | A,3/8 A,/8 A,/8 A,/8 | (A,/4 G,/4) || \
+A,/8 G,/8 | A,3/8 A,/8 A,/8 A,/8 | A,/4 G,/4 \
+B,/8 A,/8 | G,3/8 G,/8 F,/8 G,/8 | A,/4 A,/4 \
+E,/8 E,/8 | A,3/8 A,/8 A,/8 A,/8 | A,/2 \
+A,/8 A,/8 | A,3/8 A,/8 A,/8 G,/8 | A,/2 |]
+V:4 clef=bass stem=down
+A,,/8 A,,/8 | A,,3/8 A,,/8 C,/8 A,,/8 | D,/2 \
+D,/8 D,/8 | E,3/8 E,/8 F,/8 F,/8 | E,/2 \
+A,,/8 A,,/8 | A,,3/8 A,,/8 C,/8 A,,/8 | D,/2 \
+D,/8 D,/8 | E,3/8 E,/8 F,/8 F,/8 | E,/2 || \
+F,/8 E,/8 | A,3/8 A,,/8 A,,/8 A,,/8 | E,/4 E,/4 \
+E,/8 E,/8 | E,3/8 E,/8 E,/8 E,/8 | A,,/4 A,,/4 \
+A,,/8 A,,/8 | C,3/8 A,,/8 C,/8 C,/8 | D,/2 \
+D,/8 D,/8 | E,3/8 E,/8 E,/8 E,/8 | A,,/2 |]
+

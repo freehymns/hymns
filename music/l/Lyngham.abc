@@ -1,0 +1,55 @@
+X:1
+T:LYNGHAM
+C:Thomas Jarman (1776-1861)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-05 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm)
+Z:Corrections:B6
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:2/2
+Q:1/4=130
+K:G
+V:1 clef=treble stem=up
+[M:2/2] G/2 B3/8 c/8 | (d3/16e/16d/8c/8 B/4) c/4 | (B/4 G/4) (A/4 F/4) | G3/4 \
+w:A1 A2 A3 A4____ A5 A6_ A7_ A8
+B/4 | c/4 B/4 A/4 G/4 | A3/4 A/4 | (B3/16A/16B/8c/8 d/4) e/4 | d/2 ^c/2 | d | \
+w:B1 B2 B3 B4 B5 B6 B7 B8____ B9 B10 B11 B12
+d/2 d/4 d/4 | (B3/8 A/8 G/4) B/4 | (c/4 B/4 A/4) G/4 | A3/4 \
+w:C1 C2 C3 C4__ C5 C6__ C7 C8
+z/4 | z3/4 G/4 | c/4 c/4 c/4 c/4 | B3/4 \
+w:D1 D2 D3 D4 D5 D6
+B/4 | A/4 A/4 A/8B/8 c3/16A/16 | d3/4 \
+w:E1 E2 E3 E4_ E5_ E6
+d/4 | (e/4 d/4 c/4) B/4 | A3/4 A/4 | G |]
+w:F1 F2__ F3 F4 F5 F6
+V:2 clef=treble stem=down
+D/2 D3/8 D/8 | D3/4 E/4 | D/2 D/2| D3/4 \
+G/4 | F/4 G/4 A/4E/4 | F3/4 F/4 | G3/4 G/4 | F/2 E/2 | F | \
+G/2 G/4 G/4 | G3/4 G/4 | (F/4 G/4 A/4) E/4 | F3/4 \
+x/4| x3/4 x/4| E/4 E/4 E/4 E/4 | D3/4 \
+D/4 | D/4 F/4 F/8G/8 A3/16F/16 | (G/4 F/4 G/4) \
+G/4 | G/2 F/4 G/4 | G/2 F/2| D |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:2/2] B,/2 G,3/8 A,/8 | (B,3/16C/16B,/8A,/8 G,/4) G,/4 | (G,/4 B,/4) (C/4 A,/4) | B,3/4 \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13 a14
+D/4 | D/4 D/4 D/4 ^C/4 | D3/4 D/4 | (D3/8 C/8 B,/4) B,/4 | A,/2 A,/2 | A, | \
+w:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12 b13 b14
+B,/2 B,/4 B,/4 | (D3/8 C/8 B,/4) D/4 | D3/4 ^C/4 | D3/4 \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10
+D/4 | G,/4 A,/4 B,/4 G,/4 | G,3/4 G,/4 | G,/4 D/4 B,/4 \
+w:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10
+G,/4 | (F,/4 A,/4 D/4) C/4 | B,/4 A,/4 B,/4 \
+w:e1 e2__ e3 e4 e5 e6
+B,/4 | C/4 D/4 D/4 D/4 | D3/4 C/4 | B, |]
+w:f1 f2 f3 f4 f5 f6 f7 f8
+V:4 clef=bass stem=down
+G,/2 G,3/8 G,/8 | G,3/4 C,/4 | D,/2 D,/2 | G,3/4 \
+G,/4 | A,/4 G,/4 F,/4 E,/4 | D,3/4 D,/4 | G,3/4 E,/4 | A,/2A,,/2 | D, | \
+G,/2 G,/4 G,/4 | G,3/4 G,/4 | (A,/4 G,/4 F,/4) E,/4 | D,3/4 \
+D,/4 | G,/4 A,/4 B,/4 G,/4 | C,3/4 C,/4 | G,/4 G,/4 G,/4 \
+x/4| D,3/4 D,/4 | G,/4 A,/4 G,/4 \
+G,/4 | x/4B,/4 A,/4 G,/4 | D,3/4 D,/4 | G,, |]
+

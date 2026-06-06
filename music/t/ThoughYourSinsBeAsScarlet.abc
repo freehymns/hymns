@@ -1,0 +1,32 @@
+X:1
+T:Though Your Sins Be as Scarlet
+C:William Howard Doane (1832–1915)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-04 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Pentecostal Hymns Nos. 1 and 2 Combined, by Henry Date (Chicago, Illinois: Hope Publishing, 1894), # 427.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=95
+K:Ab
+V:1 clef=treble stem=up
+[M:3/4] E3/16 E/16 | E/2 ((3C/8D/8) E/8 | F/4 E/4 E3/16 A/16 | G3/16 A/16 G/4 F/4 | E/2 E3/16 E/16 | E/2 ((3C/8D/8) E/8 | F/4 E/4 E3/16 A/16 | G3/16 A/16 G/4 B/4 | A/2 (3E/8 F/8 E/8 | B/2- (3B/8c/8 B/8 | A/4 A/4 A/8 B/8 | c/2 C/4 | F/2 E3/16 E/16 | E/2 (3(C/8D/8) E/8 | F/4 E/4 c3/16 c/16 | c/2 (3(A/8B/8) c/8 | d/4 c/4 B/8 A/8 | A3/8 G/8 A3/16 F/16 | E/2 E/8 E/8 | E3/8 E/8 E3/16 E/16 | E/2 |]
+w:A1 A2 A3 A4_ A5 A6 A7
++:B1 B2 B3 B4 B5 B6 B7
++:C1 C2 C3 C4_ C5 C6 C7
++:D1 D2 D3 D4 D5 D6 D7
++:E1 E2 E3 E4__ E5 E6 E7
++:F1 F2 F3 F4 F5
++:G1 G2 G3 G4_ G5 G6 G7
++:H1 H2 H3 H4_ H5 H6 H7
++:I1 I2 I3 I4 I5 I6 I7
++:J1 J2 J3 J4 J5 J6 J7
+V:2 clef=treble stem=down
+ x3/16 x/16| x/2 x/4| x/4 x/4 x3/16 x/16| x3/16 x/16 x/4 x/4| x/2 x3/16 x/16| x/2 x/4| x/4 x/4 x3/16 x/16| x3/16 x/16 x/4 x/4| x/2(3D/8 D/8 D/8 | D/2- (3D/8E/8 D/8 | C/4 C/4 A/8 B/8 | c/2 C/4 | C/2 x3/16 x/16| x/2 x/4| x/4 x/4E3/16 E/16 | E/2 (3(C/8D/8) E/8 | F/4 E/4 E/8 E/8 | F3/8 =E/8 F3/16 D/16 | C/2 C/8 C/8 | B,3/8 C/8 D3/16 B,/16 | C/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] C3/16 C/16 | C/2 ((3A,/8B,/8) C/8 | D/4 C/4 C3/16 C/16 | B,3/16 C/16 B,/4 D/4 | C/2 C3/16 C/16 | C/2 (3(A,/8B,/8) C/8 | D/4 C/4 C3/16 C/16 | B,3/16 C/16 B,/4 D/4 | C/2 (3G,/8 A,/8 G,/8 | G,/2- (3:2:2G,/4 F,/8 | A,/4 A,/4 A,/8 B,/8 | C/2 B,/4 | A,/2 D3/16 D/16 | C/2 (3(A,/8B,/8) C/8 | D/4 C/4 A,3/16 A,/16 | A,/2 (3:2:2A,/4 A,/8 | A,/4 A,/4 A,/8 A,/8 | A,3/8 A,/8 A,3/16 A,/16 | A,/2 A,/8 A,/8 | G,3/8 A,/8 B,3/16 G,/16 | A,/2 |]
+V:4 clef=bass stem=down
+A,3/16 A,/16 | A,/2 (3:2:2A,/4 A,/8 | A,/4 A,/4 A,,3/16 A,,/16 | E,3/16 E,/16 E,/4 E,/4 | A,/2 A,3/16 A,/16 | A,/2 (3:2:2A,/4 A,/8 | A,/4 A,/4 A,,3/16 A,,/16 | E,3/16 E,/16 E,/4 E,/4 | A,,/2 (3E,/8 E,/8 E,/8 | E,/4 (3E,/8E,/8E,/8 (3:2:2E,/4 D,/8 | A,,/4 A,,/4 A,,/8 B,,/8 | C,/2 C,/4 | F,/2 G,3/16 G,/16 | A,/2 (3:2:2A,/4 A,/8 | A,/4 A,/4 A,,3/16 A,,/16 | A,,/2 (3:2:2A,,/4 A,,/8 | A,,/4 A,,/4 C,/8 C,/8 | D,3/8 D,/8 D,3/16 D,/16 | A,,/2 A,,/8 A,,/8 | E,3/8 E,/8 E,3/16 E,/16 | A,,/2 |]
+

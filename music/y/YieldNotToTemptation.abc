@@ -1,0 +1,78 @@
+X:1
+T:Yield Not to Temptation
+C:Horatio Richmond Palmer, 1868
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-05 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from Favorite Hymns of Praise (Chicago, Illinois: Tabernacle Publishing Company, 1971), # 333.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:6/8
+Q:1/4=115
+K:Bb
+V:1 clef=treble stem=up
+[M:6/8] d3/8 d/8 e/8 d/8 | c3/8 c3/8 | \
+w:A1 A2 A3 A4 A5 A6
+B3/8 B/8 c/8 B/8 | A3/4 | \
+w:B1 B2 B3 B4 B5
+G3/8 G/8 A/8 B/8 | F3/8 B3/8 | \
+w:C1 C2 C3 C4 C5 C6
+c3/8 c/8 B/8 c/8 | d3/4 | \
+w:D1 D2 D3 D4 D5
+d3/8 d/8 e/8 d/8 | c3/8 c3/8 | \
+w:E1 E2 E3 E4 E5 E6
+B3/8 B/8 c/8 B/8 | A3/4 | \
+w:F1 F2 F3 F4 F5
+G3/8 G/8 A/8 B/8 | F3/8 B3/8 | \
+w:G1 G2 G3 G4 G5 G6
+d3/8 c/8 B/8 c/8 | B3/4 || \
+w:H1 H2 H3 H4 H5
+F/4 F/8 F/8 G/8 F/8 | F3/8 B3/8 | \
+w:I1 I2 I3 I4 I5 I6 I7
+c/4 c/8 c/8 B/8 c/8 | d3/8 B3/8 | \
+w:J1 J2 J3 J4 J5 J6 J7
+B/4 B/8 B/8 A/8 G/8 | F3/8 B3/8 | \
+w:K1 K2 K3 K4 K5 K6 K7
+d/4 d/8 c/8 B/8 c/8 | B3/4 |]
+w:L1 L2 L3 L4 L5 L6
+V:2 clef=treble stem=down
+F3/8 F/8 G/8 F/8 | F3/8 E3/8 | \
+G3/8 G/8 A/8 G/8 | _G3/4 | \
+E3/8 E/8 F/8 G/8 | D3/8 D3/8 | \
+A3/8 A/8 G/8 A/8 | B3/4 | \
+B3/8 B/8 c/8 B/8 | A3/8 A3/8 | \
+G3/8 G/8 A/8 G/8 | _G3/4 | \
+E3/8 E/8 F/8 G/8 | D3/8 D3/8 | \
+F3/8 E/8 D/8 E/8 | D3/4 || \
+D/4 D/8 D/8 E/8 D/8 | D3/8 D3/8 | \
+F/4 F/8 F/8 F/8 F/8 | F3/8 F3/8 | \
+G/4 G/8 G/8 F/8 E/8 | D3/8 F3/8 | \
+F/4 F/8 E/8 D/8 E/8 | D3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:6/8] B,3/4 | F,3/4 | \
+G,3/4 | D,3/4 | \
+E,3/4 | B,,3/4 | \
+F,3/4 | F,3/4 | \
+B,3/4 | F,3/4 | \
+G,3/4 | D,3/4 | \
+E,3/4 | B,,3/4 | \
+F,3/4 | F,3/4 || \
+B,/4 B,/8 B,/8 B,/8 B,/8 | B,3/8 F,3/8 | \
+A,/4 A,/8 A,/8 G,/8 A,/8 | B,3/8 D3/8 | \
+E/4 E/8 E/8 E/8 B,/8 | B,3/8 D3/8 | \
+B,/4 B,/8 A,/8 G,/8 A,/8 | F,3/4 |]
+V:4 clef=bass stem=down
+x3/8 B,,3/8 | x3/8F,,3/8 | \
+x3/8G,,3/8 | x3/8 D,,3/8 | \
+x3/8E,,3/8 | x3/8B,3/8 | \
+x3/8F,,3/8 | B,,3/4 | \
+x3/8B,,3/8 | x3/8F,,3/8 | \
+x3/8G,,3/8 | x3/8D,,3/8 | \
+x3/8E,,3/8 | x3/8B,3/8 | \
+x3/8F,,3/8 | B,,3/4 || \
+B,,/4 B,,/8 B,,/8 B,,/8 B,,/8 | B,,3/8 B,,3/8 | \
+F,/4 F,/8 F,/8 F,/8 F,/8 | B,3/8 B,,3/8 | \
+E,/4 E,/8 E,/8 E,/8 E,/8 | B,,3/8 B,,3/8 | \
+F,/4 F,/8 F,/8 F,/8 F,/8 | B,,3/4 |]
+

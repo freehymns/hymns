@@ -1,0 +1,30 @@
+X:1
+T:BLACKLANDS
+C:Ray Steadman-Allen (1922–2014)
+Z:Transcription:Converted on 2026-06-05 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:, from The Tune Book of the Salvation Army (London: Salvationist Publishing & Supplies, 1987), # 591.
+N:This is the tune that the Cyber Hymnal (tm) uses for "He Giveth More Grace", as the tune that is normally sung to is still under copyright.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:3/4
+Q:1/4=112
+K:C
+V:1 clef=treble stem=up
+[M:3/4] (G/8F/8) | E/4 E/4 (E/8D/8) | C/4 C/4 (c/8B/8) | A/4 c/4 A/4 | A/4 G/4 (G/8F/8) | E/4 E/4 (E/8D/8) | C/4 E/4 G/4 | A/4 D/4 E/4 | D/2 (E/8F/8) | G/4 G/4 (E/8G/8) | A/4 A/4 (^G/8A/8) | B/4 B/4 (A/8B/8) | d/4 c/4 (B/8A/8) | G/4 c/4 e/4 | d/4 A/4 c/4 | B/4 c/4 d/4 | c/2 |]
+w:A1_ A2 A3 A4_ A5 A6 A7_ A8 A9 A10 A11 A12
++:B1_ B2 B3 B4_ B5 B6 B7 B8 B9 B10 B11
++:C1_ C2 C3 C4_ C5 C6 C7_ C8 C9 C10_ C11 C12
++:D1_ D2 D3 D4 D5 D6 D7 D8 D9 D10 D11
+V:2 clef=treble stem=down
+B,/4 | C/4 C/4 B,/4 | x/4 x/4C/4 | C/4 C/4 F/4 | F/4 E/4 D/4 | C/4 C/4 B,/4 | x/4C/4 D/4 | C/4 C/4 C/4 | B,/2 (C/8D/8) | E/4 E/4 x/8D/8 | C/4 C/4 E/4 | E/4 E/4 E/4 | E/4 E/4 ^D/4 | E/4 E/4 G/4 | ^F/4 F/4 F/4 | F/4 F/4 F/4 | E/2 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:3/4] G,/4 | G,/4 G,/4 F,/4 | E,/4 E,/4 G,/4 | A,/4 A,/4 C/4 | C/4 C/4 G,/4 | G,/4 G,/4 (G,/8F,/8) | G,/4 G,/4 G,/4 | E,/4 ^F,/4 F,/4 | G,/2 G,/4 | C/4 G,/4 (C/8G,/8) | E,/4 E,/4 (E,/8^F,/8) | ^G,/4 G,/4 (^F,/8G,/8) | B,/4 C/4 C/4 | C/4 C/4 C/4 | C/4 C/4 C/4 | D/4 A,/4 B,/4 | C/2 |]
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12
++:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11
++:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 c12
++:d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11
+V:4 clef=bass stem=down
+G,,/4 | C,/4 C,/4 G,,/4 | A,,/4 A,,/4 E,/4 | F,/4 F,/4 F,/4 | C,/4 C,/4 B,,/4 | B,,/4 B,,/4 G,/4 | E,/4 C,/4 C,/4 | A,,/4 A,,/4 D,/4 | G,,/2 C,/4 | C,/4 (C,/8D,/8) (C,/8C,/8) | A,,/4 A,,/4 E,/4 | E,/4 E,/4 E,/4 | ^G,/4 (A,/8=G,/8) ^F,/4 | G,3/8 A,/8 _B,/4 | A,/4 A,/4 (E,/8D,/8) | G,/4 G,/4 G,/4 | C,/2 |]
+

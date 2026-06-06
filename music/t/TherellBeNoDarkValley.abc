@@ -1,0 +1,66 @@
+X:1
+T:There'll Be No Dark Valley
+C:Ira David Sankey (1840–1908)
+Z:Terms:Public Domain
+Z:Transcription:Converted on 2026-06-03 using nwctxt2abc from https://github.com/freehymns/translator
+Z:Sources:The Cyber Hymnal(tm), from The Gospel Hymn Book, edited by Daniel B. Towner (Dayton, Ohio: Lorenz Publishing Company, 1903), # 39. Also in Tabernacle Hymns Number Three (Chicago, Illinois: Tabernacle Publishing Company, 1950), # 242.
+I:score (1 2) (3 4)
+I:voicecombine 1
+L:1/1
+M:4/4
+Q:1/4=110
+K:F
+V:1 clef=treble stem=up
+[M:4/4] F3/16 G/16 | A/4 C/4 C/8 C/4 C/8 | D/4 F/4 F/4 \
+w:A1 A2 A3 A4 A5 A6 A7 A8 A9 A10
+F3/16 G/16 | A/4 c/4 d/8 c/4 A/8 | A/4 G/4 G/4 \
+w:B1 B2 B3 B4 B5 B6 B7 B8 B9 B10
+F3/16 G/16 | A/4 C/4 C/8 C/4 C/8 | D/4 F/4 F/4 \
+w:C1 C2 C3 C4 C5 C6 C7 C8 C9 C10
+G/4 | A/8 c/4 F/8 A/4 G/4 | F3/4 || \
+w:D1 D2 D3 D4 D5 D6 D7
+A/4 | c/8 c/4 c/8 (d/8c/8) A/4 | c3/4 \
+w:E1 E2 E3 E4 E5_ E6 E7
+(A3/16B/16) | c/8 c/4 f/8 e/4 d/4 | c3/4 \
+w:F1_ F2 F3 F4 F5 F6 F7
+c3/16 d/16 | c/4 F/4 A/8 A/4 C/8 | D/4 F/4 F/4 \
+w:G1 G2 G3 G4 G5 G6 G7 G8 G9 G10
+G/4 | A/8 c/4 F/8 A/4 G/4 | F3/4 |]
+w:H1 H2 H3 H4 H5 H6 H7
+V:2 clef=treble stem=down
+F3/16 F/16 | F/4 C/4 A,/8 A,/4 A,/8 | B,/4 D/4 C/4 \
+C3/16 C/16 | F/4 A/4 B/8 A/4 F/8 | F/4 E/4 E/4 \
+F3/16 F/16 | F/4 C/4 A,/8 A,/4 A,/8 | B,/4 D/4 C/4 \
+E/4 | F/8 A/4 F/8 F/4 E/4 | F3/4 || \
+F/4 | F/8 F/4 F/8 F/4 F/4 | F/4 E/4 F/4 \
+F/4 | F/8 F/4 A/8 G/4 F/4 | E/4 G/4 F/4 \
+E3/16 E/16 | F/4 C/4 C/8 C/4 A,/8 | B,/4 D/4 C/4 \
+E/4 | F/8 A/4 F/8 F/4 E/4 | F3/4 |]
+V:3 clef=bass stem=up
+I:pos vocal above
+[M:4/4] A,3/16 B,/16 | C/4 A,/4 F,/8 F,/4 F,/8 | F,/4 F,/4 A,/4 \
+w:a1 a2 a3 a4 a5 a6 a7 a8 a9 a10
+A,3/16 B,/16 | C/4 F/4 F/8 F/4 C/8 | C/4 C/4 C/4 \
+w:b1 b2 b3 b4 b5 b6 b7 b8 b9 b10
+A,3/16 B,/16 | C/4 A,/4 F,/8 F,/4 F,/8 | F,/4 F,/4 F,/4 \
+w:c1 c2 c3 c4 c5 c6 c7 c8 c9 c10
+C/4 | C/8 F/4 A,/8 C/4 B,/4 | A,3/4 || \
+w:d1 d2 d3 d4 d5 d6 d7
+C/4 | A,/8 A,/4 A,/8 (B,/8A,/8) C/4 | A,/4 B,/4 C/4 \
+w:e1 e2 e3 e4 e5 e6 e7 e8 e9 e10
+(F,3/16G,/16) | A,/8 A,/4 C/8 C/4 =B,/4 | C/4 B,/4 A,/4 \
+w:f1 f2 f3 f4 f5 f6 f7 f8 f9 f10
+G,3/16 B,/16 | A,/4 A,/4 F,/8 F,/4 F,/8 | F,/4 F,/4 F,/4 \
+w:g1 g2 g3 g4 g5 g6 g7 g8 g9 g10
+C/4 | C/8 F/4 A,/8 C/4 B,/4 | A,3/4 |]
+w:h1 h2 h3 h4 h5 h6 h7
+V:4 clef=bass stem=down
+F,3/16 F,/16 | F,/4 F,/4 F,/8 F,/4 F,/8 | B,,/4 B,,/4 F,/4 \
+F,3/16 F,/16 | F,/4 F,/4 F,/8 F,/4 F,/8 | C,/4 C,/4 C,/4 \
+F,3/16 F,/16 | F,/4 F,/4 F,/8 F,/4 F,/8 | B,,/4 B,,/4 A,,/4 \
+C,/4 | F,/8 F,/4 F,/8 C,/4 C,/4 | F,3/4 || \
+F,/4 | F,/8 F,/4 F,/8 F,/4 F,/4 | F,/4 G,/4 A,/4 \
+F,/4 | F,/8 F,/4 F,/8 G,/4 G,/4 | C,3/4 \
+C,3/16 C,/16 | F,/4 F,/4 F,/8 F,/4 F,/8 | B,,/4 B,,/4 A,,/4 \
+C,/4 | F,/8 F,/4 F,/8 C,/4 C,/4 | F,3/4 |]
+

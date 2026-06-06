@@ -1,0 +1,39 @@
+X:1
+T:CAMP MEETING
+C:Unknown
+Z:American Camp Meeting Tune
+Z:Variant:Campmeeting2
+I:score (1 2) (3 4)
+Z:Source:https://hymnary.org/hymn/SSSH1989/151
+L:1/4
+M:3/2
+Q:140
+K:G
+V:1
+[GD]2 | [FD] [FA] [FA]2 [FA]2 | G [GB] [GB]2 \
+w:A1 A2 A3 A4 A5 A6 A7 A8
+[GB]2 | [FA] [GB] [Gc]2 [Ge]2 | [G-d-]2 [Gd]2 | \
+w:B1 B2 B3 B4 B5 B6_
+(B d) | [dB] [cA] [cA]2 (A c) | [cA] [GB] [GB]2 \
+w:C1_ C2 C3 C4 C5_ C6 C7 C8
+(G B) | [EB] [EA] [Ec]2 (F A) | [G-D-]2 [GD]2 |]
+w:D1_ D2 D3 D4 D5_ D6_
+V:2
+x2 | x6 | x6 | \
+x6 | x4 | \
+(G B) | x4 (F A) | x4 \
+(D G) | x4 D2 | x4 |]
+V:3
+[G,B,]2 | [D,A,] [D,C] [D,C]2 [D,C]2 | [G,B,] [G,D] [G,D]2 \
+w:a1 a2 a3 a4 a5 a6 a7 a8
+[G,D]2 | [DD,] [G,D] [E,C]2 [CC,]2 | [G,-B,-]2 [G,B,]2 | \
+w:b1 b2 b3 b4 b5 b6 b7
+[G,D]2 | [DD,] [DD,] [DD,]2 [DD,]2 | [G,D] [G,D] [G,D]2 \
+w:c1 c2 c3 c4 c5 c6 c7 c8
+(B, D) | [CC,] [CC,] [C,A,]2 [D,C]2 | [G,-B,-]2 [G,B,]2 |]
+w:d1 d2 d3 d4 d5 d6 d7 d8
+V:4
+x2 | x6 | x6 | \
+x6 | x4 | \
+x2 | x6 | x4 \
+G,2 | x6 | x4 |]
